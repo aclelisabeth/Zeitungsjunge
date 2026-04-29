@@ -1,6 +1,0 @@
-# GitHub Pages Configuration
-# Deploy from /docs folder with no Jekyll processing
-
-theme: null
-plugins: []
-exclude: [node_modules, output]
