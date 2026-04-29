@@ -6,7 +6,7 @@ import { SOURCES, TIME_RANGES, TOP_HEADLINES } from './config.js';
 import { fetchAllRSS, scrapWebsite } from './fetcher.js';
 import { rankArticles, getTopArticles } from './ranker.js';
 import { filterByDateRange, deduplicateArticles, filterQuality } from './filter.js';
-import { generateMarkdown, generateHTML } from './output.js';
+import { generateMarkdown, generateHTML } from './output-v2.js';
 
 /**
  * Parse command line arguments
