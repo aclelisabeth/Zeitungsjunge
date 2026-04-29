@@ -1,0 +1,123 @@
+{
+  "sources": [
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "type": "rss",
+      "url": "https://techcrunch.com/feed/",
+      "credibility_weight": 0.95,
+      "region": "global",
+      "enabled": true,
+      "category": "tech"
+    },
+    {
+      "id": "etailment",
+      "name": "etailment.de",
+      "type": "rss",
+      "url": "https://etailment.de/news/feed/",
+      "credibility_weight": 0.85,
+      "region": "de",
+      "enabled": true,
+      "category": "ecommerce"
+    },
+    {
+      "id": "theverge",
+      "name": "The Verge",
+      "type": "rss",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "credibility_weight": 0.90,
+      "region": "us",
+      "enabled": true,
+      "category": "tech"
+    },
+    {
+      "id": "arstechnica",
+      "name": "ArsTechnica",
+      "type": "rss",
+      "url": "https://arstechnica.com/feed/",
+      "credibility_weight": 0.90,
+      "region": "us",
+      "enabled": true,
+      "category": "tech"
+    },
+    {
+      "id": "cnbctech",
+      "name": "CNBC Tech",
+      "type": "rss",
+      "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "credibility_weight": 0.88,
+      "region": "us",
+      "enabled": true,
+      "category": "tech"
+    },
+    {
+      "id": "wired",
+      "name": "Wired",
+      "type": "rss",
+      "url": "https://www.wired.com/feed/rss",
+      "credibility_weight": 0.88,
+      "region": "us",
+      "enabled": true,
+      "category": "tech"
+    },
+    {
+      "id": "mashable",
+      "name": "Mashable Tech",
+      "type": "rss",
+      "url": "https://feeds.mashable.com/mashable",
+      "credibility_weight": 0.85,
+      "region": "us",
+      "enabled": true,
+      "category": "tech"
+    },
+    {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "type": "api",
+      "url": "https://hacker-news.firebaseio.com/v0/",
+      "credibility_weight": 0.90,
+      "region": "us",
+      "enabled": true,
+      "category": "tech",
+      "api_config": {
+        "endpoint": "topstories",
+        "items_per_fetch": 30,
+        "item_endpoint": "/item/{id}.json"
+      }
+    }
+  ],
+  "cache": {
+    "enabled": true,
+    "ttl_hours": 6,
+    "storage": "file",
+    "cache_dir": "./cache"
+  },
+  "deduplication": {
+    "enabled": true,
+    "similarity_threshold": 0.75,
+    "method": "difflib"
+  },
+  "ranking": {
+    "top_articles": 15,
+    "weights": {
+      "frequency": 0.4,
+      "recency": 0.3,
+      "credibility": 0.3
+    }
+  },
+  "regional_filtering": {
+    "enabled": true,
+    "supported_regions": [
+      "us",
+      "de",
+      "eu",
+      "global"
+    ],
+    "default_region": "global"
+  },
+  "output": {
+    "dir": "./Extrablatt",
+    "format": "markdown",
+    "include_metadata": true
+  }
+}
