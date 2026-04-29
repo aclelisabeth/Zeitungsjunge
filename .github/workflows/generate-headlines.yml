@@ -1,0 +1,54 @@
+name: 📰 Generate Headlines
+
+on:
+  schedule:
+    # Run daily at 8:00 AM UTC
+    - cron: '0 8 * * *'
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      - name: 📦 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 📚 Install dependencies
+        run: npm install
+
+      - name: 🔄 Generate headlines (All ranges)
+        run: |
+          npm run scrape:today
+          npm run scrape:week
+          npm run scrape:month
+          npm run scrape:all
+
+      - name: 📁 Copy to docs (GitHub Pages)
+        run: |
+          mkdir -p docs
+          cp output/latest-today.html docs/today.html 2>/dev/null || true
+          cp output/latest-week.html docs/week.html 2>/dev/null || true
+          cp output/latest-month.html docs/month.html 2>/dev/null || true
+          cp output/latest-quarter.html docs/quarter.html 2>/dev/null || true
+          cp output/latest-week.html docs/index.html
+
+      - name: 🚀 Commit & push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/ output/
+          git commit -m "🤖 Auto-generate headlines" || echo "No changes to commit"
+          git push
+
+      - name: ✅ Done!
+        run: echo "Headlines updated successfully!"

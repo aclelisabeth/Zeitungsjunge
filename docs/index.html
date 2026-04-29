@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zeitungsjunge - Schlagzeilen Dashboard</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --primary: #00d4ff;
+      --secondary: #ff006e;
+      --dark: #0a0e27;
+      --darker: #050811;
+      --light: #f0f9ff;
+      --text: #e0e8ff;
+      --border: #1e2749;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background: linear-gradient(135deg, var(--darker) 0%, #1a1e35 100%);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    header {
+      background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(255, 0, 110, 0.1) 100%);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 60px 40px;
+      margin-bottom: 50px;
+      text-align: center;
+      backdrop-filter: blur(10px);
+    }
+
+    h1 {
+      font-size: 3em;
+      margin-bottom: 15px;
+      background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .subtitle {
+      font-size: 1.2em;
+      color: var(--text);
+      opacity: 0.8;
+      margin-bottom: 10px;
+    }
+
+    .description {
+      font-size: 0.95em;
+      color: var(--text);
+      opacity: 0.6;
+      max-width: 500px;
+      margin: 0 auto;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 25px;
+      margin-bottom: 50px;
+    }
+
+    .card {
+      background: linear-gradient(135deg, rgba(30, 39, 73, 0.6) 0%, rgba(20, 25, 50, 0.6) 100%);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 30px;
+      text-decoration: none;
+      color: inherit;
+      transition: all 0.3s ease;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--primary), var(--secondary));
+      transform: scaleX(0);
+      transform-origin: left;
+      transition: transform 0.3s ease;
+    }
+
+    .card:hover {
+      border-color: var(--primary);
+      background: linear-gradient(135deg, rgba(0, 212, 255, 0.15) 0%, rgba(255, 0, 110, 0.15) 100%);
+      transform: translateY(-8px);
+      box-shadow: 0 12px 48px rgba(0, 212, 255, 0.15);
+    }
+
+    .card:hover::before {
+      transform: scaleX(1);
+    }
+
+    .card-icon {
+      font-size: 2.5em;
+      margin-bottom: 15px;
+    }
+
+    .card-title {
+      font-size: 1.3em;
+      font-weight: 600;
+      margin-bottom: 10px;
+      color: var(--light);
+    }
+
+    .card-description {
+      font-size: 0.9em;
+      color: var(--text);
+      opacity: 0.8;
+      margin-bottom: 20px;
+      flex-grow: 1;
+    }
+
+    .card-link {
+      display: inline-block;
+      color: var(--primary);
+      font-weight: 500;
+      transition: color 0.3s ease;
+      align-self: flex-start;
+    }
+
+    .card-link:hover {
+      color: var(--secondary);
+    }
+
+    .features {
+      background: linear-gradient(135deg, rgba(0, 212, 255, 0.05) 0%, rgba(255, 0, 110, 0.05) 100%);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 40px;
+      margin-bottom: 50px;
+    }
+
+    .features h2 {
+      font-size: 1.5em;
+      margin-bottom: 25px;
+      color: var(--light);
+    }
+
+    .features-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+
+    .feature-item {
+      padding: 15px;
+      border-left: 3px solid var(--primary);
+      padding-left: 20px;
+    }
+
+    .feature-item strong {
+      color: var(--primary);
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      border-top: 1px solid var(--border);
+      color: var(--text);
+      opacity: 0.5;
+      font-size: 0.85em;
+    }
+
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 1.8em;
+      }
+
+      header {
+        padding: 30px 20px;
+      }
+
+      .grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>📰 Zeitungsjunge</h1>
+      <p class="subtitle">Smart Headlines für Tech & E-Commerce</p>
+      <p class="description">
+        Intelligente Aggregation von Nachrichten zu AI, Tech, E-Commerce, PIM und Agentic Commerce
+      </p>
+    </header>
+
+    <div class="grid">
+      <a href="today.html" class="card">
+        <div class="card-icon">📅</div>
+        <h3 class="card-title">Heute</h3>
+        <p class="card-description">Die wichtigsten Schlagzeilen von heute - Top 5 Artikel nach Relevanz</p>
+        <span class="card-link">Anschauen →</span>
+      </a>
+
+      <a href="week.html" class="card">
+        <div class="card-icon">📊</div>
+        <h3 class="card-title">Letzte Woche</h3>
+        <p class="card-description">Top Artikel der letzten 7 Tage - aktuelle Trends zusammengefasst</p>
+        <span class="card-link">Anschauen →</span>
+      </a>
+
+      <a href="month.html" class="card">
+        <div class="card-icon">📈</div>
+        <h3 class="card-title">Letzte 30 Tage</h3>
+        <p class="card-description">Wichtigste Entwicklungen des Monats - übergeordnete Trends</p>
+        <span class="card-link">Anschauen →</span>
+      </a>
+
+      <a href="quarter.html" class="card">
+        <div class="card-icon">🎯</div>
+        <h3 class="card-title">Letzte 90 Tage</h3>
+        <p class="card-description">Überblick der letzten 3 Monate - strategische Insights</p>
+        <span class="card-link">Anschauen →</span>
+      </a>
+    </div>
+
+    <div class="features">
+      <h2>✨ Features</h2>
+      <div class="features-list">
+        <div class="feature-item">
+          <strong>🤖 Intelligentes Ranking</strong>
+          <p>Automatische Bewertung nach Relevanz und Keywords</p>
+        </div>
+        <div class="feature-item">
+          <strong>🔄 Multi-Source Scraping</strong>
+          <p>RSS + Web Scraping von 5 Premium-Quellen</p>
+        </div>
+        <div class="feature-item">
+          <strong>📂 5 Kategorien</strong>
+          <p>AI, Tech, E-Commerce, PIM/MDM, Agentic Commerce</p>
+        </div>
+        <div class="feature-item">
+          <strong>⚡ Echtzeit-Update</strong>
+          <p>Täglich automatisch aktualisiert via GitHub Actions</p>
+        </div>
+        <div class="feature-item">
+          <strong>🎨 Modernes Design</strong>
+          <p>2026-konformes, responsives UI mit Dark Mode</p>
+        </div>
+        <div class="feature-item">
+          <strong>🔗 Quellen Links</strong>
+          <p>Direkter Zugriff auf Original-Artikel</p>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <p>
+        <strong>Zeitungsjunge</strong> • Scraping von TechCrunch, etailment, The Verge, ArsTechnica, Wired<br>
+        <a href="https://github.com/aclelisabeth/Zeitungsjunge" style="color: var(--primary); text-decoration: none;">📍 GitHub Repository</a>
+      </p>
+    </footer>
+  </div>
+</body>
+</html>
