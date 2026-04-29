@@ -1,0 +1,67 @@
+.bookmarks-page h1 {
+  margin: 0 0 20px 0;
+  font-size: 2em;
+  color: #1a1a1a;
+}
+
+.refresh-btn {
+  padding: 8px 16px;
+  background: #0066cc;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+  margin-bottom: 20px;
+  transition: background 0.3s ease;
+}
+
+.refresh-btn:hover:not(:disabled) {
+  background: #0052a3;
+}
+
+.refresh-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.bookmarks-container {
+  width: 100%;
+}
+
+.loading-state,
+.empty-state {
+  text-align: center;
+  padding: 40px;
+  background: white;
+  border-radius: 8px;
+  color: #999;
+}
+
+.empty-state p {
+  margin: 0;
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+.empty-subtitle {
+  font-size: 0.95em !important;
+  margin-top: 8px !important;
+  color: #999 !important;
+}
+
+.bookmarks-count {
+  color: #999;
+  font-size: 0.9em;
+  margin-bottom: 16px;
+}
+
+@media (max-width: 768px) {
+  .bookmarks-page h1 {
+    font-size: 1.5em;
+  }
+
+  .refresh-btn {
+    width: 100%;
+  }
+}
