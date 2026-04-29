@@ -7,9 +7,9 @@ import { de } from 'date-fns/locale';
 export function generateMarkdown(articles, timeRange = 'week', rangeLabel = 'Last 7 Days') {
   const timestamp = format(new Date(), 'PPP p', { locale: de });
 
-  let md = `# 📰 Tech & E-Commerce Headlines\n\n`;
+  let md = `# Tech & E-Commerce Headlines\n\n`;
   md += `**Generated:** ${timestamp}\n\n`;
-  md += `## 📊 Report: ${rangeLabel}\n\n`;
+  md += `## Report: ${rangeLabel}\n\n`;
 
   if (articles.length === 0) {
     md += `No articles found for this time range.\n`;
@@ -28,11 +28,11 @@ export function generateMarkdown(articles, timeRange = 'week', rangeLabel = 'Las
 
     items.forEach((article, index) => {
       const dateStr = format(new Date(article.publishedAt), 'dd.MM.yyyy', { locale: de });
-      const ecomBadge = article.relevanceCategory === 'E-Commerce' ? ' 🛒 **E-COMMERCE**' : '';
+      const ecomBadge = article.relevanceCategory === 'E-Commerce' ? ' [E-COMMERCE]' : '';
       md += `${index + 1}. **${article.title}**${ecomBadge}\n`;
       md += `   - Source: ${article.source} | Date: ${dateStr}\n`;
       md += `   - Score: ${(article.score * 100).toFixed(1)}%\n`;
-      md += `   - [Read More →](${article.link})\n`;
+       md += `   - [Read More](${article.link})\n`;
       md += `   > ${article.description}\n\n`;
     });
   }
@@ -48,24 +48,24 @@ export function generateMarkdown(articles, timeRange = 'week', rangeLabel = 'Las
  */
 function groupByCategory(articles) {
   const grouped = {
-    '🤖 AI & Machine Learning': [],
-    '💻 Technology': [],
-    '🛒 E-Commerce': [],
-    '📊 PIM & Data Management': [],
-    '🔄 Agentic & Automation': []
+    'AI & Machine Learning': [],
+    'Technology': [],
+    'E-Commerce': [],
+    'PIM & Data Management': [],
+    'Agentic & Automation': []
   };
 
   articles.forEach(article => {
     if (article.relevanceCategory === 'AI') {
-      grouped['🤖 AI & Machine Learning'].push(article);
+      grouped['AI & Machine Learning'].push(article);
     } else if (article.relevanceCategory === 'Tech') {
-      grouped['💻 Technology'].push(article);
+      grouped['Technology'].push(article);
     } else if (article.relevanceCategory === 'E-Commerce') {
-      grouped['🛒 E-Commerce'].push(article);
+      grouped['E-Commerce'].push(article);
     } else if (article.relevanceCategory === 'PIM/MDM') {
-      grouped['📊 PIM & Data Management'].push(article);
+      grouped['PIM & Data Management'].push(article);
     } else if (article.relevanceCategory === 'Agentic') {
-      grouped['🔄 Agentic & Automation'].push(article);
+      grouped['Agentic & Automation'].push(article);
     }
   });
 
@@ -73,14 +73,14 @@ function groupByCategory(articles) {
 }
 
 function getCategoryEmoji(category) {
-  const emojiMap = {
-    '🤖 AI & Machine Learning': '🤖',
-    '💻 Technology': '💻',
-    '🛒 E-Commerce': '🛒',
-    '📊 PIM & Data Management': '📊',
-    '🔄 Agentic & Automation': '🔄'
+  const labelMap = {
+    'AI & Machine Learning': '[AI]',
+    'Technology': '[TECH]',
+    'E-Commerce': '[ECOM]',
+    'PIM & Data Management': '[PIM]',
+    'Agentic & Automation': '[AGENT]'
   };
-  return emojiMap[category] || '📰';
+  return labelMap[category] || '[NEWS]';
 }
 
 /**
@@ -114,12 +114,12 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
   
   const grouped = groupByCategory(sorted);
 
-  const emojiMap = {
-    '🤖 AI & Machine Learning': '🤖',
-    '💻 Technology': '💻',
-    '🛒 E-Commerce': '🛒',
-    '📊 PIM & Data Management': '📊',
-    '🔄 Agentic & Automation': '🔄'
+  const labelMap = {
+    'AI & Machine Learning': '[AI]',
+    'Technology': '[TECH]',
+    'E-Commerce': '[ECOM]',
+    'PIM & Data Management': '[PIM]',
+    'Agentic & Automation': '[AGENT]'
   };
 
   // Build category sections
@@ -131,7 +131,7 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
     for (const article of items) {
       const isEcom = article.relevanceCategory === 'E-Commerce';
       const ecomClass = isEcom ? 'ecom-featured' : '';
-      const ecomBadge = isEcom ? '<span class="article-ecom-badge">🛒 E-Commerce</span>' : '';
+       const ecomBadge = isEcom ? '<span class="article-ecom-badge">[ECOM]</span>' : '';
       const dateStr = format(new Date(article.publishedAt), 'dd.MM.yyyy', { locale: de });
 
       articlesHtml += `
@@ -146,9 +146,9 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
                   <p class="article-description">${escapeHtml(article.description)}</p>
                   <div class="article-footer">
                     <div class="article-score">
-                      ⭐ ${(article.score * 100).toFixed(1)}%
+                      ${(article.score * 100).toFixed(1)}% relevance
                     </div>
-                    <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">Artikel lesen →</a>
+                    <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
                   </div>
                 </div>
               </div>
@@ -158,7 +158,7 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
     categorySections += `
         <div class="category-section">
           <div class="category-header">
-            <span class="category-emoji">${emojiMap[category]}</span>
+            <span class="category-label">${labelMap[category]}</span>
             <h2 class="category-title">${category}</h2>
             <div class="article-count">${items.length} Artikel</div>
           </div>
@@ -266,8 +266,12 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
       border-bottom: 2px solid var(--border);
     }
 
-    .category-emoji {
-      font-size: 1.5em;
+    .category-label {
+      font-size: 1.1em;
+      font-weight: 600;
+      background: rgba(0, 212, 255, 0.2);
+      padding: 4px 8px;
+      border-radius: 4px;
     }
 
     .category-title {
@@ -486,19 +490,19 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
 <body>
   <div class="container">
     <header>
-      <h1>📰 Zeitungsjunge</h1>
-      <p class="subtitle">Smart Headlines für Tech & E-Commerce</p>
+      <h1>Zeitungsjunge</h1>
+      <p class="subtitle">Smart Headlines for Tech & E-Commerce</p>
       <div class="meta">
         <div class="meta-item">
-          <span>📊 Zeitraum:</span>
+          <span>Time Range:</span>
           <strong>${rangeLabel}</strong>
         </div>
         <div class="meta-item">
-          <span>📄 Artikel:</span>
+          <span>Articles:</span>
           <strong>${articles.length}</strong>
         </div>
         <div class="meta-item">
-          <span>🕐 Aktualisiert:</span>
+          <span>Updated:</span>
           <strong>${timestamp}</strong>
         </div>
       </div>
@@ -509,8 +513,8 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
     ${categorySections}
 
     <footer>
-      <p>Generated by <strong>Zeitungsjunge</strong> • ${timestamp}</p>
-      <p>Scraping von: TechCrunch, etailment, The Verge, ArsTechnica, Wired</p>
+      <p>Generated by Zeitungsjunge • ${timestamp}</p>
+      <p>Sources: TechCrunch, etailment, The Verge, ArsTechnica, Wired</p>
     </footer>
   </div>
 </body>

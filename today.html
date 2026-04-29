@@ -91,8 +91,12 @@
       border-bottom: 2px solid var(--border);
     }
 
-    .category-emoji {
-      font-size: 1.5em;
+    .category-label {
+      font-size: 1.1em;
+      font-weight: 600;
+      background: rgba(0, 212, 255, 0.2);
+      padding: 4px 8px;
+      border-radius: 4px;
     }
 
     .category-title {
@@ -311,20 +315,20 @@
 <body>
   <div class="container">
     <header>
-      <h1>📰 Zeitungsjunge</h1>
-      <p class="subtitle">Smart Headlines für Tech & E-Commerce</p>
+      <h1>Zeitungsjunge</h1>
+      <p class="subtitle">Smart Headlines for Tech & E-Commerce</p>
       <div class="meta">
         <div class="meta-item">
-          <span>📊 Zeitraum:</span>
+          <span>Time Range:</span>
           <strong>Today</strong>
         </div>
         <div class="meta-item">
-          <span>📄 Artikel:</span>
+          <span>Articles:</span>
           <strong>5</strong>
         </div>
         <div class="meta-item">
-          <span>🕐 Aktualisiert:</span>
-          <strong>29. April 2026 15:44</strong>
+          <span>Updated:</span>
+          <strong>29. April 2026 16:11</strong>
         </div>
       </div>
     </header>
@@ -334,38 +338,9 @@
     
         <div class="category-section">
           <div class="category-header">
-            <span class="category-emoji">🤖</span>
-            <h2 class="category-title">🤖 AI & Machine Learning</h2>
-            <div class="article-count">1 Artikel</div>
-          </div>
-          <div class="articles-grid">
-            
-              <div class="article-card ">
-                <div class="article-inner">
-                  <h3 class="article-title">OpenAI Really Wants Codex to Shut Up About Goblins</h3>
-                  <div class="article-meta-top">
-                    <span class="article-source">Wired</span>
-                    <span class="article-date">29.04.2026</span>
-                    
-                  </div>
-                  <p class="article-description">“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,” reads OpenAI’s coding agent instructions.</p>
-                  <div class="article-footer">
-                    <div class="article-score">
-                      ⭐ 49.0%
-                    </div>
-                    <a href="https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/" target="_blank" rel="noopener noreferrer" class="article-link">Artikel lesen →</a>
-                  </div>
-                </div>
-              </div>
-            
-          </div>
-        </div>
-      
-        <div class="category-section">
-          <div class="category-header">
-            <span class="category-emoji">💻</span>
-            <h2 class="category-title">💻 Technology</h2>
-            <div class="article-count">2 Artikel</div>
+            <span class="category-label">[TECH]</span>
+            <h2 class="category-title">Technology</h2>
+            <div class="article-count">3 Artikel</div>
           </div>
           <div class="articles-grid">
             
@@ -380,9 +355,9 @@
                   <p class="article-description">BMW i Ventures is interested in startups working on agentic AI and physical AI, as well as industrial software, advanced materials, and manufacturing and supply chain technologies.</p>
                   <div class="article-footer">
                     <div class="article-score">
-                      ⭐ 59.0%
+                      59.0% relevance
                     </div>
-                    <a href="https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/" target="_blank" rel="noopener noreferrer" class="article-link">Artikel lesen →</a>
+                    <a href="https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
                   </div>
                 </div>
               </div>
@@ -398,9 +373,31 @@
                   <p class="article-description">Neurable, which makes noninvasive brain-computer interfaces, is licensing its technology and promises a “flood” of new third-party hardware this year and next.</p>
                   <div class="article-footer">
                     <div class="article-score">
-                      ⭐ 51.1%
+                      51.1% relevance
                     </div>
-                    <a href="https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/" target="_blank" rel="noopener noreferrer" class="article-link">Artikel lesen →</a>
+                    <a href="https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="article-card ">
+                <div class="article-inner">
+                  <h3 class="article-title">Larry’s risky business</h3>
+                  <div class="article-meta-top">
+                    <span class="article-source">The Verge</span>
+                    <span class="article-date">29.04.2026</span>
+                    
+                  </div>
+                  <p class="article-description">Oracular spectacular? | Image: Cath Virginia / The Verge	
+
+If you want to know whether the AI bubble is bursting, there&#039;s only one publicly traded company that will tell you: Oracle.
+That&#039;s right, the database company. Oracle has burned its boats and pivoted to AI, but not in any kind of usual way. It is not a foundation model builder like OpenAI or Anthropic, obviously. It&#039;s not quite a neocloud, though it has entered the same bare-metal business as CoreWeave. It is a software-as-a-service company that has made an audacious bet on a very specific future version of AI as Oracle&#039;s traditional business has gracefully declined. It is significantly older than any of its AI competitors, save Microsoft,  …
+Read the full story at The Verge.</p>
+                  <div class="article-footer">
+                    <div class="article-score">
+                      50.5% relevance
+                    </div>
+                    <a href="https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
                   </div>
                 </div>
               </div>
@@ -410,8 +407,8 @@
       
         <div class="category-section">
           <div class="category-header">
-            <span class="category-emoji">🔄</span>
-            <h2 class="category-title">🔄 Agentic & Automation</h2>
+            <span class="category-label">[AGENT]</span>
+            <h2 class="category-title">Agentic & Automation</h2>
             <div class="article-count">2 Artikel</div>
           </div>
           <div class="articles-grid">
@@ -427,9 +424,9 @@
                   <p class="article-description">We visited Scout AI&#039;s training ground where it&#039;s working on AI agents that can help individual soldiers control fleets of autonomous vehicles.</p>
                   <div class="article-footer">
                     <div class="article-score">
-                      ⭐ 51.4%
+                      51.3% relevance
                     </div>
-                    <a href="https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/" target="_blank" rel="noopener noreferrer" class="article-link">Artikel lesen →</a>
+                    <a href="https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
                   </div>
                 </div>
               </div>
@@ -450,9 +447,9 @@ Bloomberg said the Wuhan incident alarmed authorities in Beijing, prompting regu
 Read the full story at The Verge.</p>
                   <div class="article-footer">
                     <div class="article-score">
-                      ⭐ 50.4%
+                      50.4% relevance
                     </div>
-                    <a href="https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos" target="_blank" rel="noopener noreferrer" class="article-link">Artikel lesen →</a>
+                    <a href="https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
                   </div>
                 </div>
               </div>
@@ -462,8 +459,8 @@ Read the full story at The Verge.</p>
       
 
     <footer>
-      <p>Generated by <strong>Zeitungsjunge</strong> • 29. April 2026 15:44</p>
-      <p>Scraping von: TechCrunch, etailment, The Verge, ArsTechnica, Wired</p>
+      <p>Generated by Zeitungsjunge • 29. April 2026 16:11</p>
+      <p>Sources: TechCrunch, etailment, The Verge, ArsTechnica, Wired</p>
     </footer>
   </div>
 </body>

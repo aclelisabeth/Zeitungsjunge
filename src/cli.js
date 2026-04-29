@@ -41,11 +41,11 @@ function parseArgs() {
 async function scrapeNews() {
   const options = parseArgs();
 
-  console.log(chalk.cyan.bold('\n🚀 Zeitungsjunge - News Aggregator\n'));
+  console.log(chalk.cyan.bold('\nZeitungsjunge - News Aggregator\n'));
 
   // Validate range
   if (!TIME_RANGES[options.range]) {
-    console.error(chalk.red(`❌ Invalid range: ${options.range}`));
+     console.error(chalk.red(`Invalid range: ${options.range}`));
     console.log(chalk.yellow(`Available ranges: ${Object.keys(TIME_RANGES).join(', ')}`));
     process.exit(1);
   }
@@ -53,65 +53,65 @@ async function scrapeNews() {
   const rangeLabel = TIME_RANGES[options.range].label;
 
   // Step 1: Fetch articles
-  let spinner = ora({
-    text: chalk.blue('Fetching articles from RSS feeds...'),
-    prefixText: '1️⃣ '
-  }).start();
+   let spinner = ora({
+     text: chalk.blue('Fetching articles from RSS feeds...'),
+     prefixText: '[1] '
+   }).start();
 
   try {
     const articles = await fetchAllRSSWithFallback(SOURCES);
     spinner.succeed(chalk.green(`Fetched ${articles.length} articles`));
 
     // Step 2: Quality filtering
-    spinner = ora({
-      text: chalk.blue('Filtering low-quality articles...'),
-      prefixText: '2️⃣ '
-    }).start();
+     spinner = ora({
+       text: chalk.blue('Filtering low-quality articles...'),
+       prefixText: '[2] '
+     }).start();
 
     let filtered = filterQuality(articles);
     spinner.succeed(chalk.green(`Quality filtered: ${filtered.length} articles`));
 
     // Step 3: Deduplication
-    spinner = ora({
-      text: chalk.blue('Removing duplicates...'),
-      prefixText: '3️⃣ '
-    }).start();
+     spinner = ora({
+       text: chalk.blue('Removing duplicates...'),
+       prefixText: '[3] '
+     }).start();
 
     filtered = deduplicateArticles(filtered);
     spinner.succeed(chalk.green(`Deduplicated: ${filtered.length} unique articles`));
 
     // Step 4: Date filtering
-    spinner = ora({
-      text: chalk.blue(`Filtering by date range: ${rangeLabel}...`),
-      prefixText: '4️⃣ '
-    }).start();
+     spinner = ora({
+       text: chalk.blue(`Filtering by date range: ${rangeLabel}...`),
+       prefixText: '[4] '
+     }).start();
 
     filtered = filterByDateRange(filtered, options.range);
     spinner.succeed(chalk.green(`Date filtered: ${filtered.length} articles`));
 
     // Step 5: Ranking
-    spinner = ora({
-      text: chalk.blue('Ranking articles by relevance...'),
-      prefixText: '5️⃣ '
-    }).start();
+     spinner = ora({
+       text: chalk.blue('Ranking articles by relevance...'),
+       prefixText: '[5] '
+     }).start();
 
     const ranked = rankArticles(filtered);
     spinner.succeed(chalk.green(`Ranked ${ranked.length} articles`));
 
     // Step 6: Get top articles
-    spinner = ora({
-      text: chalk.blue(`Selecting top ${options.limit} per category...`),
-      prefixText: '6️⃣ '
-    }).start();
+     spinner = ora({
+       text: chalk.blue(`Selecting top ${options.limit} per category...`),
+       prefixText: '[6] '
+     }).start();
 
     const topArticles = getTopArticles(ranked, options.limit);
     spinner.succeed(chalk.green(`Selected ${topArticles.length} top articles`));
 
     // Step 7: Generate output
-    spinner = ora({
-      text: chalk.blue('Generating output files...'),
-      prefixText: '7️⃣ '
-    }).start();
+     spinner = ora({
+       text: chalk.blue('Generating output files...'),
+       prefixText: '[7] '
+     }).start();
 
     const outputDir = path.join(process.cwd(), 'output');
     if (!fs.existsSync(outputDir)) {
@@ -124,14 +124,14 @@ async function scrapeNews() {
       const markdownContent = generateMarkdown(topArticles, options.range, rangeLabel);
       const mdPath = path.join(outputDir, `headlines-${options.range}-${timestamp}.md`);
       fs.writeFileSync(mdPath, markdownContent);
-      console.log(chalk.green(`   ✓ Markdown: ${mdPath}`));
+       console.log(chalk.green(`   [OK] Markdown: ${mdPath}`));
     }
 
     if (options.output === 'html' || options.output === 'both') {
       const htmlContent = generateHTML(topArticles, options.range, rangeLabel);
       const htmlPath = path.join(outputDir, `headlines-${options.range}-${timestamp}.html`);
       fs.writeFileSync(htmlPath, htmlContent);
-      console.log(chalk.green(`   ✓ HTML: ${htmlPath}`));
+       console.log(chalk.green(`   [OK] HTML: ${htmlPath}`));
     }
 
     // Also update latest files
@@ -149,13 +149,13 @@ async function scrapeNews() {
 
     spinner.succeed(chalk.green('Output files generated'));
 
-    // Summary
-    console.log(chalk.cyan.bold('\n📊 Summary\n'));
+     // Summary
+     console.log(chalk.cyan.bold('\nSummary\n'));
     console.log(chalk.gray(`  Time Range: ${rangeLabel}`));
     console.log(chalk.gray(`  Total Scraped: ${articles.length}`));
     console.log(chalk.gray(`  After Filtering: ${filtered.length}`));
     console.log(chalk.gray(`  Top Articles: ${topArticles.length}`));
-    console.log(chalk.cyan(`\n✅ Done!\n`));
+     console.log(chalk.cyan(`\nDone!\n`));
 
     process.exit(0);
   } catch (error) {
@@ -182,13 +182,13 @@ async function fetchAllRSSWithFallback(sources) {
         results.push(...scrapedArticles);
       }
     } catch (error) {
-      console.warn(chalk.yellow(`⚠️  Error fetching ${source.name}: ${error.message}`));
+       console.warn(chalk.yellow(`[WARN] Error fetching ${source.name}: ${error.message}`));
       // Try web scraping as fallback
       try {
         const scrapedArticles = await scrapWebsite(source);
         results.push(...scrapedArticles);
       } catch (scrapeError) {
-        console.warn(chalk.yellow(`⚠️  Web scraping also failed for ${source.name}`));
+         console.warn(chalk.yellow(`[WARN] Web scraping also failed for ${source.name}`));
       }
     }
   }
