@@ -41,7 +41,7 @@
       background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(255, 0, 110, 0.1) 100%);
       border: 1px solid var(--border);
       border-radius: 12px;
-      padding: 40px 30px;
+      padding: 40px 30px 30px;
       margin-bottom: 40px;
       text-align: center;
       backdrop-filter: blur(10px);
@@ -54,6 +54,47 @@
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       background-clip: text;
+    }
+
+    h1 a {
+      background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-decoration: none;
+    }
+
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 8px;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+
+    nav a {
+      color: var(--text);
+      text-decoration: none;
+      padding: 6px 16px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      font-size: 0.85em;
+      transition: all 0.2s;
+      opacity: 0.7;
+    }
+
+    nav a:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+      opacity: 1;
+    }
+
+    nav a.active {
+      background: rgba(0, 212, 255, 0.15);
+      border-color: var(--primary);
+      color: var(--primary);
+      opacity: 1;
+      font-weight: 600;
     }
 
     .subtitle {
@@ -271,6 +312,122 @@
       border: 1px solid var(--ecom);
     }
 
+    .extrablatt-section {
+      background: linear-gradient(135deg, rgba(0, 212, 255, 0.05) 0%, rgba(255, 0, 110, 0.05) 100%);
+      border: 2px solid var(--primary);
+      border-radius: 12px;
+      padding: 30px;
+      margin-bottom: 50px;
+    }
+
+    .extrablatt-header {
+      margin-bottom: 20px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid var(--primary);
+    }
+
+    .extrablatt-header h2 {
+      font-size: 1.5em;
+      font-weight: 700;
+      color: var(--primary);
+      margin-bottom: 5px;
+    }
+
+    .extrablatt-subtitle {
+      font-size: 0.95em;
+      color: var(--text);
+      opacity: 0.8;
+    }
+
+    .extrablatt-controls {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      margin-bottom: 25px;
+    }
+
+    .topic-selector {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .topic-tab {
+      padding: 8px 15px;
+      background: rgba(0, 212, 255, 0.1);
+      border: 1px solid var(--border);
+      color: var(--text);
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 0.9em;
+      font-weight: 500;
+      transition: all 0.3s ease;
+    }
+
+    .topic-tab:hover {
+      background: rgba(0, 212, 255, 0.2);
+      border-color: var(--primary);
+    }
+
+    .topic-tab[data-active="true"] {
+      background: var(--primary);
+      color: var(--dark);
+      border-color: var(--primary);
+      font-weight: 600;
+    }
+
+    .search-container {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .search-input {
+      flex: 1;
+      padding: 10px 15px;
+      background: rgba(0, 212, 255, 0.1);
+      border: 1px solid var(--border);
+      color: var(--text);
+      border-radius: 6px;
+      font-size: 0.9em;
+    }
+
+    .search-input::placeholder {
+      color: var(--text);
+      opacity: 0.5;
+    }
+
+    .search-input:focus {
+      outline: none;
+      border-color: var(--primary);
+      background: rgba(0, 212, 255, 0.15);
+    }
+
+    .search-results-count {
+      font-size: 0.85em;
+      color: var(--text);
+      opacity: 0.7;
+      white-space: nowrap;
+    }
+
+    .extrablatt-grid {
+      margin-top: 20px;
+    }
+
+    .extrablatt-card {
+      border-color: var(--primary);
+      background: rgba(0, 212, 255, 0.05);
+    }
+
+    .extrablatt-topic-badge {
+      display: inline-block;
+      padding: 5px 10px;
+      border-radius: 4px;
+      font-size: 0.75em;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+
     .empty-state {
       text-align: center;
       padding: 40px;
@@ -315,7 +472,7 @@
 <body>
   <div class="container">
     <header>
-      <h1>Zeitungsjunge</h1>
+      <h1><a href="./index.html">Zeitungsjunge</a></h1>
       <p class="subtitle">Smart Headlines for Tech & E-Commerce</p>
       <div class="meta">
         <div class="meta-item">
@@ -328,36 +485,222 @@
         </div>
         <div class="meta-item">
           <span>Updated:</span>
-          <strong>29. April 2026 16:11</strong>
+          <strong>30. April 2026 12:58</strong>
         </div>
       </div>
+      <nav>
+        <a href="./today.html" >Today</a>
+        <a href="./week.html" >This Week</a>
+        <a href="./month.html" >This Month</a>
+        <a href="./quarter.html" class="active">Last 90 Days</a>
+      </nav>
     </header>
 
     
 
     
+      <div class="extrablatt-section">
+        <div class="extrablatt-header">
+          <h2>EXTRABLATT: E-COMMERCE</h2>
+          <p class="extrablatt-subtitle">E-Commerce & Retail</p>
+        </div>
+        
+        <div class="extrablatt-controls">
+          <div class="topic-selector">
+            <button class="topic-tab" data-topic="E-Commerce" data-active="true">[ECOM] E-Commerce</button><button class="topic-tab" data-topic="AI" >[AI] AI</button><button class="topic-tab" data-topic="PIM" >[PIM] PIM</button><button class="topic-tab" data-topic="Tech" >[TECH] Tech</button><button class="topic-tab" data-topic="Agentic" >[AGENT] Agentic</button>
+          </div>
+          <div class="search-container">
+            <input type="text" id="extrablatt-search" placeholder="Search within E-Commerce..." class="search-input">
+            <span class="search-results-count">(<span id="results-count">7</span> articles)</span>
+          </div>
+        </div>
+        
+        <div class="articles-grid extrablatt-grid" id="extrablatt-articles">
+          
+              <div class="article-card extrablatt-card">
+                <div class="article-inner">
+                  <h3 class="article-title">Fraud Prevention: Wenn KI einkauft: Warum Betrugsprävention im Check-out neu gedacht werden muss</h3>
+                  <div class="article-meta-top">
+                    <span class="article-source">etailment</span>
+                    <span class="article-date">30.04.2026</span>
+                    <span class="extrablatt-topic-badge" style="background-color: #ff950020; color: #ff9500; border: 1px solid #ff9500;">[ECOM]</span>
+                  </div>
+                  <p class="article-description">Agentische Käufe stellen die Fraud Prevention im E-Commerce vor neue Fragen: Handelt ein Mensch, ein beauftragter KI-Agent oder ein Angreifer? Pascal Neuhaus, Director Retail/eCommerce bei Experian DACH, plädiert in seinem Gastbeitrag für präzisere Datenbewertung statt strengerer Regeln.</p>
+                  <div class="article-footer">
+                    <div class="article-score">
+                      57.0% relevance
+                    </div>
+                    <a href="https://etailment.de/news/stories/fraud-prevention-wenn-ki-einkauft-warum-betrugspraevention-im-check-out-neu-gedacht-werden-muss-25472?utm_source=rss&utm_medium=referral&utm_campaign=news&utm_term=" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="article-card extrablatt-card">
+                <div class="article-inner">
+                  <h3 class="article-title">Amazon’s cloud business is surging — and so is its capital spending</h3>
+                  <div class="article-meta-top">
+                    <span class="article-source">TechCrunch</span>
+                    <span class="article-date">30.04.2026</span>
+                    <span class="extrablatt-topic-badge" style="background-color: #ff950020; color: #ff9500; border: 1px solid #ff9500;">[ECOM]</span>
+                  </div>
+                  <p class="article-description">The e-commerce giant is making more money than expected from AWS but it&#039;s also spending a lot, and will continue to do so in the near term, its chief executive said.</p>
+                  <div class="article-footer">
+                    <div class="article-score">
+                      53.6% relevance
+                    </div>
+                    <a href="https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="article-card extrablatt-card">
+                <div class="article-inner">
+                  <h3 class="article-title">Fraud Prevention: Wenn KI einkauft: Warum Betrugsprävention im Check-out neu gedacht werden muss</h3>
+                  <div class="article-meta-top">
+                    <span class="article-source">etailment</span>
+                    <span class="article-date">30.04.2026</span>
+                    <span class="extrablatt-topic-badge" style="background-color: #ff950020; color: #ff9500; border: 1px solid #ff9500;">[ECOM]</span>
+                  </div>
+                  <p class="article-description">Agentische Käufe stellen die Fraud Prevention im E-Commerce vor neue Fragen: Handelt ein Mensch, ein beauftragter KI-Agent oder ein Angreifer? Pascal Neuhaus, Director Retail/eCommerce bei Experian DACH, plädiert in seinem Gastbeitrag für präzisere Datenbewertung statt strengerer Regeln.</p>
+                  <div class="article-footer">
+                    <div class="article-score">
+                      57.0% relevance
+                    </div>
+                    <a href="https://etailment.de/news/stories/fraud-prevention-wenn-ki-einkauft-warum-betrugspraevention-im-check-out-neu-gedacht-werden-muss-25472?utm_source=rss&utm_medium=referral&utm_campaign=news&utm_term=" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="article-card extrablatt-card">
+                <div class="article-inner">
+                  <h3 class="article-title">Amazon’s cloud business is surging — and so is its capital spending</h3>
+                  <div class="article-meta-top">
+                    <span class="article-source">TechCrunch</span>
+                    <span class="article-date">30.04.2026</span>
+                    <span class="extrablatt-topic-badge" style="background-color: #ff950020; color: #ff9500; border: 1px solid #ff9500;">[ECOM]</span>
+                  </div>
+                  <p class="article-description">The e-commerce giant is making more money than expected from AWS but it&#039;s also spending a lot, and will continue to do so in the near term, its chief executive said.</p>
+                  <div class="article-footer">
+                    <div class="article-score">
+                      53.6% relevance
+                    </div>
+                    <a href="https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="article-card extrablatt-card">
+                <div class="article-inner">
+                  <h3 class="article-title">Is this ‘de-extinction’ project actually onto something?</h3>
+                  <div class="article-meta-top">
+                    <span class="article-source">The Verge</span>
+                    <span class="article-date">30.04.2026</span>
+                    <span class="extrablatt-topic-badge" style="background-color: #ff950020; color: #ff9500; border: 1px solid #ff9500;">[ECOM]</span>
+                  </div>
+                  <p class="article-description">Dallas-based genetics and biotech startup Colossal has raised hundreds of millions of dollars from venture capitalists, the CIA, and Peter Thiel, among others. Its buzzy &quot;de-extinction&quot; projects aim to &quot;bring back&quot; lost animals like the woolly mammoth, the Tasmanian tiger, and the dire wolf - although it isn&#039;t creating copies of extinct creatures from ancient DNA, as the &quot;de-extinction&quot; tagline may suggest. In the case of the &quot;dire wolves&quot; presented to the world in 2025, the pups were gray wolves spliced with a few genetic traits to somewhat resemble the dire wolves. This ambitious branding opened the company up to questions about its conser …
+Read the full story at The Verge.</p>
+                  <div class="article-footer">
+                    <div class="article-score">
+                      50.5% relevance
+                    </div>
+                    <a href="https://www.theverge.com/science/921088/colossal-de-extinction-antelope-reproduction" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="article-card extrablatt-card">
+                <div class="article-inner">
+                  <h3 class="article-title">OpenAI models, Codex, and Managed Agents come to AWS</h3>
+                  <div class="article-meta-top">
+                    <span class="article-source">OpenAI</span>
+                    <span class="article-date">28.04.2026</span>
+                    <span class="extrablatt-topic-badge" style="background-color: #ff950020; color: #ff9500; border: 1px solid #ff9500;">[ECOM]</span>
+                  </div>
+                  <p class="article-description">OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.</p>
+                  <div class="article-footer">
+                    <div class="article-score">
+                      50.4% relevance
+                    </div>
+                    <a href="https://openai.com/index/openai-on-aws" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="article-card extrablatt-card">
+                <div class="article-inner">
+                  <h3 class="article-title">Get Ready for More Brain-Scanning Consumer Gadgets</h3>
+                  <div class="article-meta-top">
+                    <span class="article-source">Wired</span>
+                    <span class="article-date">28.04.2026</span>
+                    <span class="extrablatt-topic-badge" style="background-color: #ff950020; color: #ff9500; border: 1px solid #ff9500;">[ECOM]</span>
+                  </div>
+                  <p class="article-description">Neurable, which makes noninvasive brain-computer interfaces, is licensing its technology and promises a “flood” of new third-party hardware this year and next.</p>
+                  <div class="article-footer">
+                    <div class="article-score">
+                      50.3% relevance
+                    </div>
+                    <a href="https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
+                  </div>
+                </div>
+              </div>
+            
+        </div>
+      </div>
+    
+
+    
         <div class="category-section">
           <div class="category-header">
-            <span class="category-label">[TECH]</span>
-            <h2 class="category-title">Technology</h2>
-            <div class="article-count">3 Artikel</div>
+            <span class="category-label">[AI]</span>
+            <h2 class="category-title">AI & Machine Learning</h2>
+            <div class="article-count">1 Artikel</div>
           </div>
           <div class="articles-grid">
             
               <div class="article-card ">
                 <div class="article-inner">
-                  <h3 class="article-title">BMW i Ventures has a new $300M fund and AI is riding shotgun</h3>
+                  <h3 class="article-title">OpenAI models, Codex, and Managed Agents come to AWS</h3>
                   <div class="article-meta-top">
-                    <span class="article-source">TechCrunch</span>
-                    <span class="article-date">29.04.2026</span>
+                    <span class="article-source">OpenAI</span>
+                    <span class="article-date">28.04.2026</span>
                     
                   </div>
-                  <p class="article-description">BMW i Ventures is interested in startups working on agentic AI and physical AI, as well as industrial software, advanced materials, and manufacturing and supply chain technologies.</p>
+                  <p class="article-description">OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.</p>
                   <div class="article-footer">
                     <div class="article-score">
-                      59.0% relevance
+                      50.4% relevance
                     </div>
-                    <a href="https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
+                    <a href="https://openai.com/index/openai-on-aws" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
+                  </div>
+                </div>
+              </div>
+            
+          </div>
+        </div>
+      
+        <div class="category-section">
+          <div class="category-header">
+            <span class="category-label">[TECH]</span>
+            <h2 class="category-title">Technology</h2>
+            <div class="article-count">2 Artikel</div>
+          </div>
+          <div class="articles-grid">
+            
+              <div class="article-card ">
+                <div class="article-inner">
+                  <h3 class="article-title">Is this ‘de-extinction’ project actually onto something?</h3>
+                  <div class="article-meta-top">
+                    <span class="article-source">The Verge</span>
+                    <span class="article-date">30.04.2026</span>
+                    
+                  </div>
+                  <p class="article-description">Dallas-based genetics and biotech startup Colossal has raised hundreds of millions of dollars from venture capitalists, the CIA, and Peter Thiel, among others. Its buzzy &quot;de-extinction&quot; projects aim to &quot;bring back&quot; lost animals like the woolly mammoth, the Tasmanian tiger, and the dire wolf - although it isn&#039;t creating copies of extinct creatures from ancient DNA, as the &quot;de-extinction&quot; tagline may suggest. In the case of the &quot;dire wolves&quot; presented to the world in 2025, the pups were gray wolves spliced with a few genetic traits to somewhat resemble the dire wolves. This ambitious branding opened the company up to questions about its conser …
+Read the full story at The Verge.</p>
+                  <div class="article-footer">
+                    <div class="article-score">
+                      50.5% relevance
+                    </div>
+                    <a href="https://www.theverge.com/science/921088/colossal-de-extinction-antelope-reproduction" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
                   </div>
                 </div>
               </div>
@@ -373,31 +716,9 @@
                   <p class="article-description">Neurable, which makes noninvasive brain-computer interfaces, is licensing its technology and promises a “flood” of new third-party hardware this year and next.</p>
                   <div class="article-footer">
                     <div class="article-score">
-                      51.1% relevance
+                      50.3% relevance
                     </div>
                     <a href="https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
-                  </div>
-                </div>
-              </div>
-            
-              <div class="article-card ">
-                <div class="article-inner">
-                  <h3 class="article-title">Larry’s risky business</h3>
-                  <div class="article-meta-top">
-                    <span class="article-source">The Verge</span>
-                    <span class="article-date">29.04.2026</span>
-                    
-                  </div>
-                  <p class="article-description">Oracular spectacular? | Image: Cath Virginia / The Verge	
-
-If you want to know whether the AI bubble is bursting, there&#039;s only one publicly traded company that will tell you: Oracle.
-That&#039;s right, the database company. Oracle has burned its boats and pivoted to AI, but not in any kind of usual way. It is not a foundation model builder like OpenAI or Anthropic, obviously. It&#039;s not quite a neocloud, though it has entered the same bare-metal business as CoreWeave. It is a software-as-a-service company that has made an audacious bet on a very specific future version of AI as Oracle&#039;s traditional business has gracefully declined. It is significantly older than any of its AI competitors, save Microsoft,  …
-Read the full story at The Verge.</p>
-                  <div class="article-footer">
-                    <div class="article-score">
-                      50.5% relevance
-                    </div>
-                    <a href="https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
                   </div>
                 </div>
               </div>
@@ -407,49 +728,44 @@ Read the full story at The Verge.</p>
       
         <div class="category-section">
           <div class="category-header">
-            <span class="category-label">[AGENT]</span>
-            <h2 class="category-title">Agentic & Automation</h2>
+            <span class="category-label">[ECOM]</span>
+            <h2 class="category-title">E-Commerce</h2>
             <div class="article-count">2 Artikel</div>
           </div>
           <div class="articles-grid">
             
-              <div class="article-card ">
+              <div class="article-card ecom-featured">
                 <div class="article-inner">
-                  <h3 class="article-title">Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp</h3>
+                  <h3 class="article-title">Fraud Prevention: Wenn KI einkauft: Warum Betrugsprävention im Check-out neu gedacht werden muss</h3>
                   <div class="article-meta-top">
-                    <span class="article-source">TechCrunch</span>
-                    <span class="article-date">29.04.2026</span>
-                    
+                    <span class="article-source">etailment</span>
+                    <span class="article-date">30.04.2026</span>
+                    <span class="article-ecom-badge">[ECOM]</span>
                   </div>
-                  <p class="article-description">We visited Scout AI&#039;s training ground where it&#039;s working on AI agents that can help individual soldiers control fleets of autonomous vehicles.</p>
+                  <p class="article-description">Agentische Käufe stellen die Fraud Prevention im E-Commerce vor neue Fragen: Handelt ein Mensch, ein beauftragter KI-Agent oder ein Angreifer? Pascal Neuhaus, Director Retail/eCommerce bei Experian DACH, plädiert in seinem Gastbeitrag für präzisere Datenbewertung statt strengerer Regeln.</p>
                   <div class="article-footer">
                     <div class="article-score">
-                      51.3% relevance
+                      57.0% relevance
                     </div>
-                    <a href="https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
+                    <a href="https://etailment.de/news/stories/fraud-prevention-wenn-ki-einkauft-warum-betrugspraevention-im-check-out-neu-gedacht-werden-muss-25472?utm_source=rss&utm_medium=referral&utm_campaign=news&utm_term=" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
                   </div>
                 </div>
               </div>
             
-              <div class="article-card ">
+              <div class="article-card ecom-featured">
                 <div class="article-inner">
-                  <h3 class="article-title">China freezes new robotaxi licenses after Baidu chaos</h3>
+                  <h3 class="article-title">Amazon’s cloud business is surging — and so is its capital spending</h3>
                   <div class="article-meta-top">
-                    <span class="article-source">The Verge</span>
-                    <span class="article-date">29.04.2026</span>
-                    
+                    <span class="article-source">TechCrunch</span>
+                    <span class="article-date">30.04.2026</span>
+                    <span class="article-ecom-badge">[ECOM]</span>
                   </div>
-                  <p class="article-description">A Baidu Apollo Go robotaxi in Wuhan, China. | Image: Bloomberg via Getty Images	
-
-China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos. 
-The restrictions will prevent companies from adding new driverless cars to their fleets, expanding into new cities, or starting new test projects. It is unclear when officials will start issuing new licenses again.
-Bloomberg said the Wuhan incident alarmed authorities in Beijing, prompting regulators to urge local governments to review the sector to prevent similar episodes.  …
-Read the full story at The Verge.</p>
+                  <p class="article-description">The e-commerce giant is making more money than expected from AWS but it&#039;s also spending a lot, and will continue to do so in the near term, its chief executive said.</p>
                   <div class="article-footer">
                     <div class="article-score">
-                      50.4% relevance
+                      53.6% relevance
                     </div>
-                    <a href="https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
+                    <a href="https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
                   </div>
                 </div>
               </div>
@@ -458,10 +774,63 @@ Read the full story at The Verge.</p>
         </div>
       
 
-    <footer>
-      <p>Generated by Zeitungsjunge • 29. April 2026 16:11</p>
-      <p>Sources: TechCrunch, etailment, The Verge, ArsTechnica, Wired</p>
-    </footer>
-  </div>
-</body>
-</html>
+     <footer>
+       <p>Generated by Zeitungsjunge • 30. April 2026 12:58</p>
+       <p>Sources: TechCrunch, etailment, The Verge, ArsTechnica, Wired</p>
+     </footer>
+   </div>
+
+   <script>
+     // Initialize extrablatt interactive features
+     const extrablattArticles = [{"id":"etailment-httpsetailmentdenewsstoriesfraud-prevention-wenn-ki-einkauft-warum-betrugspraevention-im-check-out-neu-gedacht-werden-muss-25472utm_sourcerssutm_mediumreferralutm_campaignnewsutm_term","title":"Fraud Prevention: Wenn KI einkauft: Warum Betrugsprävention im Check-out neu gedacht werden muss","description":"Agentische Käufe stellen die Fraud Prevention im E-Commerce vor neue Fragen: Handelt ein Mensch, ein beauftragter KI-Agent oder ein Angreifer? Pascal Neuhaus, Director Retail/eCommerce bei Experian DACH, plädiert in seinem Gastbeitrag für präzisere Datenbewertung statt strengerer Regeln.","link":"https://etailment.de/news/stories/fraud-prevention-wenn-ki-einkauft-warum-betrugspraevention-im-check-out-neu-gedacht-werden-muss-25472?utm_source=rss&utm_medium=referral&utm_campaign=news&utm_term=","source":"etailment","sourceUrl":"https://etailment.de","publishedAt":"2026-04-30T12:00:00.000Z","author":"","category":"Stories","credibility":0.85,"country":"DE","score":0.5696615652970679,"relevanceCategory":"E-Commerce","keywordMatches":6},{"id":"TechCrunch-httpstechcrunchcomp3117647","title":"Amazon’s cloud business is surging — and so is its capital spending","description":"The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.","link":"https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/","source":"TechCrunch","sourceUrl":"https://techcrunch.com","publishedAt":"2026-04-30T00:14:23.000Z","author":"Lucas Ropek","category":"AI","credibility":0.95,"country":"US","score":0.5355781355131173,"relevanceCategory":"E-Commerce","keywordMatches":4},{"id":"etailment-httpsetailmentdenewsstoriesfraud-prevention-wenn-ki-einkauft-warum-betrugspraevention-im-check-out-neu-gedacht-werden-muss-25472utm_sourcerssutm_mediumreferralutm_campaignnewsutm_term","title":"Fraud Prevention: Wenn KI einkauft: Warum Betrugsprävention im Check-out neu gedacht werden muss","description":"Agentische Käufe stellen die Fraud Prevention im E-Commerce vor neue Fragen: Handelt ein Mensch, ein beauftragter KI-Agent oder ein Angreifer? Pascal Neuhaus, Director Retail/eCommerce bei Experian DACH, plädiert in seinem Gastbeitrag für präzisere Datenbewertung statt strengerer Regeln.","link":"https://etailment.de/news/stories/fraud-prevention-wenn-ki-einkauft-warum-betrugspraevention-im-check-out-neu-gedacht-werden-muss-25472?utm_source=rss&utm_medium=referral&utm_campaign=news&utm_term=","source":"etailment","sourceUrl":"https://etailment.de","publishedAt":"2026-04-30T12:00:00.000Z","author":"","category":"Stories","credibility":0.85,"country":"DE","score":0.5696615652970679,"relevanceCategory":"E-Commerce","keywordMatches":6},{"id":"TechCrunch-httpstechcrunchcomp3117647","title":"Amazon’s cloud business is surging — and so is its capital spending","description":"The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.","link":"https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/","source":"TechCrunch","sourceUrl":"https://techcrunch.com","publishedAt":"2026-04-30T00:14:23.000Z","author":"Lucas Ropek","category":"AI","credibility":0.95,"country":"US","score":0.5355781355131173,"relevanceCategory":"E-Commerce","keywordMatches":4},{"id":"TheVerge-httpswwwthevergecomscience921088colossal-de-extinction-antelope-reproduction","title":"Is this ‘de-extinction’ project actually onto something?","description":"Dallas-based genetics and biotech startup Colossal has raised hundreds of millions of dollars from venture capitalists, the CIA, and Peter Thiel, among others. Its buzzy \"de-extinction\" projects aim to \"bring back\" lost animals like the woolly mammoth, the Tasmanian tiger, and the dire wolf - although it isn't creating copies of extinct creatures from ancient DNA, as the \"de-extinction\" tagline may suggest. In the case of the \"dire wolves\" presented to the world in 2025, the pups were gray wolves spliced with a few genetic traits to somewhat resemble the dire wolves. This ambitious branding opened the company up to questions about its conser …\nRead the full story at The Verge.","link":"https://www.theverge.com/science/921088/colossal-de-extinction-antelope-reproduction","source":"The Verge","sourceUrl":"https://theverge.com","publishedAt":"2026-04-30T12:00:00.000Z","author":"Tom Hawking","category":"General","credibility":0.9,"country":"US","score":0.5046615652006173,"relevanceCategory":"Tech","keywordMatches":3},{"id":"OpenAI-httpsopenaicomindexopenai-on-aws","title":"OpenAI models, Codex, and Managed Agents come to AWS","description":"OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.","link":"https://openai.com/index/openai-on-aws","source":"OpenAI","sourceUrl":"https://openai.com/de-DE/news/","publishedAt":"2026-04-28T00:00:00.000Z","author":"","category":"Product","credibility":1,"country":"US","score":0.5038282317708334,"relevanceCategory":"AI","keywordMatches":3},{"id":"Wired-69efb12a2aa398f79cc7a5eb","title":"Get Ready for More Brain-Scanning Consumer Gadgets","description":"Neurable, which makes noninvasive brain-computer interfaces, is licensing its technology and promises a “flood” of new third-party hardware this year and next.","link":"https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/","source":"Wired","sourceUrl":"https://wired.com","publishedAt":"2026-04-28T13:00:00.000Z","author":"Julian Chokkattu","category":"Gear","credibility":0.85,"country":"US","score":0.5033421206597223,"relevanceCategory":"Tech","keywordMatches":4}];
+     const topicsMetadata = {"E-Commerce":{"keywords":["shopping","retail","marketplace","payment","checkout","cart","store","ecommerce","e-commerce","online shop","buy","sell","vendor","merchant","transaction","order","fulfillment","warehouse","logistics","shipping","inventory","sku"],"label":"[ECOM]","color":"#ff9500","description":"E-Commerce & Retail"},"AI":{"keywords":["artificial intelligence","machine learning","gpt","llm","neural","deep learning","ai","algorithm","model","training","inference","nlp","computer vision","transformer","neural network","generative","prompt","embedding"],"label":"[AI]","color":"#00d4ff","description":"Artificial Intelligence & Machine Learning"},"PIM":{"keywords":["product information","master data","dam","digital asset","pim","mdm","data management","catalog","sku management","product data","taxonomy","metadata","content management","asset management"],"label":"[PIM]","color":"#00d084","description":"PIM & Data Management"},"Tech":{"keywords":["software","hardware","cloud","web3","blockchain","startup","technology","tech","app","platform","infrastructure","api","framework","database"],"label":"[TECH]","color":"#ff006e","description":"Technology & Innovation"},"Agentic":{"keywords":["agent","autonomous","workflow automation","rpa","robotic process automation","automation","orchestration","agentic","autonomous agent","ai agent","workflow","process"],"label":"[AGENT]","color":"#ffa500","description":"Agentic & Automation"}};
+     
+     const searchInput = document.getElementById('extrablatt-search');
+     const topicTabs = document.querySelectorAll('.topic-tab');
+     const extrablattGrid = document.getElementById('extrablatt-articles');
+     const resultsCount = document.getElementById('results-count');
+
+     if (searchInput) {
+       searchInput.addEventListener('input', function(e) {
+         const query = e.target.value.toLowerCase();
+         filterExtrablattArticles(query);
+       });
+     }
+
+     topicTabs.forEach(tab => {
+       tab.addEventListener('click', function() {
+         const topic = this.dataset.topic;
+         switchTopic(topic);
+       });
+     });
+
+     function filterExtrablattArticles(query) {
+       const cards = extrablattGrid.querySelectorAll('.article-card');
+       let visibleCount = 0;
+
+       cards.forEach(card => {
+         const title = card.querySelector('.article-title').textContent.toLowerCase();
+         const description = card.querySelector('.article-description').textContent.toLowerCase();
+         const source = card.querySelector('.article-source').textContent.toLowerCase();
+
+         const matches = title.includes(query) || description.includes(query) || source.includes(query);
+         card.style.display = matches ? '' : 'none';
+         if (matches) visibleCount++;
+       });
+
+       resultsCount.textContent = visibleCount;
+     }
+
+     function switchTopic(topic) {
+       // Update active tab
+       topicTabs.forEach(tab => tab.removeAttribute('data-active'));
+       document.querySelector('[data-topic="' + topic + '"]').setAttribute('data-active', 'true');
+
+       // In a real implementation, this would fetch new data
+       // For now, we'd need to reload the page or use AJAX
+       console.log('Topic switched to:', topic);
+       alert('To switch topics, edit topics.json and regenerate. (Scheduled: next daily run at 05:00 UTC)');
+     }
+   </script>
+ </body>
+ </html>
