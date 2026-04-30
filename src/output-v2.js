@@ -216,7 +216,7 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
       background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(255, 0, 110, 0.1) 100%);
       border: 1px solid var(--border);
       border-radius: 12px;
-      padding: 40px 30px;
+      padding: 40px 30px 30px;
       margin-bottom: 40px;
       text-align: center;
       backdrop-filter: blur(10px);
@@ -229,6 +229,47 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       background-clip: text;
+    }
+
+    h1 a {
+      background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-decoration: none;
+    }
+
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 8px;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+
+    nav a {
+      color: var(--text);
+      text-decoration: none;
+      padding: 6px 16px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      font-size: 0.85em;
+      transition: all 0.2s;
+      opacity: 0.7;
+    }
+
+    nav a:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+      opacity: 1;
+    }
+
+    nav a.active {
+      background: rgba(0, 212, 255, 0.15);
+      border-color: var(--primary);
+      color: var(--primary);
+      opacity: 1;
+      font-weight: 600;
     }
 
     .subtitle {
@@ -490,7 +531,7 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
 <body>
   <div class="container">
     <header>
-      <h1>Zeitungsjunge</h1>
+      <h1><a href="./index.html">Zeitungsjunge</a></h1>
       <p class="subtitle">Smart Headlines for Tech & E-Commerce</p>
       <div class="meta">
         <div class="meta-item">
@@ -506,6 +547,12 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
           <strong>${timestamp}</strong>
         </div>
       </div>
+      <nav>
+        <a href="./today.html" ${timeRange === 'today' ? 'class="active"' : ''}>Today</a>
+        <a href="./week.html" ${timeRange === 'week' ? 'class="active"' : ''}>This Week</a>
+        <a href="./month.html" ${timeRange === 'month' ? 'class="active"' : ''}>This Month</a>
+        <a href="./quarter.html" ${timeRange === 'all' ? 'class="active"' : ''}>Last 90 Days</a>
+      </nav>
     </header>
 
     ${emptyState}
