@@ -1,0 +1,120 @@
+{
+  "extrablatt": "E-Commerce",
+  "topics": {
+    "E-Commerce": {
+      "keywords": [
+        "shopping",
+        "retail",
+        "marketplace",
+        "payment",
+        "checkout",
+        "cart",
+        "store",
+        "ecommerce",
+        "e-commerce",
+        "online shop",
+        "buy",
+        "sell",
+        "vendor",
+        "merchant",
+        "transaction",
+        "order",
+        "fulfillment",
+        "warehouse",
+        "logistics",
+        "shipping",
+        "inventory",
+        "sku"
+      ],
+      "label": "[ECOM]",
+      "color": "#ff9500",
+      "description": "E-Commerce & Retail"
+    },
+    "AI": {
+      "keywords": [
+        "artificial intelligence",
+        "machine learning",
+        "gpt",
+        "llm",
+        "neural",
+        "deep learning",
+        "ai",
+        "algorithm",
+        "model",
+        "training",
+        "inference",
+        "nlp",
+        "computer vision",
+        "transformer",
+        "neural network",
+        "generative",
+        "prompt",
+        "embedding"
+      ],
+      "label": "[AI]",
+      "color": "#00d4ff",
+      "description": "Artificial Intelligence & Machine Learning"
+    },
+    "PIM": {
+      "keywords": [
+        "product information",
+        "master data",
+        "dam",
+        "digital asset",
+        "pim",
+        "mdm",
+        "data management",
+        "catalog",
+        "sku management",
+        "product data",
+        "taxonomy",
+        "metadata",
+        "content management",
+        "asset management"
+      ],
+      "label": "[PIM]",
+      "color": "#00d084",
+      "description": "PIM & Data Management"
+    },
+    "Tech": {
+      "keywords": [
+        "software",
+        "hardware",
+        "cloud",
+        "web3",
+        "blockchain",
+        "startup",
+        "technology",
+        "tech",
+        "app",
+        "platform",
+        "infrastructure",
+        "api",
+        "framework",
+        "database"
+      ],
+      "label": "[TECH]",
+      "color": "#ff006e",
+      "description": "Technology & Innovation"
+    },
+    "Agentic": {
+      "keywords": [
+        "agent",
+        "autonomous",
+        "workflow automation",
+        "rpa",
+        "robotic process automation",
+        "automation",
+        "orchestration",
+        "agentic",
+        "autonomous agent",
+        "ai agent",
+        "workflow",
+        "process"
+      ],
+      "label": "[AGENT]",
+      "color": "#ffa500",
+      "description": "Agentic & Automation"
+    }
+  }
+}

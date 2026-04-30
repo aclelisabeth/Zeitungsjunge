@@ -1,5 +1,6 @@
 import { format } from 'date-fns';
 import { de } from 'date-fns/locale';
+import { expandTopicSearch, getCurrentExtrablattTopic, getAllTopicsMetadata } from './topic-filter.js';
 
 /**
  * Generate Markdown output for articles
@@ -104,6 +105,14 @@ function escapeHtml(text) {
 export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 Days') {
   const timestamp = format(new Date(), 'PPP p', { locale: de });
   
+  // Get extrablatt configuration
+  const currentTopic = getCurrentExtrablattTopic();
+  const topicsMetadata = getAllTopicsMetadata();
+  const topicNames = Object.keys(topicsMetadata);
+  
+  // Get extrablatt articles
+  const extrablattArticles = expandTopicSearch(articles, currentTopic, 3);
+  
   // Prioritize E-Commerce content
   const sorted = articles.sort((a, b) => {
     const aIsEcom = a.relevanceCategory === 'E-Commerce' ? 1 : 0;
@@ -121,6 +130,67 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
     'PIM & Data Management': '[PIM]',
     'Agentic & Automation': '[AGENT]'
   };
+
+  // Build extrablatt section
+  let extrablattHtml = '';
+  if (extrablattArticles.length > 0) {
+    const topicConfig = topicsMetadata[currentTopic];
+    let extrablattArticlesHtml = '';
+    
+    for (const article of extrablattArticles) {
+      const dateStr = format(new Date(article.publishedAt), 'dd.MM.yyyy', { locale: de });
+      const topicBadge = `<span class="extrablatt-topic-badge" style="background-color: ${topicConfig.color}20; color: ${topicConfig.color}; border: 1px solid ${topicConfig.color};">${topicConfig.label}</span>`;
+      
+      extrablattArticlesHtml += `
+              <div class="article-card extrablatt-card">
+                <div class="article-inner">
+                  <h3 class="article-title">${escapeHtml(article.title)}</h3>
+                  <div class="article-meta-top">
+                    <span class="article-source">${article.source}</span>
+                    <span class="article-date">${dateStr}</span>
+                    ${topicBadge}
+                  </div>
+                  <p class="article-description">${escapeHtml(article.description)}</p>
+                  <div class="article-footer">
+                    <div class="article-score">
+                      ${(article.score * 100).toFixed(1)}% relevance
+                    </div>
+                    <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
+                  </div>
+                </div>
+              </div>
+            `;
+    }
+
+    // Build topic selector and search controls
+    let topicOptions = '';
+    for (const topic of topicNames) {
+      topicOptions += `<button class="topic-tab" data-topic="${topic}" ${topic === currentTopic ? 'data-active="true"' : ''}>${topicsMetadata[topic].label} ${topic}</button>`;
+    }
+
+    extrablattHtml = `
+      <div class="extrablatt-section">
+        <div class="extrablatt-header">
+          <h2>EXTRABLATT: ${currentTopic.toUpperCase()}</h2>
+          <p class="extrablatt-subtitle">${topicConfig.description}</p>
+        </div>
+        
+        <div class="extrablatt-controls">
+          <div class="topic-selector">
+            ${topicOptions}
+          </div>
+          <div class="search-container">
+            <input type="text" id="extrablatt-search" placeholder="Search within ${currentTopic}..." class="search-input">
+            <span class="search-results-count">(<span id="results-count">${extrablattArticles.length}</span> articles)</span>
+          </div>
+        </div>
+        
+        <div class="articles-grid extrablatt-grid" id="extrablatt-articles">
+          ${extrablattArticlesHtml}
+        </div>
+      </div>
+    `;
+  }
 
   // Build category sections
   let categorySections = '';
@@ -487,6 +557,122 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
       border: 1px solid var(--ecom);
     }
 
+    .extrablatt-section {
+      background: linear-gradient(135deg, rgba(0, 212, 255, 0.05) 0%, rgba(255, 0, 110, 0.05) 100%);
+      border: 2px solid var(--primary);
+      border-radius: 12px;
+      padding: 30px;
+      margin-bottom: 50px;
+    }
+
+    .extrablatt-header {
+      margin-bottom: 20px;
+      padding-bottom: 15px;
+      border-bottom: 2px solid var(--primary);
+    }
+
+    .extrablatt-header h2 {
+      font-size: 1.5em;
+      font-weight: 700;
+      color: var(--primary);
+      margin-bottom: 5px;
+    }
+
+    .extrablatt-subtitle {
+      font-size: 0.95em;
+      color: var(--text);
+      opacity: 0.8;
+    }
+
+    .extrablatt-controls {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      margin-bottom: 25px;
+    }
+
+    .topic-selector {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .topic-tab {
+      padding: 8px 15px;
+      background: rgba(0, 212, 255, 0.1);
+      border: 1px solid var(--border);
+      color: var(--text);
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 0.9em;
+      font-weight: 500;
+      transition: all 0.3s ease;
+    }
+
+    .topic-tab:hover {
+      background: rgba(0, 212, 255, 0.2);
+      border-color: var(--primary);
+    }
+
+    .topic-tab[data-active="true"] {
+      background: var(--primary);
+      color: var(--dark);
+      border-color: var(--primary);
+      font-weight: 600;
+    }
+
+    .search-container {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .search-input {
+      flex: 1;
+      padding: 10px 15px;
+      background: rgba(0, 212, 255, 0.1);
+      border: 1px solid var(--border);
+      color: var(--text);
+      border-radius: 6px;
+      font-size: 0.9em;
+    }
+
+    .search-input::placeholder {
+      color: var(--text);
+      opacity: 0.5;
+    }
+
+    .search-input:focus {
+      outline: none;
+      border-color: var(--primary);
+      background: rgba(0, 212, 255, 0.15);
+    }
+
+    .search-results-count {
+      font-size: 0.85em;
+      color: var(--text);
+      opacity: 0.7;
+      white-space: nowrap;
+    }
+
+    .extrablatt-grid {
+      margin-top: 20px;
+    }
+
+    .extrablatt-card {
+      border-color: var(--primary);
+      background: rgba(0, 212, 255, 0.05);
+    }
+
+    .extrablatt-topic-badge {
+      display: inline-block;
+      padding: 5px 10px;
+      border-radius: 4px;
+      font-size: 0.75em;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+
     .empty-state {
       text-align: center;
       padding: 40px;
@@ -557,15 +743,70 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
 
     ${emptyState}
 
+    ${extrablattHtml}
+
     ${categorySections}
 
-    <footer>
-      <p>Generated by Zeitungsjunge • ${timestamp}</p>
-      <p>Sources: TechCrunch, etailment, The Verge, ArsTechnica, Wired</p>
-    </footer>
-  </div>
-</body>
-</html>`;
+     <footer>
+       <p>Generated by Zeitungsjunge • ${timestamp}</p>
+       <p>Sources: TechCrunch, etailment, The Verge, ArsTechnica, Wired</p>
+     </footer>
+   </div>
+
+   <script>
+     // Initialize extrablatt interactive features
+     const extrablattArticles = ${JSON.stringify(extrablattArticles)};
+     const topicsMetadata = ${JSON.stringify(topicsMetadata)};
+     
+     const searchInput = document.getElementById('extrablatt-search');
+     const topicTabs = document.querySelectorAll('.topic-tab');
+     const extrablattGrid = document.getElementById('extrablatt-articles');
+     const resultsCount = document.getElementById('results-count');
+
+     if (searchInput) {
+       searchInput.addEventListener('input', function(e) {
+         const query = e.target.value.toLowerCase();
+         filterExtrablattArticles(query);
+       });
+     }
+
+     topicTabs.forEach(tab => {
+       tab.addEventListener('click', function() {
+         const topic = this.dataset.topic;
+         switchTopic(topic);
+       });
+     });
+
+     function filterExtrablattArticles(query) {
+       const cards = extrablattGrid.querySelectorAll('.article-card');
+       let visibleCount = 0;
+
+       cards.forEach(card => {
+         const title = card.querySelector('.article-title').textContent.toLowerCase();
+         const description = card.querySelector('.article-description').textContent.toLowerCase();
+         const source = card.querySelector('.article-source').textContent.toLowerCase();
+
+         const matches = title.includes(query) || description.includes(query) || source.includes(query);
+         card.style.display = matches ? '' : 'none';
+         if (matches) visibleCount++;
+       });
+
+       resultsCount.textContent = visibleCount;
+     }
+
+     function switchTopic(topic) {
+       // Update active tab
+       topicTabs.forEach(tab => tab.removeAttribute('data-active'));
+       document.querySelector('[data-topic="' + topic + '"]').setAttribute('data-active', 'true');
+
+       // In a real implementation, this would fetch new data
+       // For now, we'd need to reload the page or use AJAX
+       console.log('Topic switched to:', topic);
+       alert('To switch topics, edit topics.json and regenerate. (Scheduled: next daily run at 05:00 UTC)');
+     }
+   </script>
+ </body>
+ </html>`;
 
   return html;
 }
