@@ -87,10 +87,36 @@ export function rankArticles(articles) {
 }
 
 /**
- * Get top N articles from ranked list
+ * Get top N articles from ranked list, ensuring source diversity.
+ * First picks the best article from each source, then fills remaining
+ * slots with the next highest-scoring articles overall.
  */
 export function getTopArticles(rankedArticles, limit = 5) {
-  return rankedArticles.slice(0, limit);
+  const selected = [];
+  const usedSources = new Set();
+
+  // Pass 1: best article per source
+  for (const article of rankedArticles) {
+    if (!usedSources.has(article.source)) {
+      selected.push(article);
+      usedSources.add(article.source);
+    }
+    if (selected.length >= limit) break;
+  }
+
+  // Pass 2: fill remaining slots with next best (any source)
+  if (selected.length < limit) {
+    const selectedIds = new Set(selected.map(a => a.id));
+    for (const article of rankedArticles) {
+      if (!selectedIds.has(article.id)) {
+        selected.push(article);
+        if (selected.length >= limit) break;
+      }
+    }
+  }
+
+  // Re-sort by score so the final list is still ordered by relevance
+  return selected.sort((a, b) => b.score - a.score);
 }
 
 /**
