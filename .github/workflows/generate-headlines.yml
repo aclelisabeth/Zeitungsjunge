@@ -46,7 +46,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add docs/ output/
+          git add docs/
           git commit -m "Auto-generate headlines" || echo "No changes to commit"
           git push
 
