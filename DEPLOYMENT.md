@@ -1,4 +1,4 @@
-# 🚀 Zeitungsjunge - Deployment Guide
+# Zeitungsjunge - Deployment Guide
 
 ## GitHub Pages Setup (Manuell)
 

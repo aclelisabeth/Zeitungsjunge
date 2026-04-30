@@ -1,4 +1,4 @@
-# ⚡ Zeitungsjunge - Quick Start
+# Zeitungsjunge - Quick Start
 
 ## In 30 Sekunden
 
@@ -56,11 +56,11 @@ Nach Setup in Repository Settings:
 
 Die Headlines werden automatisch kategorisiert:
 
-- 🤖 AI & Machine Learning
-- 💻 Technology
-- 🛒 E-Commerce
-- 📊 PIM & Data Management
-- 🔄 Agentic & Automation
+- AI & Machine Learning
+- Technology
+- E-Commerce
+- PIM & Data Management
+- Agentic & Automation
 
 ## Quellen
 

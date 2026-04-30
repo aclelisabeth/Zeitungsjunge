@@ -1,26 +1,26 @@
-# 📰 Zeitungsjunge - Smart News Aggregator
+# Zeitungsjunge - Smart News Aggregator
 
 Ein intelligenter Nachrichten-Aggregator, der die wichtigsten Schlagzeilen zu **AI, Tech, E-Commerce, PIM/MDM und Agentic Commerce** sammelt, rankt und in modernem Design präsentiert.
 
 ## Features
 
-✨ **Smart Ranking System**
+**Smart Ranking System**
 - Automatisches Ranking nach Relevanz
 - Keyword-basierte Kategorisierung (AI, Tech, E-Commerce, PIM, MDM, Agentic)
 - Berücksichtigung von Aktualität und Quelle
 
-🔄 **Multi-Source Scraping**
+**Multi-Source Scraping**
 - RSS-Feed Support (Fallback: Web Scraping)
 - 5 Premium-Quellen: TechCrunch, etailment, The Verge, ArsTechnica, Wired
 - Automatische Deduplizierung
 
-🎯 **Flexible Zeitrahmen**
+**Flexible Zeitrahmen**
 - Heute
 - Letzte 7 Tage
 - Letzte 30 Tage
 - Letzte 90 Tage
 
-📄 **Moderne Output-Formate**
+**Moderne Output-Formate**
 - **Markdown** - für GitHub, Dokumentation
 - **HTML** - modernes 2026-Design mit Dark Mode
 

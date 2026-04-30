@@ -39,6 +39,22 @@ export const SOURCES = [
     country: "US",
     credibility: 0.85,
     scrapingStrategy: "rss-primary"
+  },
+  {
+    name: "PIMvendors",
+    url: "https://pimvendors.com/",
+    rssUrl: "https://pimvendors.com/feed/rss",
+    country: "NL",
+    credibility: 0.65,
+    scrapingStrategy: "rss-primary"
+  },
+  {
+    name: "OpenAI",
+    url: "https://openai.com/de-DE/news/",
+    rssUrl: "https://openai.com/news/rss.xml",
+    country: "US",
+    credibility: 1.0,
+    scrapingStrategy: "rss-primary"
   }
 ];
 

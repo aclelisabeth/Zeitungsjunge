@@ -1,4 +1,4 @@
-# 📰 Zeitungsjunge - Project Summary
+# Zeitungsjunge - Project Summary
 
 ## Was wurde implementiert?
 
@@ -6,7 +6,7 @@ Ein **intelligenter News-Aggregator** für Tech & E-Commerce Headlines, der auto
 
 ---
 
-## ✨ Features (Implementiert)
+## Features (Implementiert)
 
 ### 1. **Multi-Source Web Scraping**
 - ✅ RSS-Feed Parsing (Primär)
@@ -25,11 +25,11 @@ Ein **intelligenter News-Aggregator** für Tech & E-Commerce Headlines, der auto
   - Quelle-Kredibilität (20%)
   - Multi-Source Häufigkeit (15%)
 - ✅ 5 Keyword-Kategorien:
-  - 🤖 AI & Machine Learning
-  - 💻 Technology
-  - 🛒 E-Commerce
-  - 📊 PIM & Data Management
-  - 🔄 Agentic & Automation
+  - AI & Machine Learning
+  - Technology
+  - E-Commerce
+  - PIM & Data Management
+  - Agentic & Automation
 
 ### 3. **Flexible Zeitrahmen**
 - ✅ Heute
@@ -72,7 +72,7 @@ Ein **intelligenter News-Aggregator** für Tech & E-Commerce Headlines, der auto
 
 ---
 
-## 📂 Projektstruktur
+## Projektstruktur
 
 ```
 Zeitungsjunge/
@@ -100,7 +100,7 @@ Zeitungsjunge/
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 | Kategorie | Tech |
 |-----------|------|
@@ -115,14 +115,14 @@ Zeitungsjunge/
 
 ---
 
-## 📊 Beispiel Output
+## Beispiel Output
 
 ### Markdown
 ```markdown
-# 📰 Tech & E-Commerce Headlines
+# Tech & E-Commerce Headlines
 **Generated:** 29. April 2026 14:26
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 1. **OpenAI Really Wants Codex to Shut Up About Goblins**
    - Source: Wired | Date: 29.04.2026
    - Score: 49.1%
@@ -151,7 +151,7 @@ npm run scrape -- --limit 10    # Top 10
 
 ---
 
-## 🚀 Deployment Steps
+## Deployment Steps
 
 1. **GitHub Pages aktivieren:**
    - Repo Settings → Pages
@@ -171,7 +171,7 @@ npm run scrape -- --limit 10    # Top 10
 
 ---
 
-## 🎯 Ranking Beispiel
+## Ranking Beispiel
 
 **Artikel:** "OpenAI launches new AI agents for e-commerce"
 
@@ -185,7 +185,7 @@ Scoring:
 
 ---
 
-## 📈 Metrics
+## Metrics
 
 | Metrik | Wert |
 |--------|------|
@@ -200,7 +200,7 @@ Scoring:
 
 ---
 
-## 🔮 Mögliche Zukünftige Features
+## Mögliche Zukünftige Features
 
 - [ ] Artikel-Zusammenfassung (AI)
 - [ ] Newsletter-Export
@@ -217,7 +217,7 @@ Scoring:
 
 ---
 
-## 📝 Dokumentation
+## Dokumentation
 
 | Datei | Zweck |
 |-------|-------|
@@ -228,7 +228,7 @@ Scoring:
 
 ---
 
-## ✅ Qualität
+## Qualität
 
 - ✅ Fehlerbehandlung
 - ✅ Fallback-Mechanismen
@@ -241,7 +241,7 @@ Scoring:
 
 ---
 
-## 🎉 Status
+## Status
 
 **PRODUCTION READY** ✅
 
@@ -255,7 +255,7 @@ Das Projekt ist vollständig implementiert und einsatzbereit:
 
 ---
 
-## 📞 Support
+## Support
 
 Fehler? → GitHub Issues
 Feedback? → Pull Request
