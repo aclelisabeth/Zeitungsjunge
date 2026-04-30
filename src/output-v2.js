@@ -1,6 +1,6 @@
 import { format } from 'date-fns';
 import { de } from 'date-fns/locale';
-import { expandTopicSearch, getCurrentExtrablattTopic, getAllTopicsMetadata } from './topic-filter.js';
+import { filterByTopic, getCurrentExtrablattTopic, getAllTopicsMetadata, getAvailableTopics } from './topic-filter.js';
 
 /**
  * Generate Markdown output for articles
@@ -108,10 +108,43 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
   // Get extrablatt configuration
   const currentTopic = getCurrentExtrablattTopic();
   const topicsMetadata = getAllTopicsMetadata();
-  const topicNames = Object.keys(topicsMetadata);
+  const topicNames = getAvailableTopics();
   
-  // Get extrablatt articles
-  const extrablattArticles = expandTopicSearch(articles, currentTopic, 3);
+  // Pre-filter articles for all topics (for dynamic switching)
+  const topicArticles = {};
+  for (const topic of topicNames) {
+    topicArticles[topic] = filterByTopic(articles, topic, 20);
+  }
+  
+  // Get current extrablatt articles
+  const extrablattArticles = topicArticles[currentTopic] || [];
+  
+  // Helper function to generate article card HTML
+  const generateArticleCard = (article, topicConfig) => {
+    const dateStr = format(new Date(article.publishedAt), 'dd.MM.yyyy', { locale: de });
+    const topicBadge = `<span class="extrablatt-topic-badge" style="background-color: ${topicConfig.color}20; color: ${topicConfig.color}; border: 1px solid ${topicConfig.color};">${topicConfig.label}</span>`;
+    
+    return `
+      <div class="article-card extrablatt-card">
+        <div class="article-inner">
+          <h3 class="article-title">${escapeHtml(article.title)}</h3>
+          <div class="article-meta-top">
+            <span class="article-source">${article.source}</span>
+            <span class="article-date">${dateStr}</span>
+            ${topicBadge}
+          </div>
+          <p class="article-description">${escapeHtml(article.description)}</p>
+          <div class="article-footer">
+            <div class="article-score">
+              ${(article.score * 100).toFixed(1)}% relevance
+            </div>
+            <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
+          </div>
+        </div>
+      </div>
+    `;
+  };
+  
   
   // Prioritize E-Commerce content
   const sorted = articles.sort((a, b) => {
@@ -138,28 +171,7 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
     let extrablattArticlesHtml = '';
     
     for (const article of extrablattArticles) {
-      const dateStr = format(new Date(article.publishedAt), 'dd.MM.yyyy', { locale: de });
-      const topicBadge = `<span class="extrablatt-topic-badge" style="background-color: ${topicConfig.color}20; color: ${topicConfig.color}; border: 1px solid ${topicConfig.color};">${topicConfig.label}</span>`;
-      
-      extrablattArticlesHtml += `
-              <div class="article-card extrablatt-card">
-                <div class="article-inner">
-                  <h3 class="article-title">${escapeHtml(article.title)}</h3>
-                  <div class="article-meta-top">
-                    <span class="article-source">${article.source}</span>
-                    <span class="article-date">${dateStr}</span>
-                    ${topicBadge}
-                  </div>
-                  <p class="article-description">${escapeHtml(article.description)}</p>
-                  <div class="article-footer">
-                    <div class="article-score">
-                      ${(article.score * 100).toFixed(1)}% relevance
-                    </div>
-                    <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
-                  </div>
-                </div>
-              </div>
-            `;
+      extrablattArticlesHtml += generateArticleCard(article, topicConfig);
     }
 
     // Build topic selector and search controls
@@ -180,7 +192,7 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
             ${topicOptions}
           </div>
           <div class="search-container">
-            <input type="text" id="extrablatt-search" placeholder="Search within ${currentTopic}..." class="search-input">
+            <input type="text" id="extrablatt-search" placeholder="Search..." class="search-input">
             <span class="search-results-count">(<span id="results-count">${extrablattArticles.length}</span> articles)</span>
           </div>
         </div>
@@ -192,55 +204,8 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
     `;
   }
 
-  // Build category sections
-  let categorySections = '';
-  for (const [category, items] of Object.entries(grouped)) {
-    if (items.length === 0) continue;
-
-    let articlesHtml = '';
-    for (const article of items) {
-      const isEcom = article.relevanceCategory === 'E-Commerce';
-      const ecomClass = isEcom ? 'ecom-featured' : '';
-       const ecomBadge = isEcom ? '<span class="article-ecom-badge">[ECOM]</span>' : '';
-      const dateStr = format(new Date(article.publishedAt), 'dd.MM.yyyy', { locale: de });
-
-      articlesHtml += `
-              <div class="article-card ${ecomClass}">
-                <div class="article-inner">
-                  <h3 class="article-title">${escapeHtml(article.title)}</h3>
-                  <div class="article-meta-top">
-                    <span class="article-source">${article.source}</span>
-                    <span class="article-date">${dateStr}</span>
-                    ${ecomBadge}
-                  </div>
-                  <p class="article-description">${escapeHtml(article.description)}</p>
-                  <div class="article-footer">
-                    <div class="article-score">
-                      ${(article.score * 100).toFixed(1)}% relevance
-                    </div>
-                    <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>
-                  </div>
-                </div>
-              </div>
-            `;
-    }
-
-    categorySections += `
-        <div class="category-section">
-          <div class="category-header">
-            <span class="category-label">${labelMap[category]}</span>
-            <h2 class="category-title">${category}</h2>
-            <div class="article-count">${items.length} Artikel</div>
-          </div>
-          <div class="articles-grid">
-            ${articlesHtml}
-          </div>
-        </div>
-      `;
-  }
-
   const emptyState = articles.length === 0 
-    ? '<div class="empty-state">Keine Artikel für diesen Zeitraum gefunden.</div>'
+    ? '<div class="empty-state">No articles found for this time range.</div>'
     : '';
 
   const html = `<!DOCTYPE html>
@@ -745,66 +710,118 @@ export function generateHTML(articles, timeRange = 'week', rangeLabel = 'Last 7 
 
     ${extrablattHtml}
 
-    ${categorySections}
-
      <footer>
        <p>Generated by Zeitungsjunge • ${timestamp}</p>
        <p>Sources: TechCrunch, etailment, The Verge, ArsTechnica, Wired</p>
      </footer>
    </div>
 
-   <script>
-     // Initialize extrablatt interactive features
-     const extrablattArticles = ${JSON.stringify(extrablattArticles)};
-     const topicsMetadata = ${JSON.stringify(topicsMetadata)};
-     
-     const searchInput = document.getElementById('extrablatt-search');
-     const topicTabs = document.querySelectorAll('.topic-tab');
-     const extrablattGrid = document.getElementById('extrablatt-articles');
-     const resultsCount = document.getElementById('results-count');
+    <script>
+      // Initialize extrablatt interactive features
+      const allTopicArticles = ${JSON.stringify(topicArticles)};
+      const topicsMetadata = ${JSON.stringify(topicsMetadata)};
+      const topicNames = ${JSON.stringify(topicNames)};
+      
+      const searchInput = document.getElementById('extrablatt-search');
+      const topicTabs = document.querySelectorAll('.topic-tab');
+      const extrablattGrid = document.getElementById('extrablatt-articles');
+      const resultsCount = document.getElementById('results-count');
 
-     if (searchInput) {
-       searchInput.addEventListener('input', function(e) {
-         const query = e.target.value.toLowerCase();
-         filterExtrablattArticles(query);
-       });
-     }
+      if (searchInput) {
+        searchInput.addEventListener('input', function(e) {
+          const query = e.target.value.toLowerCase();
+          filterExtrablattArticles(query);
+        });
+      }
 
-     topicTabs.forEach(tab => {
-       tab.addEventListener('click', function() {
-         const topic = this.dataset.topic;
-         switchTopic(topic);
-       });
-     });
+      topicTabs.forEach(tab => {
+        tab.addEventListener('click', function(e) {
+          e.preventDefault();
+          const topic = this.dataset.topic;
+          switchTopic(topic);
+        });
+      });
 
-     function filterExtrablattArticles(query) {
-       const cards = extrablattGrid.querySelectorAll('.article-card');
-       let visibleCount = 0;
+      function filterExtrablattArticles(query) {
+        const cards = extrablattGrid.querySelectorAll('.article-card');
+        let visibleCount = 0;
 
-       cards.forEach(card => {
-         const title = card.querySelector('.article-title').textContent.toLowerCase();
-         const description = card.querySelector('.article-description').textContent.toLowerCase();
-         const source = card.querySelector('.article-source').textContent.toLowerCase();
+        cards.forEach(card => {
+          const title = card.querySelector('.article-title').textContent.toLowerCase();
+          const description = card.querySelector('.article-description').textContent.toLowerCase();
+          const source = card.querySelector('.article-source').textContent.toLowerCase();
 
-         const matches = title.includes(query) || description.includes(query) || source.includes(query);
-         card.style.display = matches ? '' : 'none';
-         if (matches) visibleCount++;
-       });
+          const matches = title.includes(query) || description.includes(query) || source.includes(query);
+          card.style.display = matches ? '' : 'none';
+          if (matches) visibleCount++;
+        });
 
-       resultsCount.textContent = visibleCount;
-     }
+        resultsCount.textContent = visibleCount;
+      }
 
-     function switchTopic(topic) {
-       // Update active tab
-       topicTabs.forEach(tab => tab.removeAttribute('data-active'));
-       document.querySelector('[data-topic="' + topic + '"]').setAttribute('data-active', 'true');
+      function switchTopic(topic) {
+        // Get articles for this topic
+        const articles = allTopicArticles[topic] || [];
+        if (articles.length === 0) {
+          alert('No articles found for ' + topic);
+          return;
+        }
 
-       // In a real implementation, this would fetch new data
-       // For now, we'd need to reload the page or use AJAX
-       console.log('Topic switched to:', topic);
-       alert('To switch topics, edit topics.json and regenerate. (Scheduled: next daily run at 05:00 UTC)');
-     }
-   </script>
+        const topicConfig = topicsMetadata[topic];
+        
+        // Update active tab
+        topicTabs.forEach(tab => tab.removeAttribute('data-active'));
+        document.querySelector('[data-topic="' + topic + '"]').setAttribute('data-active', 'true');
+
+        // Update header
+        document.querySelector('.extrablatt-header h2').textContent = 'EXTRABLATT: ' + topic.toUpperCase();
+        document.querySelector('.extrablatt-subtitle').textContent = topicConfig.description;
+
+        // Update search placeholder
+        if (searchInput) {
+          searchInput.placeholder = 'Search ' + topic + '...';
+          searchInput.value = '';
+        }
+
+        // Render articles
+        let articlesHtml = '';
+        articles.forEach(article => {
+          const dateStr = new Date(article.publishedAt).toLocaleDateString('de-DE');
+          const topicBadge = '<span class="extrablatt-topic-badge" style="background-color: ' + topicConfig.color + '20; color: ' + topicConfig.color + '; border: 1px solid ' + topicConfig.color + ';">' + topicConfig.label + '</span>';
+          
+          articlesHtml += '<div class="article-card extrablatt-card">' +
+            '<div class="article-inner">' +
+            '<h3 class="article-title">' + escapeHtml(article.title) + '</h3>' +
+            '<div class="article-meta-top">' +
+            '<span class="article-source">' + article.source + '</span>' +
+            '<span class="article-date">' + dateStr + '</span>' +
+            topicBadge +
+            '</div>' +
+            '<p class="article-description">' + escapeHtml(article.description) + '</p>' +
+            '<div class="article-footer">' +
+            '<div class="article-score">' + (article.score * 100).toFixed(1) + '% relevance</div>' +
+            '<a href="' + article.link + '" target="_blank" rel="noopener noreferrer" class="article-link">Read article</a>' +
+            '</div>' +
+            '</div>' +
+            '</div>';
+        });
+
+        extrablattGrid.innerHTML = articlesHtml;
+        resultsCount.textContent = articles.length;
+      }
+
+      function escapeHtml(text) {
+        if (!text) return '';
+        const map = {
+          '&': '&amp;',
+          '<': '&lt;',
+          '>': '&gt;',
+          '"': '&quot;',
+          "'": '&#039;'
+        };
+        return text.replace(/[&<>"']/g, m => map[m]);
+      }
+    </script>
  </body>
  </html>`;
 
