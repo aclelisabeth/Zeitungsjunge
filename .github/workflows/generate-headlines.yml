@@ -34,12 +34,18 @@ jobs:
           node src/cli.js --range month --outdir docs
           node src/cli.js --range all --outdir docs
           cp docs/week.html docs/index.html
+          # Also copy to repo root (GitHub Pages serves from root)
+          cp docs/today.html today.html
+          cp docs/week.html week.html
+          cp docs/month.html month.html
+          cp docs/quarter.html quarter.html
+          cp docs/index.html index.html
 
       - name: Commit & push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add docs/
+          git add docs/ today.html week.html month.html quarter.html index.html
           git diff --staged --quiet || (git commit -m "Auto-generate headlines $(date -u '+%Y-%m-%d %H:%M UTC')" && git push)
 
       - name: Done!
