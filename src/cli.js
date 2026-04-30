@@ -16,7 +16,8 @@ function parseArgs() {
   const options = {
     range: 'week',
     output: 'both', // 'md', 'html', 'both'
-    limit: TOP_HEADLINES
+    limit: TOP_HEADLINES,
+    outdir: 'output'
   };
 
   for (let i = 0; i < args.length; i++) {
@@ -28,6 +29,9 @@ function parseArgs() {
       i++;
     } else if (args[i] === '--limit' && args[i + 1]) {
       options.limit = parseInt(args[i + 1], 10);
+      i++;
+    } else if (args[i] === '--outdir' && args[i + 1]) {
+      options.outdir = args[i + 1];
       i++;
     }
   }
@@ -113,25 +117,28 @@ async function scrapeNews() {
        prefixText: '[7] '
      }).start();
 
-    const outputDir = path.join(process.cwd(), 'output');
+    const outputDir = path.join(process.cwd(), options.outdir);
     if (!fs.existsSync(outputDir)) {
       fs.mkdirSync(outputDir, { recursive: true });
     }
 
     const timestamp = new Date().toISOString().split('T')[0];
 
-    if (options.output === 'md' || options.output === 'both') {
-      const markdownContent = generateMarkdown(topArticles, options.range, rangeLabel);
-      const mdPath = path.join(outputDir, `headlines-${options.range}-${timestamp}.md`);
-      fs.writeFileSync(mdPath, markdownContent);
-       console.log(chalk.green(`   [OK] Markdown: ${mdPath}`));
-    }
+    // Only write timestamped files when using the default output dir
+    if (options.outdir === 'output') {
+      if (options.output === 'md' || options.output === 'both') {
+        const markdownContent = generateMarkdown(topArticles, options.range, rangeLabel);
+        const mdPath = path.join(outputDir, `headlines-${options.range}-${timestamp}.md`);
+        fs.writeFileSync(mdPath, markdownContent);
+        console.log(chalk.green(`   [OK] Markdown: ${mdPath}`));
+      }
 
-    if (options.output === 'html' || options.output === 'both') {
-      const htmlContent = generateHTML(topArticles, options.range, rangeLabel);
-      const htmlPath = path.join(outputDir, `headlines-${options.range}-${timestamp}.html`);
-      fs.writeFileSync(htmlPath, htmlContent);
-       console.log(chalk.green(`   [OK] HTML: ${htmlPath}`));
+      if (options.output === 'html' || options.output === 'both') {
+        const htmlContent = generateHTML(topArticles, options.range, rangeLabel);
+        const htmlPath = path.join(outputDir, `headlines-${options.range}-${timestamp}.html`);
+        fs.writeFileSync(htmlPath, htmlContent);
+        console.log(chalk.green(`   [OK] HTML: ${htmlPath}`));
+      }
     }
 
     // Also update latest files
@@ -143,7 +150,13 @@ async function scrapeNews() {
 
     if (options.output === 'html' || options.output === 'both') {
       const htmlContent = generateHTML(topArticles, options.range, rangeLabel);
-      const htmlPath = path.join(outputDir, `latest-${options.range}.html`);
+      // When writing to a custom outdir, use plain names (today.html, week.html, etc.)
+      // When writing to default output dir, use latest- prefix
+      const latestRange = options.range === 'all' ? 'quarter' : options.range;
+      const htmlFilename = options.outdir !== 'output'
+        ? `${latestRange}.html`
+        : `latest-${latestRange}.html`;
+      const htmlPath = path.join(outputDir, htmlFilename);
       fs.writeFileSync(htmlPath, htmlContent);
     }
 
