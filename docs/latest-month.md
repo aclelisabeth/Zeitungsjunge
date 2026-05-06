@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 5. Mai 2026 07:12
+**Generated:** 6. Mai 2026 07:31
 
 ## Report: Last 30 Days
 
@@ -9,16 +9,93 @@
 ### [AI] AI & Machine Learning
 
 1. **Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI**
-   - Source: The Verge | Date: 04.05.2026
+   - Source: The Verge | Date: 05.05.2026
    - Score: 57.5%
    - [Read More](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
-   > Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. 
-The trial began with jury selection on April 27th. Elon Musk took the stand on April 28th as the first witness called, portraying his interest in founding OpenAI as an effort to help save humanity, then returned to the stand on April 29th and again for a third day of testimony on April 30th, before his financial manager and Neuralink CEO, Jared Birchall, took the stand.
-Week two of the trial has begun, with professor Stuart Russell and OpenAI cofounder Greg Brockman scheduled to take the stand on Monday, May 4th, and, for the first time, a live audio stream on YouTube.
+   > Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk took the stand on April 28th as the first witness called, portraying his interest in founding OpenAI as an effort to help save humanity across three days of testimony, before his financial manager and Neuralink CEO, Jared Birchall, took the stand.
+Week two of the trial is underway, with professor Stuart Russell and OpenAI cofounder Greg Brockman taking the stand on Monday, as the proceedings also added a live audio stream on YouTube.
+
+On Tuesday, Brockman’s testimony continued, with Shivon Zilis, a former OpenAI board member who shares four children with Musk, up next. It’s possible that audio of her testimony will not be available on the stream, with lawyers citing threats against her and her children. Microsoft CEO Satya Nadella is scheduled to appear on Monday, with OpenAI cofounder and former chief scientist Ilya Sutskever lined up to testify after that.
 Musk was a cofounder of OpenAI and claims that Altman and Brockman tricked him into giving the company money, only to turn their backs on their original goal. However, OpenAI says that “This lawsuit has always been a baseless and jealous bid to derail a competitor” in a bid to boost Musk’s own SpaceX / xAI / X companies that have launched Grok as a competitor to ChatGPT.
 In his lawsuit, Musk is asking for the removal of Altman and Brockman, and for OpenAI to stop operating as a public benefit corporation. Musk has also demanded that OpenAI’s nonprofit receive up to $150 billion in damages he’s asking for if he wins the case.
-
+People to Know
+Plaintiff
+Elon Musk — plaintiff, OpenAI cofounder and now CEO of rival xAI
+Steven Molo — lead counsel for plaintiff
+Jared Birchall — manager of Musk’s family office
+Shivon Zilis — former OpenAI board member who shares multiple children with Musk
+Defendant
+Sam Altman — defendant, CEO of OpenAI 
+William Savitt — lead counsel for defendant
+Greg Brockman — president of OpenAI as well as a cofounder 
+Ilya Sutskever — former chief scientist at OpenAI and a cofounder
+Judge
+Yvonne Gonzalez Rogers — aka YGR, trial judge
 Here’s all the latest on the trial between Musk and Altman:
+The jurors look as bored as I feel.
+			
+Brockman steps down. We are looking at the video deposition of Robert Wu.
+			
+Brockman is telling the truth about considering removing Musk from the board.
+			
+Every time Molo makes a summary of Brockman’s testimony, Brockman objects to it.
+			
+We are now fighting about “Either go do something on your own or continue with OpenAI as a non-profit.”
+			
+One other thing I don’t understand…
+			
+Molo is trying to reiterate what he did more effectively yesterday.
+			
+“You had no problems answering your lawyers’ questions,” Molo is practically yelling.
+			
+Molo asks Brockman if Musk was “being mean” to him.
+			
+We are back to quibbling.
+			
+We are now discussing the OpenAI Foundation layoffs.
+			
+Microsoft is done, bless them.
+			
+Microsoft is now getting to talk to Brockman.
+			
+The blip.
+			
+We are now discussing Shivon Zilis.
+			
+We are now going through the assorted releases of GPT models.
+			
+When Musk resigned, he gave a speech to OpenAI’s employees that might have been demoralizing…
+			
+One observation from Brockman and Sutskever’s emails.
+			
+We are now recontextualizing more entries from Brockman.
+			
+There were discussions between Brockman, Altman, and Sutskever about removing Musk from the board.
+			
+We are back from a break.
+			
+“I thought he was going to hit me,” Brockman says of Musk.
+			
+Elon Musk doesn’t love anything he can’t control.
+			
+Sam Altman discussed an equal equity split…
+			
+We are now discussing Brockman’s journal.
+			
+Brockman talks Dota 2.
+			
+Elon Musk tried to get Bill Gates to donate to OpenAI.
+			
+First sidebar of the trial.
+			
+OpenAI had layoffs at Musk’s insistence.
+			
+Greg Brockman tells the court that while at OpenAI, he and three others worked at Tesla.
+			
+YGR is on the bench.
+			
+Google’s AI architect lived rent-free in Elon Musk’s head
+			
 OpenAI’s president does ‘all the things,’ except answer a question
 			
 Jury is sent out for the day.
@@ -57,7 +134,7 @@ Greg Brockman’s journal: “it’d be wrong to steal the non-profit from him.�
 			
 Brockman is not doing himself any favors.
 			
-Brockman’s cross examination isn’t as testy as Musk’s, but he’s also pushing back on a lot of questions.
+Brockman’s cross-examination isn’t as testy as Musk’s, but he’s also pushing back on a lot of questions.
 			
 Is sending stuff to Sam Teller and Shivon Zilis the same as sending it to Musk?
 			
@@ -347,38 +424,34 @@ Inside Elon Musk’s messy breakup with OpenAI
 			
 Elon Musk is suing OpenAI and Sam Altman again
 
-### [TECH] Technology
+2. **New ways to buy ChatGPT ads**
+   - Source: OpenAI | Date: 05.05.2026
+   - Score: 48.9%
+   - [Read More](https://openai.com/index/new-ways-to-buy-chatgpt-ads)
+   > OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.
 
-1. **Katie Haun raises $1B for new venture funds**
-   - Source: TechCrunch | Date: 04.05.2026
-   - Score: 51.1%
-   - [Read More](https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/)
-   > Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups.
+3. **Google DeepMind Workers Vote to Unionize Over Military AI Deals**
+   - Source: Wired | Date: 05.05.2026
+   - Score: 46.3%
+   - [Read More](https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/)
+   > UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.
 
 ### [ECOM] E-Commerce
 
 1. **Fraud Prevention: Wenn KI einkauft: Warum Betrugsprävention im Check-out neu gedacht werden muss** [E-COMMERCE]
    - Source: etailment | Date: 30.04.2026
-   - Score: 53.0%
+   - Score: 52.2%
    - [Read More](https://etailment.de/news/stories/fraud-prevention-wenn-ki-einkauft-warum-betrugspraevention-im-check-out-neu-gedacht-werden-muss-25472?utm_source=rss&utm_medium=referral&utm_campaign=news&utm_term=)
    > Agentische Käufe stellen die Fraud Prevention im E-Commerce vor neue Fragen: Handelt ein Mensch, ein beauftragter KI-Agent oder ein Angreifer? Pascal Neuhaus, Director Retail/eCommerce bei Experian DACH, plädiert in seinem Gastbeitrag für präzisere Datenbewertung statt strengerer Regeln.
 
-### [PIM] PIM & Data Management
-
-1. **Amazon stuck with months of repairs after drone strikes on data centers**
-   - Source: ArsTechnica | Date: 01.05.2026
-   - Score: 47.5%
-   - [Read More](https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/)
-   > AWS stops billing Middle East cloud customers as repairs to war damage drag on.
-
 ### [AGENT] Agentic & Automation
 
-1. **OpenAI and PwC collaborate to reimagine the office of the CFO**
-   - Source: OpenAI | Date: 04.05.2026
-   - Score: 49.6%
-   - [Read More](https://openai.com/index/openai-pwc-finance-collaboration)
-   > OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.
+1. **SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw**
+   - Source: TechCrunch | Date: 05.05.2026
+   - Score: 51.2%
+   - [Read More](https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/)
+   > SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.
 
 ---
 
-*Generated by Zeitungsjunge • 5. Mai 2026 07:12*
+*Generated by Zeitungsjunge • 6. Mai 2026 07:31*
