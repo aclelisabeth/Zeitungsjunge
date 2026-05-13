@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 12. Mai 2026 07:37
+**Generated:** 13. Mai 2026 07:45
 
 ## Report: Last 30 Days
 
@@ -8,44 +8,46 @@
 
 ### [AI] AI & Machine Learning
 
-1. **How ChatGPT adoption broadened in early 2026**
-   - Source: OpenAI | Date: 11.05.2026
-   - Score: 49.4%
-   - [Read More](https://openai.com/signals/research/2026q1-update)
-   > ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.
+1. **What Parameter Golf taught us about AI-assisted research**
+   - Source: OpenAI | Date: 12.05.2026
+   - Score: 51.4%
+   - [Read More](https://openai.com/index/what-parameter-golf-taught-us)
+   > Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.
 
 ### [TECH] Technology
 
-1. **Sony upgraded its wearable AC so it’s cooler and better at hugging your neck**
-   - Source: The Verge | Date: 12.05.2026
-   - Score: 47.9%
-   - [Read More](https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner)
-   > The Reon Pocket Pro Plus delivers a 20 percent improvement in cooling performance over last year’s model. | Image: Sony	
-
-Sony has announced a new version of the wearable personal air conditioner the company first revealed in 2019 ahead of the 2020 Tokyo Olympics. The latest version is an upgrade to last year's Pro model, and while the new Reon Pocket Pro Plus isn't a complete overhaul of the hardware, it comes with performance upgrades and design updates making it easier to wear discreetly under many kinds of shirts. It's launching in Europe and other markets today for €229/£199, or around $270. As with all the previous versions, Sony hasn't mentioned plans to bring it to the US.
-Instead of simply blasting you with air like the Dyson HushJet Mini Cool, the Re …
-Read the full story at The Verge.
-
-2. **Sony's failed war against Internet piracy may doom other copyright lawsuits**
-   - Source: ArsTechnica | Date: 11.05.2026
-   - Score: 47.3%
-   - [Read More](https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/)
-   > Cable firm Cox's Supreme Court win may help all tech providers, not just ISPs.
+1. **CUDA Proves Nvidia Is a Software Company**
+   - Source: Wired | Date: 11.05.2026
+   - Score: 45.4%
+   - [Read More](https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/)
+   > There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.
 
 ### [ECOM] E-Commerce
 
-1. **Riding an AI rally, Robinhood preps second retail venture IPO** [E-COMMERCE]
-   - Source: TechCrunch | Date: 12.05.2026
-   - Score: 51.2%
-   - [Read More](https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/)
-   > Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.
-
-2. **Fraud Prevention: Wenn KI einkauft: Warum Betrugsprävention im Check-out neu gedacht werden muss** [E-COMMERCE]
+1. **Fraud Prevention: Wenn KI einkauft: Warum Betrugsprävention im Check-out neu gedacht werden muss** [E-COMMERCE]
    - Source: etailment | Date: 30.04.2026
-   - Score: 47.2%
+   - Score: 46.3%
    - [Read More](https://etailment.de/news/stories/fraud-prevention-wenn-ki-einkauft-warum-betrugspraevention-im-check-out-neu-gedacht-werden-muss-25472?utm_source=rss&utm_medium=referral&utm_campaign=news&utm_term=)
    > Agentische Käufe stellen die Fraud Prevention im E-Commerce vor neue Fragen: Handelt ein Mensch, ein beauftragter KI-Agent oder ein Angreifer? Pascal Neuhaus, Director Retail/eCommerce bei Experian DACH, plädiert in seinem Gastbeitrag für präzisere Datenbewertung statt strengerer Regeln.
 
+### [PIM] PIM & Data Management
+
+1. **Sam Altman says Elon Musk’s mind games were damaging OpenAI**
+   - Source: The Verge | Date: 12.05.2026
+   - Score: 50.0%
+   - [Read More](https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage)
+   > OpenAI CEO Sam Altman says Elon Musk did "huge damage" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and "take a chainsaw through a bunch."
+Altman conceded that this was the management style the Tesla CEO was known for, but that it was incompatible with his startup. "I don't think Mr. Musk understood how to run a good research lab," Altman testified when his lawyer, William Savitt, asked about the impact of Musk's departure from OpenAI on morale. "For a …
+Read the full story at The Verge.
+
+### [AGENT] Agentic & Automation
+
+1. **Medicare’s new payment model is built for AI, and most of the tech world has no idea**
+   - Source: TechCrunch | Date: 13.05.2026
+   - Score: 53.7%
+   - [Read More](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/)
+   > There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.
+
 ---
 
-*Generated by Zeitungsjunge • 12. Mai 2026 07:37*
+*Generated by Zeitungsjunge • 13. Mai 2026 07:45*
