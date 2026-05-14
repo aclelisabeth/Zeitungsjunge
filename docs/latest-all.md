@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 13. Mai 2026 07:45
+**Generated:** 14. Mai 2026 07:37
 
 ## Report: All Articles
 
@@ -10,44 +10,40 @@
 
 1. **What Parameter Golf taught us about AI-assisted research**
    - Source: OpenAI | Date: 12.05.2026
-   - Score: 51.4%
+   - Score: 50.6%
    - [Read More](https://openai.com/index/what-parameter-golf-taught-us)
    > Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.
 
 ### [TECH] Technology
 
-1. **CUDA Proves Nvidia Is a Software Company**
-   - Source: Wired | Date: 11.05.2026
-   - Score: 45.4%
-   - [Read More](https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/)
-   > There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.
-
-### [ECOM] E-Commerce
-
-1. **Fraud Prevention: Wenn KI einkauft: Warum Betrugsprävention im Check-out neu gedacht werden muss** [E-COMMERCE]
-   - Source: etailment | Date: 30.04.2026
-   - Score: 46.3%
-   - [Read More](https://etailment.de/news/stories/fraud-prevention-wenn-ki-einkauft-warum-betrugspraevention-im-check-out-neu-gedacht-werden-muss-25472?utm_source=rss&utm_medium=referral&utm_campaign=news&utm_term=)
-   > Agentische Käufe stellen die Fraud Prevention im E-Commerce vor neue Fragen: Handelt ein Mensch, ein beauftragter KI-Agent oder ein Angreifer? Pascal Neuhaus, Director Retail/eCommerce bei Experian DACH, plädiert in seinem Gastbeitrag für präzisere Datenbewertung statt strengerer Regeln.
-
-### [PIM] PIM & Data Management
-
-1. **Sam Altman says Elon Musk’s mind games were damaging OpenAI**
-   - Source: The Verge | Date: 12.05.2026
-   - Score: 50.0%
-   - [Read More](https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage)
-   > OpenAI CEO Sam Altman says Elon Musk did "huge damage" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and "take a chainsaw through a bunch."
-Altman conceded that this was the management style the Tesla CEO was known for, but that it was incompatible with his startup. "I don't think Mr. Musk understood how to run a good research lab," Altman testified when his lawyer, William Savitt, asked about the impact of Musk's departure from OpenAI on morale. "For a …
-Read the full story at The Verge.
+1. **Rivian adds a new onboard AI assistant to its latest software update**
+   - Source: ArsTechnica | Date: 13.05.2026
+   - Score: 49.8%
+   - [Read More](https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/)
+   > The Rivian Assistant is available for both Gen1 and Gen2 hardware.
 
 ### [AGENT] Agentic & Automation
 
-1. **Medicare’s new payment model is built for AI, and most of the tech world has no idea**
+1. **Notion just turned its workspace into a hub for AI agents**
    - Source: TechCrunch | Date: 13.05.2026
    - Score: 53.7%
-   - [Read More](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/)
-   > There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.
+   - [Read More](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/)
+   > Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.
+
+2. **Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs**
+   - Source: The Verge | Date: 13.05.2026
+   - Score: 50.2%
+   - [Read More](https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs)
+   > Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at, summarize your open articles, and more.
+In its announcement, Microsoft says you can "select which experiences you want or leave off the ones you don't." The company is retiring Copilot Mode as well, which could similarly draw information from your tabs but offered some agentic features, like the ability to book a reservation on your behalf. Microsoft has since folded these …
+Read the full story at The Verge.
+
+3. **DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border**
+   - Source: Wired | Date: 13.05.2026
+   - Score: 46.6%
+   - [Read More](https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/)
+   > Autonomous drones and ground vehicles will stream “battlefield intelligence” over 5G along the US-Canada border in a bilateral DHS experiment this fall.
 
 ---
 
-*Generated by Zeitungsjunge • 13. Mai 2026 07:45*
+*Generated by Zeitungsjunge • 14. Mai 2026 07:37*
