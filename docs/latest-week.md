@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 14. Mai 2026 07:37
+**Generated:** 15. Mai 2026 07:48
 
 ## Report: Last 7 Days
 
@@ -8,42 +8,48 @@
 
 ### [AI] AI & Machine Learning
 
-1. **What Parameter Golf taught us about AI-assisted research**
-   - Source: OpenAI | Date: 12.05.2026
-   - Score: 50.6%
-   - [Read More](https://openai.com/index/what-parameter-golf-taught-us)
-   > Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.
+1. **Judge probes whether Musk settlement with Trump admin is tainted by corruption**
+   - Source: ArsTechnica | Date: 14.05.2026
+   - Score: 45.0%
+   - [Read More](https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/)
+   > Trump admin wants to let Musk pay $1.5M fine to settle $150 million Twitter suit.
 
 ### [TECH] Technology
 
-1. **Rivian adds a new onboard AI assistant to its latest software update**
-   - Source: ArsTechnica | Date: 13.05.2026
-   - Score: 49.8%
-   - [Read More](https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/)
-   > The Rivian Assistant is available for both Gen1 and Gen2 hardware.
+1. **Lovable just backed a company that’s looking to bring vibe coding to hardware**
+   - Source: TechCrunch | Date: 14.05.2026
+   - Score: 51.1%
+   - [Read More](https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/)
+   > Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.
+
+2. **Metroid Prime 4: Beyond got its first big discount**
+   - Source: The Verge | Date: 14.05.2026
+   - Score: 47.6%
+   - [Read More](https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale)
+   > The most graphically-impressive first-person shooter made for the Nintendo Switch is $20 off at Best Buy. Right now, you can buy the physical version of Metroid Prime 4: Beyond for $39.99 ($20 off). The game looks surprisingly good on the 2017 hardware, but runs way better on the Switch 2 with the additional $10 upgrade pack that unlocks hi-res textures, faster loading times, and Joy-Con mouse mode.
+If you’re gaming on a Switch 2, getting the discounted game and the digital upgrade pack costs $50 versus its normal $70 price for the Switch 2 Edition version. Yeah, it’s a little confusing.
+Metroid Prime 4: Beyond
+
+Where to Buy:
+
+ $59.99 $39.99 at Best Buy (Switch)
+
+The latest Prime game is a departure from the previous entries, the last of which was released all the way back in 2007. Beyond features an open-world design with plenty of associated trappings. There are map markers, collectibles, and a slick motorcycle to take bounty hunter Samus Aran across the huge desert where Beyond’s story unfolds. I agree with our review by Andrew Webster that these new additions feel out of place in the franchise, but I still had a good time, and the campaign doesn’t overstay its welcome.
+
+3. **Hostinger Promo Code: 79% Off for May 2026**
+   - Source: Wired | Date: 15.05.2026
+   - Score: 46.9%
+   - [Read More](https://www.wired.com/story/hostinger-coupon-code/)
+   > Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.
 
 ### [AGENT] Agentic & Automation
 
-1. **Notion just turned its workspace into a hub for AI agents**
-   - Source: TechCrunch | Date: 13.05.2026
-   - Score: 53.7%
-   - [Read More](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/)
-   > Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.
-
-2. **Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs**
-   - Source: The Verge | Date: 13.05.2026
-   - Score: 50.2%
-   - [Read More](https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs)
-   > Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at, summarize your open articles, and more.
-In its announcement, Microsoft says you can "select which experiences you want or leave off the ones you don't." The company is retiring Copilot Mode as well, which could similarly draw information from your tabs but offered some agentic features, like the ability to book a reservation on your behalf. Microsoft has since folded these …
-Read the full story at The Verge.
-
-3. **DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border**
-   - Source: Wired | Date: 13.05.2026
-   - Score: 46.6%
-   - [Read More](https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/)
-   > Autonomous drones and ground vehicles will stream “battlefield intelligence” over 5G along the US-Canada border in a bilateral DHS experiment this fall.
+1. **Sea's View on the Future of Agentic Software Development with Codex**
+   - Source: OpenAI | Date: 14.05.2026
+   - Score: 54.6%
+   - [Read More](https://openai.com/index/sea-david-chen)
+   > Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.
 
 ---
 
-*Generated by Zeitungsjunge • 14. Mai 2026 07:37*
+*Generated by Zeitungsjunge • 15. Mai 2026 07:48*
