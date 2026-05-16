@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 15. Mai 2026 07:48
+**Generated:** 16. Mai 2026 07:10
 
 ## Report: All Articles
 
@@ -8,48 +8,43 @@
 
 ### [AI] AI & Machine Learning
 
-1. **Judge probes whether Musk settlement with Trump admin is tainted by corruption**
-   - Source: ArsTechnica | Date: 14.05.2026
-   - Score: 45.0%
-   - [Read More](https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/)
-   > Trump admin wants to let Musk pay $1.5M fine to settle $150 million Twitter suit.
+1. **OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say**
+   - Source: ArsTechnica | Date: 15.05.2026
+   - Score: 47.6%
+   - [Read More](https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/)
+   > Judge orders Apple to give Musk internal messages discussing secretive ChatGPT deal.
 
 ### [TECH] Technology
 
-1. **Lovable just backed a company that’s looking to bring vibe coding to hardware**
-   - Source: TechCrunch | Date: 14.05.2026
+1. **A hotel check-in system left a million passports and driver’s licenses open for anyone to see**
+   - Source: TechCrunch | Date: 15.05.2026
    - Score: 51.1%
-   - [Read More](https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/)
-   > Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.
-
-2. **Metroid Prime 4: Beyond got its first big discount**
-   - Source: The Verge | Date: 14.05.2026
-   - Score: 47.6%
-   - [Read More](https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale)
-   > The most graphically-impressive first-person shooter made for the Nintendo Switch is $20 off at Best Buy. Right now, you can buy the physical version of Metroid Prime 4: Beyond for $39.99 ($20 off). The game looks surprisingly good on the 2017 hardware, but runs way better on the Switch 2 with the additional $10 upgrade pack that unlocks hi-res textures, faster loading times, and Joy-Con mouse mode.
-If you’re gaming on a Switch 2, getting the discounted game and the digital upgrade pack costs $50 versus its normal $70 price for the Switch 2 Edition version. Yeah, it’s a little confusing.
-Metroid Prime 4: Beyond
-
-Where to Buy:
-
- $59.99 $39.99 at Best Buy (Switch)
-
-The latest Prime game is a departure from the previous entries, the last of which was released all the way back in 2007. Beyond features an open-world design with plenty of associated trappings. There are map markers, collectibles, and a slick motorcycle to take bounty hunter Samus Aran across the huge desert where Beyond’s story unfolds. I agree with our review by Andrew Webster that these new additions feel out of place in the franchise, but I still had a good time, and the campaign doesn’t overstay its welcome.
-
-3. **Hostinger Promo Code: 79% Off for May 2026**
-   - Source: Wired | Date: 15.05.2026
-   - Score: 46.9%
-   - [Read More](https://www.wired.com/story/hostinger-coupon-code/)
-   > Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.
+   - [Read More](https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/)
+   > The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password.
 
 ### [AGENT] Agentic & Automation
 
 1. **Sea's View on the Future of Agentic Software Development with Codex**
    - Source: OpenAI | Date: 14.05.2026
-   - Score: 54.6%
+   - Score: 53.8%
    - [Read More](https://openai.com/index/sea-david-chen)
    > Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.
 
+2. **OpenAI keeps shuffling its executives in bid to win AI agent battle**
+   - Source: The Verge | Date: 15.05.2026
+   - Score: 52.6%
+   - [Read More](https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle)
+   > OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product.
+In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the company is combining its products to "invest in a single agentic platform and to merge ChatGPT and Codex into one unified agentic experience for all."
+To do this, the company is making a suite of org chart changes, although it's still operating under some of the same ones from last month. That's when AGI boss Fidji Simo went on medical leave and Open …
+Read the full story at The Verge.
+
+3. **Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved**
+   - Source: Wired | Date: 15.05.2026
+   - Score: 46.6%
+   - [Read More](https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/)
+   > Remote operators (slowly) drove the automaker’s autonomous vehicles into a metal fence and a construction barricade, Tesla says.
+
 ---
 
-*Generated by Zeitungsjunge • 15. Mai 2026 07:48*
+*Generated by Zeitungsjunge • 16. Mai 2026 07:10*
