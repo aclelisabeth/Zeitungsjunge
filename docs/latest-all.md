@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 20. Mai 2026 08:20
+**Generated:** 21. Mai 2026 08:27
 
 ## Report: All Articles
 
@@ -8,14 +8,12 @@
 
 ### [TECH] Technology
 
-1. **Here are our favorite Memorial Day deals (so far)**
-   - Source: The Verge | Date: 19.05.2026
-   - Score: 57.6%
-   - [Read More](https://www.theverge.com/gadgets/932465/best-memorial-day-sales-deals-2026)
-   > Portable bluetooth speakers like the Charge 6 and Flip 7 are just a few on sale for Memorial Day.	
-
-Memorial Day marks the unofficial start of summer, and the holiday’s sales include plenty of deals on gadgets that can help you make the most of the season. If your plans involve beach days, pool parties, or backyard barbecues, now’s a great time to pick up a portable Bluetooth speaker, as many of our favorite models are currently on sale. You’ll also find worthwhile TV deals, along with discounts on smart thermostats to help keep your home cool and your energy costs low. And, if you’re planning on heading out of town, there are deals on noise-canceling headphones, portable chargers, and other travel-friendly gadgets.
-Below, we’ve rounded up the best Memorial Day deals currently available. To give you more options as you shop, we’ve included good deals from a range of retailers, including ones that aren’t running their own Memorial Day sales.
+1. **Here are 42 of our favorite deals from REI’s massive Anniversary Sale**
+   - Source: The Verge | Date: 20.05.2026
+   - Score: 55.1%
+   - [Read More](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026)
+   > REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleeping pad, or stove. If your summer plans involve hiking or heading into the backcountry, there are also savings to be had on everything from Garmin watches to water filters, some of which are also discounted at retailers like Amazon.
+The sale runs through May 25th, and to save you time scrolling, we’ve rounded up the best deals below. Additionally, as in previous years, REI members get 20 percent off one full-price item or one REI Outlet item with code ANNIV26, giving those who pay for a lifetime membership ($30) even more ways to save in the run-up to Memorial Day.
 
 
 
@@ -23,292 +21,143 @@ Below, we’ve rounded up the best Memorial Day deals currently available. To gi
 
 
 
-Earbuds and headphones 
-Bose QuietComfort Ultra Earbuds (2nd Gen)
-The second-gen QuietComfort Ultra Earbuds have dynamic, rich sound and the best noise cancellation currently available in a pair of true wireless earbuds. They’re a terrific pick if you want to listen to your music in peace. Read our review.
+Smartwatches and fitness trackers
+Garmin Fenix 8
+The Garmin Fenix 8 is a premium multisport watch that features a speaker, mic, and on-device assistant for calls, timers, and voice commands. It also offers elite battery life, dual-frequency GPS, and robust sensors. Read our review.
 
 Where to Buy:
 
- $299 $249 at Amazon
- $299 $249 at Walmart
- $299 $249 at Best Buy
+ $999.99 $749.99 at Amazon (43mm)
+ $1099.99 $849.99 at Walmart (51mm)
+ $1099.99 $849.99 at REI (47mm)
 
-Samsung’s Galaxy Buds 3 Pro are on sale for $149.99 ($100 off) at Best Buy, which matches their all-time low price. The wireless earbuds are our top pick for Samsung Galaxy phone device owners, thanks to their comfortable AirPods-inspired design, terrific sound quality, and good noise cancellation. They also offer helpful voice controls that let you adjust volume or playback without a wake word, while delivering excellent voice call quality. Read our review.
-Nothing Ear (a)
-Nothing’s Ear (a) earbuds have the same general design as the company’s previous earbuds — but you can get these in a snazzy yellow. They include ANC, more than decent sound quality, and other features like multipoint for just under $100. Read our impressions.
 
-Where to Buy:
-
- $99 $58.99 at Amazon
- $99 $59 at Nothing
-
-Sennheiser’s Momentum True Wireless 4 earbuds are down to $199.99 ($100 off) at Amazon and Best Buy, which is $20 shy of their best price to date. If sound quality matters most, they’re an easy recommendation, delivering rich, detailed audio with EQ customization to fine-tune the listening experience. Optional wing tips are included to help keep them secure and comfortable. Read our review.
-Bose QuietComfort Ultra Headphones (first-gen)
-The older QC Ultra were a replacement for the Noise Cancelling Headphones 700 with a more travel-friendly design, spatial audio, and better call quality. Thankfully, they still offer excellent comfort and some of the best noise cancellation available. Read our review.
+Amazfit Active 2
+The Amazfit Active 2 delivers outsized value for the price. It looks spiffy and has a wide array of health tracking features, plus built-in GPS and AI chatbots to provide extra context to your data. Read our review.
 
 Where to Buy:
 
- $429 $299 at Amazon
- $429 $299 at Best Buy
+ $99.99 $89.99 at Amazon
+ $99.99 $84.99 at REI
+ $99.99 $84.99 at Target
 
-
-Sony WH-1000XM5
-Despite being a last-gen model, these headphones still offer impressive sound quality and top-notch noise cancellation. They’re comfortable to wear for hours, can last up to 40 hours on a charge, and support extras like audio sharing and Gemini Live. Read our review.
-
-Where to Buy:
-
- $399.99 $248 at Amazon
- $399.99 $248 at Best Buy
- $399.99 $249.99 at Target
-
-Amazon and Best Buy are selling the last-gen AirPods Max (USB-C) for $449 ($100 off), which is $50 shy of their all-time low. Apple’s luxe over-ear headphones offer a premium design and work especially well with other Apple devices. They still deliver great sound quality and effective noise cancellation, even if the newer model has a slight edge. Read our review.
-Shokz OpenRun Pro 2
-The OpenRun Pro 2 are Shokz’s best bone conduction headphones yet, with better sound and more bass than their predecessor. Our reviewer Victoria Song praised their cozy fit as well as their USB-C charging (goodbye, proprietary charger!). Read our review.
+Garmin’s Venu 4 is geared toward the average athlete, and it’s on sale at REI, Amazon, and Best Buy in both size configurations for $499.99 ($50 off), matching its best price to date. The wearable offers many of the same health and fitness tracking features as its predecessor, the Venu 3S, including abnormal heart rate alerts, detailed sleep insights, audio-guided meditation sessions, and a wheelchair mode. It introduces new wellness features, though, including the ability to track caffeine and alcohol intake, as well as Garmin Coach, so you can tailor workouts based on your fitness history, sleep quality, and recovery.
+REI, Amazon, and Best Buy are also selling the Garmin Lily 2 Active for $249.99 ($50 off), which is its lowest price to date. The stylish smartwatch is a great budget-friendly Garmin, especially for people with smaller wrists. Like the standard Lily 2, it offers basic fitness tracking, notifications, and up to five days of battery life; however, the so-called “Active” model adds a physical button, built-in GPS, and support for more sports tracking. Read our Lily 2 review.
+If you want more accurate heart rate tracking than most smartwatches offer, Polar’s H10 is on sale at REI and Amazon for $94.49 ($10 off), which is one of its better prices in recent months. Unlike wrist-based trackers, the chest strap records your heart rate directly from your chest for more precise readings during workouts. The lightweight sensor also pairs with a wide range of fitness apps, smartwatches, gym equipment, and other devices via Bluetooth, and it’s water-resistant enough for swimming.
+Communication and safety gear
+Garmin InReach Mini 3 Plus
+The Mini 3 Plus is identical to the standard model in that it allows you to stay connected while off the grid; however, it also features an audible siren and the ability to send photos and voice messages, in addition to standard texts.
 
 Where to Buy:
 
- $179.99 $129.99 at Best Buy (blue)
+ $499.99 $449.99 at Amazon
+ $499.99 $449.99 at REI
+ $499.99 $449.99 at Garmin
 
-Speakers
-Sonos Move 2
-With double the battery life of its predecessor and better-sounding stereo audio, the Sonos Move 2’s improvements don’t stop there. It supports line-in audio, can stream Bluetooth audio to other Sonos speakers, and more. Read our review.
-
-Where to Buy:
-
- $499 $399 at Amazon
- $499 $399 at Sonos
- $499 $399 at Best Buy
-
-JBL’s Flip 7 speaker is on sale for $99.95 ($50 off) at Amazon and Best Buy,  which matches its best price to date. The portable Bluetooth speaker builds on the Flip 6 with more durable IP68 dust and water resistance and improved sound that can reach higher volumes without sounding harsh. JBL’s new PushLock system also lets you easily swap in accessories, like the included wrist strap.
-Bose’s SoundLink Plus is down to $209 ($50 off) at Amazon, Best Buy, and directly from Bose, which is its second-best price this year and $30 shy of its all-time low. In his review, The Verge’s John Higgins called it a “great beach speaker,” as it offers impressively loud sound for its size, up to 20 hours of battery life, and a durable IP67-rated design that can handle pool days. Read our review.
+Garmin’s base InReach Mini 3 is available from REI, Amazon, and Garmin for $399.99 ($100 off), its best price to date. Like the last-gen Mini 2, the rugged, palm-sized satellite communicator lets you send texts, share your location, check the weather, and trigger SOS alerts when you’re off the grid, all while offering battery life that can outlast your average smartphone. Unlike its predecessor, though, it features a color touchscreen, which makes it’s much easier to scroll through menus and bang out messages.
+Garmin’s InReach Messenger Plus is also on sale at REI, Amazon, and direct from Garmin for $299.99 ($100 off), its lowest prices to date. The subscription-based Plus model provides satellite connectivity and access to emergency services like the aforementioned InReach Mini 3, except it can also send photos and audio clips in addition to standard text messages.
+The Chapter MIPS Bike Helmet is on sale starting at around $112 ($41 off) at Amazon and REI, which nearly matches its best price to date. The lightweight helmet features a hidden PopLock for securing it with a U-lock or chain. It also features a sleek visor and a Micro-USB taillight with 30 lumens of brightness, one that will automatically turn on when magnetically attached to the helmet.
+Garmin’s Varia RTL515 Radar Taillight is on sale at REI and Amazon for $149.99 ($50 off), nearly matching its lowest price to date. The headlight combines a bright LED light with a rearview radar that, when paired with a compatible device, warns you of cars approaching from behind from up to 153 yards away.
+Portable Bluetooth speakers
 JBL Charge 6
 The Charge 6 is a robust, IP68-rated portable speaker with up to 28 hours of battery life and support for lossless audio over USB-C. Like the JBL Flip 7, it can also analyze your audio to deliver clearer, louder sound and reduce distortion at higher volumes.
 
 Where to Buy:
 
- $199.95 $159.95 at Amazon
- $199.95 $159.95 at Best Buy
+ $199.95 $149.95 at Amazon
+ $199.95 $149.95 at Best Buy
  $199.95 $159.99 at REI
 
-Bose’s SoundLink Micro is on sale for $99 ($30 off) at Amazon and Best Buy , matching its all-time low price. It’s a good pick if you want something more portable than the larger SoundLink Plus. It won’t deliver the same room-filling sound, but it’s pocket-friendly, features a rugged IP67 design, and offers up to 12 hours of battery life, making it easier to take on the go.
-The portable Beats Pill speaker is on sale for $99.99 ($50 off) at Amazon, Best Buy, and Walmart. The pill-shaped speaker improves on its predecessor with up to 24 hours of battery life on a single charge, while adding two-way USB-C charging and lossless audio support. It also introduces an IP67-rated design and native Find My support on both Android and iOS if it goes missing. Read our review.
-TVs and streaming devices
-LG B5 OLED TV
-LG’s B5 TV is a great way to get OLED picture quality for less. It features support for both Dolby Vision and Dolby Atmos, along with a 120Hz panel and four HDMI 2.1 ports for hooking up the latest gaming consoles. It also runs LG’s webOS platform, supports Amazon Alexa, and provides easy access to a wide range of popular streaming apps.
+You can buy JBL’s Flip 7 speaker for $99.95 ($50 off) at REI, Amazon, and Best Buy, which matches its best price to date.  The portable gadget features several upgrades over its predecessor, including a more rugged design, an enhanced tweeter, and an additional two hours of playtime. It also features JBL’s AI Sound Boost technology, which can boost the speaker’s volume without introducing distortion. An IP68 rating, meanwhile, means you can use it by the pool, while a PushLock system lets you attach interchangeable accessories like the included wrist strap.
+If you want an even smaller portable speaker, JBL’s Clip 5 is on sale for around $59 ($20 off) at REI, Amazon, and Best Buy, which is $10 shy of its all-time low. The Bluetooth speaker features an integrated carabiner that makes it easy to clip onto a backpack, bike, or beach bag, along with an IP67 waterproof and dustproof rating. It also offers up to 12 hours of battery life, so it should easily last you the day.
+Cooking equipment
+MSR PocketRocket 2 Stove
+The PocketRocket 2 is a single-burner canister stove that can boil water in as little as three and a half minutes. It’s lightweight, foldable, and compatible with most isobutane-propane fuel canisters, making it a great pick for backpackers looking to shed weight.
 
 Where to Buy:
 
- $1299.99 $649.99 at Best Buy (48-inch)
- $1499.99 $799.99 at Best Buy (55-inch)
+ $59.95 $44.89 at REI
 
 
-LG C5 OLED TV
-LG’s C5 features a 120Hz panel, along with four HDMI 2.1 ports and support for both AMD FreeSync Premium and Nvidia G-Sync. The gamer-friendly TV also packs all the hallmarks of a modern OLED, including deep black levels and sublime contrast.
-
-Where to Buy:
-
- $2699.99 $1299.99 at Amazon (65-inch)
- $1999.99 $1299.99 at Best Buy (65-inch)
-
-Multiple configurations of Sony’s Bravia 8 II TV are on sale, with the 65-inch on sale for $2,598 at Amazon, Best Buy, and directly from Sony — its second-best price so far this year. Crowned the “king of TV” in Value Electronics’ 2025 shootout, the exceptionally bright OLED TV boasts excellent color accuracy and a snappy 120Hz refresh rate. It also runs on Google TV and supports both Apple AirPlay 2 and Google Cast. Read our review.
-Amazon Fire TV Stick 4K Plus
-Amazon’s latest Fire TV Stick 4K features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus. It also runs on Fire TV’s updated OS, which offers personalized recommendations, quicker access to favorite apps, and Alexa Plus support.
+LifeStraw Peak Series Straw
+LifeStraw’s redesigned Peak Series Straw features a durable, leakproof design that’s great for backcountry treks. It can remove unwanted viruses, bacteria, and microplastics as you drink — just like the base model — but benefits from an increased flow rate and more premium materials.
 
 Where to Buy:
 
- $49.99 $29.99 at Amazon
- $49.99 $29.99 at Best Buy
- $49.99 $29.99 at Target
+ $24.95 $18.69 at Amazon
+ $24.95 $18.69 at REI
 
-If you want a little more speed and storage than Amazon’s Fire TV Stick 4K Plus offers, its 4K Max is on sale for $39.99 ($20 off) at Amazon, Best Buy, and Target, which is $5 shy of its all-time low. It, too, runs on the new and improved Fire TV OS and supports Dolby Vision, HDR10 Plus, and Dolby Atmos. However, it adds faster performance, double the storage (16GB), and Wi-Fi 6E support. It also comes with a more capable remote, the Alexa Voice Remote Enhanced, which adds a button for live TV channel listings. Read our review.
-Hisense CanvasTV
-The last-gen 4K TV features an anti-glare matte screen that makes the artwork it displays while idle look like an actual painting. The S7N also has a QLED panel with a 144Hz refresh rate and four HDMI ports, while offering access to more than 1,000 free art pieces.
-
-Where to Buy:
-
- $1297.99 $847.99 at Amazon
- $1299.99 $847.99 at Best Buy
-
-The latest Amazon Fire TV Cube is on sale at Amazon and Best Buy for $109.99 ($30 off), which is its second-best price of the year but $30 more than its all-time low. Amazon’s latest Fire TV Cube combines a 4K streaming box with an Echo speaker, letting you play music, stream content in Dolby Vision, HDR, and Dolby Atmos, and control your TV and other smart home devices with hands-free Alexa voice commands. It also supports Wi-Fi 6E for faster, more reliable connectivity.
-Samsung S95F
-Samsung S95F is a premium 4K OLED TV with a little something for everyone. Its glare-resistant screen makes it a good choice for rooms with a lot of light. Gamers will appreciate the TV’s 120Hz refresh rate, four HDMI ports, and support for both AMD FreeSync and Nvidia’s G-Sync technologies, which reduce graphical abnormalities like screen tearing or blurriness when playing fast-paced games. 
-In a TV Shootout whose judges included The Verge’s Nilay Patel, the TV’s HDR performance was second only to Sony’s Bravia 8 II. The S95F also has Amazon Alexa built in, so it can be integrated easily into a home with Echo speakers and similarly-compatible smart home accessories.
+If you’re looking for a more convenient, all-in-one solution, the LifeStraw Go Series 1L is also on sale for an all-time low of around $32 ($13 off) at REI and Amazon. The BPA-free water bottle features a built-in two-stage filtration system, including a carbon filter that’s designed to reduce odors and improve taste, making it a solid pick for everything from travel to your daily commute.
+It’s not the most exciting thing in the world, but the GoBites Bio-Uno Long spork is on sale at REI in multiple colors for a cool $5.93 (about $3 off). The Verge’s Brandon Widder has used the sturdy, BPA-free utensil in the backcountry numerous times over the years, mainly because it’s relatively lightweight and saves you from having to pack more than one tool for devouring whatever freeze-dried concoction you opted for.
+JetBoil MiniMo Cooking System
+JetBoil’s cooking systems aren’t for ultra-light backpackers; however, the MiniMo is incredibly straightforward to use, comes with a 1-liter pot, and heats water in as little as two minutes, making it suitable for everything from freeze-dried meals to a well-deserved cup of cocoa.
 
 Where to Buy:
 
- $2197.99 $1597.99 at Amazon (55-inch)
- $3299.99 $2199.99 at Best Buy (65-inch)
- $2997.99 $2197.99 at Amazon (65-inch)
-
-Smart home 
-Ring Battery Doorbell Plus (second-gen)
-Ring’s latest Battery Doorbell Plus offers sharper 2K video and improved 6x zoom over the previous model, while retaining a head-to-toe view, night vision, motion alerts, and two-way talk. Optional AI-powered features, including activity summaries and facial recognition, are free for a month then cost $19.99 monthly afterward.
-
-Where to Buy:
-
- $179.99 $119.99 at Amazon
- $179.99 $119.99 at Best Buy
- $179.99 $119.99 at Ring
+ $179.99 $107.93 at REI
+ $179.99 $116.99 at JetBoil
 
 
-Ring Floodlight Cam Wired Pro
-The Ring Floodlight Cam Wired Pro delivers high-quality video with adjustable, accurate radar-powered motion detection, 2,000 lumens of light, and a good digital zoom. It offers smart alerts for people or motion, and works with Amazon Alexa or Samsung SmartThings.
+Coleman Cascade Classic Camp Stove
+Coleman’s go-to stove provides everything you need for simple, reliable camp cooking. It’s got enough power to handle most meals, as well as a pair of burners for cooking multiple things at once. It also features a matchless push-button igniter and built-in wind guards.
 
 Where to Buy:
 
- $249.99 $169.99 at Amazon
- $249.99 $169.99 at Best Buy
- $249.99 $169.99 at The Home Depot
+ $130 $87.99 at Coleman
+ $130 $97.49 at REI
 
-Ecobee’s Smart Thermostat Premium is on sale for $229.99 ($30 off) at Amazon and directly from Ecobee, which is within $30 of its lowest price to date. The high-end smart thermostat can adjust temperatures based on where you are in your home, send alerts if your home gets too hot or cold while you’re away, and even track basic indoor air quality metrics like humidity, VOCs, and carbon dioxide. It also works well with Alexa, Siri, Apple Home, Google Home, SmartThings, and IFTTT, while doubling as a decent smart speaker. Read our review.
-If you don’t need all the features offered by Ecobee’s top-tier model, Ecobee’s Smart Thermostat Enhanced is on sale for $169.99 ($30 off) at Amazon and directly from Ecobee, which is one of its better prices so far this year. It also adjusts temperatures based on whether anyone’s home and works with Alexa, Apple Home, Google Home, and SmartThings. Compared to the Premium model, though, you can’t use it as a doorbell, and it lacks indoor air quality monitoring and built-in voice control.
-Ecobee’s Smart Thermostat Essential is on sale for $119.99 ($20 off) at Amazon and directly from Ecobee, which is also one of its better prices in recent months. The company’s most affordable thermostat covers the basics, letting you control your home’s temperature, create schedules in the app, and use Alexa, Apple Home, or Google Assistant. It also sends intruder alerts, but unlike Ecobee’s pricier models, it can’t automatically adjust temperatures based on activity in your home.
-Ecovacs Deebot X9 Pro Omni
-The Ecovacs Deebot X9 Pro Omni features an extendable mop that can clean itself, just like its predecessor. However, it also features Ecovacs’ Boosted Large-Airflow Suction Technology, which optimizes the airflow path from intake to exhaust, rather than relying solely on suction power. 
-
-Where to Buy:
-
- $1299.99 $649 at Amazon
- $1299.99 $649 at Best Buy
- $1299.99 $649 at Ecovacs
-
-If you want something even more capable, Ecovacs’ new Deebot X12 OmniCyclone is on sale for $1,249 ($250 off) at Amazon and directly from Ecovacs, matching its best price. The flagship is a more powerful with 22,000Pa suction, while offering a wider 10.6-inch roller mop that continuously rinses itself. It uses cameras and AI to detect dried stains, then sprays water and cleaning solution to help loosen stubborn messes before scrubbing them away.
-Ecobee Smart Doorbell Camera
-This is a great wired doorbell camera, and the only one that can use an Ecobee thermostat as a video intercom, making it a no-brainer for Ecobee households, as long as you can hook it to your doorbell wiring.
+Coleman’s Cascade 3-in-1 Stove is on sale for around $204.99 ($70 off) at REI, Backcountry, and Coleman’s online storefront. It’s a better pick for campers who want to cook a little more than basic meals on a standard two-burner stove. In addition to two adjustable burners with wind guards and matchless ignition, it comes with interchangeable grill and griddle attachments, making it easier to cook things like eggs and burgers without packing extra gear.
+The BearVault BV500 Journey is on sale for around $79.89 ($20 off) from both REI and Campman. The hard-sided bear canister is designed to keep wildlife out of your food while offering 11.5 liters of storage, which is enough for about a week’s worth of meals and snacks. Despite its rugged build, it’s relatively lightweight, and the screw-top lid is designed to be secure without requiring complicated tools.  As an added bonus, it also doubles as a makeshift camp stool.
+Shelter, sleep, and furniture
+Kelty Low Loveseat
+The Kelty Low Loveseat is a sturdy, low-profile camp chair built for two. It features a steel frame, a padded seat, and extra-large cup holders for your drinks or gear. It also includes a padded roll-tote storage bag, making it easy to transport when it’s folded down.
 
 Where to Buy:
 
- $159.99 $129.99 at Amazon
- $159.99 $129.99 at Best Buy
- $159.99 $129.99 at Ecobee
+ $149.95 $112.39 at REI
+ $149.95 $112.39 at Backcountry
 
 
-Mammotion Luba 3 AWD 1500/H
-The high-end robot mower uses 360-degree lidar navigation and dual-camera AI vision to map your yard. Its all-wheel-drive system and adaptive suspension also let it tackle steep slopes up to 80 percent, while you can also set up to 15 mowing zones and no-go areas for areas like pools.
-
-Where to Buy:
-
- $2999 $2099 at Amazon
- $2399 $2099 at Mammotion
-
-The Mill Food Recycler is on sale for $874 when you buy it directly from Mill, which isn’t quite its best price to date but still a nice discount on the clever kitchen appliance. Designed to help reduce food waste, the trash can transforms things like fruit peels, leftovers, and other scraps into a dry, compost-like material overnight, helping cut down on odors and the amount of trash your household produces. Read our review.
-Eve Energy Smart Plug
-Not only does this smart plug offer the most detailed energy monitoring of any we have ever tested but it also works with Matter-over-Thread and is an especially good choice for Apple Home users.
+Exped MegaMat Duo
+The MegaMat Duo is a four-inch, self-inflating mattress that’s become one of our favorites thanks to its extra-wide design. It uses a combination of open-cell polyurethane foam and generous padding for comfort, which helps keep you warm when temperatures dip. It also makes for a stellar air mattress for guests.
 
 Where to Buy:
 
- $39.95 $34.95 at Amazon
- $39.99 $34.99 at Best Buy
- $39.95 $34.95 at The Home Depot
+ $399.95 $299.89 at REI (medium)
+ $549.95 $412.39 at REI (queen)
+ $449.95 $337.39 at REI (long wide)
 
-Gaming
-Star Wars Outlaws
-Star Wars Outlaws is an original open-world adventure set in the vast universe of the iconic film series. It stars Kay Vess, a protagonist looking to steal from criminal overlords to gain her freedom. Read our review.
-
-Where to Buy:
-
- $59.99 $35.97 at Amazon (Switch 2)
- $69.99 $19.93 at Walmart (PS5)
- $69.99 $19.99 at Best Buy
-
-You can buy the physical version of Assassin’s Creed Shadows at Best Buy for $34.99 ($15 off) and Target. The open-world game follows a shinobi assassin and a powerful samurai caught in the midst of political unrest in feudal Japan. Its stealth mechanics are intuitive, and there’s a satisfying amount of action, too. Read our review.
-Xbox Wireless Controller
-Microsoft’s official Xbox Wireless Controller features a dedicated button for saving clips and screenshots, as well as sharing them online. It also offers Bluetooth support and a USB-C port for charging Microsoft’s play-and-charge rechargeable battery.
+A small, compact chair is nice to have for lounging by the campfire, and REI’s Flexlite Camp Chair is a great option now that it’s down to $67.39 (about $22 off) in multiple colors at REI. It features an aluminum frame, a stable four-leg design, and a ripstop polyester seat with water and stain resistance. When you’re done, it can also quickly fold down into a drawstring bag, so you can throw it in your car or tent.
+You can get the Therm-a-Rest Z Lite Sol starting at $37.39 (about $13 off) at REI right now. It’s a relatively lightweight, compact sleeping pad with an accordion-style design that lets you attach it to your backpack. The closed-cell foam also provides comfort after a long day of hiking, while the sleeping pad’s surface helps reflect radiant heat back to your body, so you can stay warm in the fall.
+Half Dome 2 Tent (with footprint)
+REI’s inexpensive, three-season tent is easy to set up and offers plenty of space for two people, with built-in pockets for stowing gear and large roll-up doors. It’s certainly not the lightest offering you can buy, but at this price, it’s an easy recommendation for first-time backpackers and anyone looking for a solid tent for car camping.
 
 Where to Buy:
 
- $64.99 $49.49 at Amazon
- $64.99 $49.06 at Walmart (black)
- $64.99 $49.99 at Best Buy
+ $329 $246.69 at REI
 
 
-Borderlands 4
-Borderlands 4 is an amusing looter-shooter that supports solo play or up to four-player co-op. Players take on the role of one of four Vault Hunters searching for mythical vaults while trying to take on the planet’s immoral dictator. It’s full of great characters and has the mindlessly fun vibe of a dumb action movie. Read our review.
+Rumpl Original Puffy Blanket
+Rumpl’s classic lightweight blanket features synthetic insulation for warmth, a weather-resistant outer shell, and a stuff sack. It also comes in an array of attractive designs and pairs with Rumpl’s Cape Clip, so you can wear it hands-free.
 
 Where to Buy:
 
- $69.99 $35 at Amazon (PlayStation 5)
- $69.99 $35 at Best Buy (PlayStation 5)
+ $99.95 $74.89 at REI (one-person)
+ $99.95 $74.96 at Rumpl (one-person)
+ $199.95 $149.89 at REI (two-person)
 
-Laptops and tablets
-iPad (2025)
-Apple’s entry-level iPad is an excellent tablet for casual use, even if it is getting a little long in the tooth. Its high-res screen is great for watching video, and its A16 processor is still fast enough to handle light games and productivity apps. Read our review.
-
-Where to Buy:
-
- $349 $299 at Amazon (128GB, Wi-Fi)
- $449 $399 at Amazon (256GB, Wi-Fi)
- $649 $596.5 at Amazon (512GB, Wi-Fi)
-
-The latest 11-inch iPad Pro with 256GB of storage is down to $899 ($100 off) at Amazon and Best Buy, which is $100 shy of its all-time low. If you prefer a bigger screen, the 13-inch Wi-Fi model with 256GB of storage is also on sale for at Amazon and Best Buy for around $1,195 ($105 off). Apple’s newest iPad Pro is its fastest tablet yet, packing the M5 chip along with faster storage speeds, quicker charging, and a new N1 chip that handles wireless connectivity like Wi-Fi, Bluetooth, and Thread. Read our review.
-15-inch MacBook Air (M5)
-Powered by Apple’s new M5 chip, the latest MacBook Airs are more powerful than prior models and offer double the base storage (512GB). They also support faster wireless standards, specifically Wi-Fi 7 and Bluetooth 6. Read our review.
+REI is currently selling its Magma 30 Sleeping Bag in a variety of sizes starting at $261.69 ($88 off). The bag uses 850-fill-power, water-resistant down for warmth and weighs under 20 ounces, depending on the size, making it a great budget pick if you’re looking to get into ultralight backpacking. It also includes a hood to help retain heat, extra room around the feet, and a terrific zipper design that’s less likely to snag when you’re crawling in or out.
+REI is selling GCI’s Freestyle Rocker Chair for $47.93 ($32 off). It’s a more comfortable alternative to your average camping chair, one that rocks and can handle both hard and soft ground. It also features padded armrests, a built-in beverage holder, and a foldable design, which makes it easy to throw in the back of your car before heading out the door.
+The Helinox Chair Zero LT, another ultra-packable chair, is available for $119.89 ($40 off) from REI, Backcountry, and Al’s Sporting Goods. The scoop-style collapsible seat weighs just over a pound, and although it has a lower profile than your standard camping chair, its aluminum alloy frame is strong enough to support up to 265 pounds once assembled. The included stabilizer strap also means the Zero LT is less likely to sink into sand or dirt, which, we can attest, was a capital-T Thing with prior models.
+REI Siesta Hooded 20 Sleeping Bag
+The Siesta prioritizes comfort with a roomy rectangular shape that gives you space to stretch out. The synthetic sleeping bag features an insulated hood — one that’s spacious enough to accommodate a real pillow — along with multiple zipper configurations so you can vent your feet or fully unzip it into a quilt-like blanket.
 
 Where to Buy:
 
- $1299 $1149 at Amazon (15-inch)
- $1299 $1149 at Best Buy (15-inch)
+ $149 $111.69 at REI (medium)
+ $159 $119.19 at REI (long)
 
-Chargers and power banks 
-Anker Laptop Power Bank
-Anker’s 25,000mAh power bank sports two built-in USB-C cables (one of which is retractable), plus one USB-C and USB-A port. It tops out at 165W when charging two devices simultaneously, or 130W when charging three or four.
-
-Where to Buy:
-
- $119.99 $95.99 at Amazon
- $119.99 $95.99 at Best Buy
- $119.99 $95.99 at Anker (with code WS7DV2TZEWWY)
-
-If you need a reliable power bank, Anker’s Zolo Magnetic Power Bank (10,000mAh) is on sale for $39.99 ($10 off) at Amazon, which is $10 shy of its all-time low. The small battery pack can wirelessly charge iPhones at up to 7.5W, while the built-in USB-C cable delivers up to 30W fast charging for devices. It also doubles as an adjustable stand, making it handy for watching videos or keeping an eye on notifications while charging.
-Anker Nano Charger (45W, Smart Display, 180° Foldable)
-Anker’s latest single-port USB-C charger offers up to 45W of power, foldable prongs, and a front-facing “smart display” that lets you see the charge level, power flow, and other useful information at a glance.
-
-Where to Buy:
-
- $39.99 $29.99 at Amazon (for Prime members)
- $39.99 $29.99 at Anker (with code WSPDV2LMBR0W)
-
-Satechi’s 3-in-1 Foldable Wireless Charging Stand with Qi2 25W is on sale for $116.99 ($13 off) at Amazon, Best Buy, and directly from Satechi, which is a new low price. The adjustable, foldable stand can wirelessly deliver up to 25W to compatible iPhones while simultaneously fast charging an Apple Watch and topping up your AirPods, but it also works with a range of Qi, Qi2, and Qi2.2-compatible Android phones and wireless earbuds. Satechi also includes a 45W USB-C adapter along with three international adapters, making it a useful travel companion.
-Jackery Explorer 500
-The Jackery Explorer 500 is small but mighty, delivering 500W of power in a package that features seven output ports and weighs just 13 pounds.
-
-Where to Buy:
-
- $499 $339 at Amazon
- $499 $329 at Jackery
-
-Goal Zero is taking 25 percent off a range of portable power stations, including the Yeti 700, which is currently $524.89 ($175 off). The portable power station can power up to nine devices at once through its AC, USB-C, USB-A, and 12V ports. Compared to the smaller Yeti 300 (on sale for $262.89) and Yeti 500 (on sale for $374.89), the higher-end model offers greater battery capacity and power output, making it a better fit for simultaneously running multiple laptops, phones, lights — or even small appliances.
-Miscellaneous
-Dyson PencilWash
-Dyson’s super-slim PencilWash is designed to scrub away spills and stains on hard floors, using a microfiber wet roller and pressurized hydration system to clean tile, laminate, and sealed wood while extracting dirty water as it goes. Its nearly flat design makes it easy to reach under furniture, and it comes with a charging dock.
-
-Where to Buy:
-
- $349.99 $249.99 at Amazon
- $349.99 $249.99 at Target
- $349.99 $249.99 at Dyson
-
-The newer Ray-Ban Meta 2 smart glasses are also on sale for around $319 ($60 off) at Amazon, Best Buy, and directly from Meta, which marks a new low price. They’re a minor upgrade over the last-gen model, with the biggest improvements being battery life and camera quality. The newer pair can last up to eight hours on a charge, which is double that of the original model, while the camera can capture sharper 3K video at 30fps. Read our review.
-Ray-Ban Meta (Gen 1) smart glasses
-Developed in partnership with Ray-Ban, Meta’s last-gen smart glasses can perform a range of tasks. They can capture 1080p video and play music, and thanks to a suite of AI-based features, you can even use them to translate from a myriad of languages in real time. Read our review.
-
-Where to Buy:
-
- $299 $224.25 at Amazon
- $299 $224.25 at Best Buy
- $299.99 $224.99 at Meta
-
-The Insta360 Link 2 Pro is down to $229.99 ($20 off) at Amazon, Best Buy, and directly from Insta360. The premium 4K webcam uses a large 1/1.3-inch sensor for sharper image quality and better low-light performance than its predecessor, though its resolution still maxes out at 4K/30fps or 1080p at up to 60fps. It features a two-axis gimbal and dual microphones with AI noise cancellation, while retaining features like AI tracking to help keep you centered if you move around.
-Insta360 X5
-The Insta360 X5 is a powerful 360-degree camera that offers a larger sensor and new image processing. It can capture 4K footage at up to 120fps or 8K footage at up to 30fps, producing sharp video with rich colors. It also features more durable lenses than prior models, which you can swap out if they get damaged. Read our review.
-
-Where to Buy:
-
- $549.99 $464.99 at Best Buy
- $549.99 $464.99 at REI
- $549.99 $464.99 at Insta360
-
-The Dyson Airwrap i.d. is on sale for $499.99 ($150 off) from Best Buy and Dyson. The dryer can automatically adjust heat, airflow, and timing according to your styling preferences, with the app letting you set up a profile based on factors like your hair type, length, and skill level. From there, it can guide you through a more customized curling routine. Dyson also includes three attachments, including a conical barrel, a diffuser designed for waves and curls, and a blade concentrator.
+Headlamps and camp lighting
 BioLite Site Lights
 BioLite’s ultra-versatile Site Light kit comes with six weatherproof bulbs, which can illuminate up to 1,000 square feet when hung or properly staked. You don’t need to bring a charger, either, as the included carrying case doubles as a solar charger for the lights.
 
@@ -318,41 +167,84 @@ Where to Buy:
  $99.95 $74.89 at  BioLite
  $99.95 $74.89 at REI
 
-The Amazfit Active 2 is on sale for $89.99 ($10 off) at Best Buy, which is $10 shy of its lowest price to date. It’s a surprisingly capable budget fitness tracker, with features like continuous heart rate and blood oxygen monitoring, offline navigation, and battery life that can lasts up to nine days. Read our review.
-BioLite FirePit Plus
-BioLite’s portable FirePit Plus cuts back on unwanted smoke, functions either as a charcoal or wood-fueled grill, and fans the flames via a large battery pack and built-in fan.
+
+Black Diamond Spot 400 Headlamp
+Black Diamond’s 400-lumen headlamp offers adjustable brightness, a red night vision mode, and an IPX8 waterproof rating, so it can handle rainy nights. It’s also dual-fuel compatible, meaning you can use standard AAA batteries or use it in tandem with Black Diamond’s rechargeable BD 1500 Li-ion battery for added flexibility.
 
 Where to Buy:
 
- $599.95 $359.89 at BioLite (with free carry bag)
- $599.95 $359.89 at Backcountry
+ $49.95 $44.89 at Amazon
+ $49.95 $44.96 at Black Diamond
+ $49.95 $44.89 at REI
+
+The Petzl Tikka is on sale at REI for $19.73 (about $15 off). The basic headlamp is a great option that features a max output of 350 lumens, tilt functionality, and an IPX4 rating, making it safe to use in light rain. It also features a lock function that prevents it from accidentally turning on when packed.
+The Nite Ize Radiant 314 — which is currently down to $25.73 (about $19 off) at REI — provides 314 lumens of brightness, an impact-resistant design, and an IPX4 rating for water resistance. The rechargeable lantern can also last up to 96 hours on a single charge, while the built-in power bank can provide an extra boost of power to your phone in a pinch.
+BioLite’s Luci Charge 360 is available for $44.89 ($16 off) from Amazon, REI, and BioLite, which is a terrific price for the inflatable lantern. Its collapsible design makes it easy to pack, and it offers up to 360 lumens of adjustable brightness. The waterproof gadget also lasts for 50 hours on a single charge, and when it dies, it’s easy to recharge via solar power or USB-C. Plus, you can use it as a power bank, allowing you to top off your phone or other small devices when outlets aren’t nearby.
+Mpowerd Luci Solar String Lights: Color
+Mpowerd’s solar-powered string lights are perfect for camping or a backyard shindig. The 18-foot string can display six colors and last up to 15 hours on a single charge; the case also doubles as a charger, allowing you to top off your phone in a pinch.
+
+Where to Buy:
+
+ $54.95 $19.83 at REI
+
+
+Black Diamond Moji Plus Lantern
+The Moji Plus offers 200 lumens of warm, dimmable light and adjustable brightness, along with an IPX4 rating for water resistance. It also features a double-hook design and the same dual-fuel tech as the Spot 400 Headlamp, meaning you can use it with standard AAAs or Black Diamond’s rechargeable BD 1500 Li-ion battery.
+
+Where to Buy:
+
+ $34.95 $26.19 at Amazon
+ $34.95 $26.19 at REI
+ $34.95 $26.21 at Black Diamond
+
+Miscellaneous outdoor deals
+Zippo HeatBank 6 Pro Rechargeable Hand Warmer
+Zippo’s rechargeable, IP57-rated hand warmer offers three heat settings and up to six hours of runtime. It can also serve as a 24-lumen flashlight or a 5,200 mAh power bank in a pinch, though, unlike most warmers, it’s only sold as a single unit.
+
+Where to Buy:
+
+ $59.95 $34.93 at REI
+
+If you own an older iPhone with a Lightning port, you can grab InfinityLab’s InstantGo 10,000 Power Bank for just $41.93 (about $28 off) at REI. The portable battery features a 10,000mAh capacity and a built-in Lightning cable, making it a solid all-in-one option for days when you won’t be near an outlet. It also supports passthrough charging, allowing you to charge your phone and the power bank simultaneously.
+Osprey’s Atmos AG 65 Pack is on sale in several colors and size configurations for around $276 ($93 off) at REI and Osprey’s online storefront, which is one of the lowest prices we’ve seen. The 65-liter pack — which remains a go-to option for The Verge’s own Brandon Widder — is loaded with all sorts of bells and whistles, including an integrated rain cover, a floating top lid, and plenty of compression straps. The hallmark, though, is the ventilation system, which leverages a 3D-suspended mesh for comfort and breathability, making it a great pick for multi-day trips.
+Cotopaxi Tech Bucket Hat
+Cotopaxi’s technical nylon hat — a pick from our upcoming Father’s Day gift guide — is pretty basic, but it features an adjustable cord chin strap and comes in an array of fun colors that are fit for the summer season.
+
+Where to Buy:
+
+ $45 $33.69 at REI
+ $45 $30 at Cotopaxi
+
+Update, May 20th: Updated to reflect current pricing / availability and several new deals, including those for Osprey’s Atmos AG 65 Pack and the Helinox Chair Zero LT. Brandon Widder also contributed to this post.
+
+### [ECOM] E-Commerce
+
+1. **General Catalyst just led a $63M bet on India’s travel payments market** [E-COMMERCE]
+   - Source: TechCrunch | Date: 21.05.2026
+   - Score: 51.4%
+   - [Read More](https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/)
+   > Scapia, an Indian startup that combines travel booking with co-branded credit cards and mobile payments, said the deal doubles its valuation.
 
 ### [AGENT] Agentic & Automation
 
-1. **With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots**
-   - Source: TechCrunch | Date: 19.05.2026
-   - Score: 56.0%
-   - [Read More](https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/)
-   > Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.
+1. **Buckle up: Google is set to remake search with agentic AI in 2026**
+   - Source: ArsTechnica | Date: 20.05.2026
+   - Score: 50.0%
+   - [Read More](https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/)
+   > Google's AI search evolution is accelerating at I/O 2026.
 
 2. **Sea's View on the Future of Agentic Software Development with Codex**
    - Source: OpenAI | Date: 14.05.2026
-   - Score: 50.4%
+   - Score: 49.6%
    - [Read More](https://openai.com/index/sea-david-chen)
    > Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.
 
-3. **Gemini 3.5 Flash might be fast enough for gen AI to make sense**
-   - Source: ArsTechnica | Date: 19.05.2026
-   - Score: 50.0%
-   - [Read More](https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/)
-   > Google says its more efficient Gemini 3.5 Flash is the key to your agentic AI future.
-
-4. **Google Search Goes Agentic—and Doesn’t Need You Anymore**
+3. **Google Search Goes Agentic—and Doesn’t Need You Anymore**
    - Source: Wired | Date: 19.05.2026
-   - Score: 49.0%
+   - Score: 48.2%
    - [Read More](https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/)
    > Vibe-coded results! Super widgets! Bots that never sleep! Google’s vision for the future of Search is hyper-personalized, automated, and extremely AI.
 
 ---
 
-*Generated by Zeitungsjunge • 20. Mai 2026 08:20*
+*Generated by Zeitungsjunge • 21. Mai 2026 08:27*
