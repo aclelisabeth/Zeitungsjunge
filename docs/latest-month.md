@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 25. Mai 2026 08:50
+**Generated:** 26. Mai 2026 08:26
 
 ## Report: Last 30 Days
 
@@ -8,20 +8,26 @@
 
 ### [AI] AI & Machine Learning
 
-1. **AdventHealth advances whole-person care with OpenAI**
-   - Source: OpenAI | Date: 21.05.2026
-   - Score: 49.3%
-   - [Read More](https://openai.com/index/adventhealth)
-   > AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.
+1. **OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership**
+   - Source: OpenAI | Date: 25.05.2026
+   - Score: 48.9%
+   - [Read More](https://openai.com/index/grupo-folha-grupo-uol-partnership)
+   > OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.
+
+2. **Citing Gandalf, Pope Leo says we must "disarm" AI**
+   - Source: ArsTechnica | Date: 25.05.2026
+   - Score: 45.1%
+   - [Read More](https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/)
+   > In an age of AI, Pope looks for "artisans of hope."
 
 ### [TECH] Technology
 
 1. **The best Memorial Day sales you can shop this weekend**
-   - Source: The Verge | Date: 24.05.2026
+   - Source: The Verge | Date: 25.05.2026
    - Score: 54.9%
    - [Read More](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
-   > Memorial Day is nearly here, meaning the seasonal sales are in full swing. If your weekend plans involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many of our favorite models are currently on sale. You can also find deals on everything from 4K OLED TVs and noise-canceling earbuds to tents, laptops, and plenty of our favorite everyday essentials.
-To give you more options, we’ve also included a selection of deals from retailers that aren’t necessarily running their own Memorial Day sales but are still offering limited-time deals in the run-up to May 25th.
+   > Memorial Day is here, meaning the seasonal sales are in full swing. If your plans over the long weekend involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many of our favorite models are currently on sale. You can also find deals on everything from 4K OLED TVs and noise-canceling earbuds to tents, laptops, and plenty of our favorite everyday essentials.
+To give you more options, we’ve also included a selection of deals from retailers that aren’t necessarily running their own Memorial Day sales but are still offering limited-time deals through the remainder of the holiday.
 Savings are savings, after all.
 
 
@@ -36,8 +42,8 @@ The AirPods Pro 3 have a new design that improves their fit, superior noise canc
 
 Where to Buy:
 
- $249 $199.99 at Amazon
- $249 $199.99 at Walmart
+ $249 $199 at Amazon
+ $249 $199 at Walmart
  $249.99 $199.99 at Best Buy
 
 
@@ -78,14 +84,14 @@ Where to Buy:
  $99 $59 at Nothing
 
 Sennheiser’s Momentum True Wireless 4 earbuds are down to around $199.95 ($100 off) at Amazon and Best Buy, which is $20 shy of their best price to date. If sound quality matters most, they’re an easy recommendation, delivering rich, detailed audio with EQ customization to fine-tune the listening experience. Optional wing tips are included to help keep them secure and comfortable. Read our review.
-Amazon and Best Buy are selling the last-gen AirPods Max (USB-C) for $449 ($100 off), which is $50 shy of their all-time low. Apple’s luxe over-ear headphones offer a premium design and work especially well with other Apple devices. They still deliver great sound quality and effective noise cancellation, even if the newer model has a slight edge. Read our review.
-Bose QuietComfort Ultra Headphones (first-gen)
-The older QC Ultra were a replacement for the Noise Cancelling Headphones 700 with a more travel-friendly design, spatial audio, and better call quality. Thankfully, they still offer excellent comfort and some of the best noise cancellation available. Read our review.
+Best Buy and Walmart are selling the last-gen AirPods Max (USB-C) for around $449 ($100 off), which is $50 shy of their all-time low. Apple’s luxe over-ear headphones offer a premium design and work especially well with other Apple devices. They still deliver great sound quality and effective noise cancellation, even if the newer model has a slight edge. Read our review.
+CMF Buds Pro 2
+The Buds Pro 2 offer a surprisingly robust set of features for the price, including ANC and a transparency mode that lets you tune into your surroundings. Their included charging case also features a smart dial that lets you adjust the volume, while multipoint Bluetooth support lets them connect to two devices simultaneously.
 
 Where to Buy:
 
- $429 $299 at Amazon
- $429 $299 at Best Buy
+ $69 $43 at Amazon
+ $69 $43 at Nothing
 
 
 Sony WH-1000XM5
@@ -179,6 +185,15 @@ Where to Buy:
  $2997.99 $2197.99 at Amazon (65-inch)
 
 Smart home 
+SwitchBot Bot Rechargeable
+Do you ever wish you could turn on your coffee maker or hit the light switch without getting up? The SwitchBot Bot lets you do that. All you need to do is stick the inexpensive contraption on a standard button or rocker switch, which will allow you to control or schedule your pet feeder, garage door, and a wide range of other devices from your smartphone.
+
+Where to Buy:
+
+ $33.99 $29.99 at Amazon (with on-page coupon)
+ $33.99 $27.19 at SwitchBot (with code SUMMER20)
+
+
 Dyson PencilWash
 
 Where to Buy:
@@ -199,6 +214,16 @@ Where to Buy:
 
 Ecobee’s Smart Thermostat Premium is on sale for $229.99 ($30 off) at Amazon and directly from Ecobee, which is within $30 of its lowest price to date. The high-end smart thermostat can adjust temperatures based on where you are in your home, send alerts if your home gets too hot or cold while you’re away, and even track basic indoor air quality metrics like humidity, VOCs, and carbon dioxide. It also works well with Alexa, Siri, Apple Home, Google Home, SmartThings, and IFTTT, while doubling as a decent smart speaker. Read our review.
 If you don’t need all the features offered by Ecobee’s top-tier model, Ecobee’s Smart Thermostat Enhanced is on sale for $169.99 ($30 off) at Amazon and directly from Ecobee, which is one of its better prices so far this year. It also adjusts temperatures based on whether anyone’s home and works with Alexa, Apple Home, Google Home, and SmartThings. Compared to the Premium model, though, you can’t use it as a doorbell, and it lacks indoor air quality monitoring and built-in voice control.
+Birdfy Feeder
+Birdfy’s entry-level smart feeder features a 1080p camera and an app that lets you view birds up close as they munch on seeds. If you fork out $4 per month for the premium subscription, you also get access to Birdfy’s AI, which identifies bird species and lets you set custom alerts for your favorites.
+
+Where to Buy:
+
+ $229.99 $99.99 at Amazon (non-solar)
+ $229.99 $109.99 at Birdfy (with free gift bag and card)
+ $259.99 $119.99 at Amazon (solar)
+
+
 Ecovacs Deebot X9 Pro Omni
 The Ecovacs Deebot X9 Pro Omni features an extendable mop that can clean itself, just like its predecessor. However, it also features Ecovacs’ Boosted Large-Airflow Suction Technology, which optimizes the airflow path from intake to exhaust, rather than relying solely on suction power. 
 
@@ -234,8 +259,8 @@ This is a great wired doorbell camera, and the only one that can use an Ecobee t
 
 Where to Buy:
 
- $159.99 $124.99 at Amazon
- $159.99 $129.99 at Best Buy
+ $159.99 $129.99 at Amazon
+ $159.99 $124.95 at Best Buy
  $159.99 $129.99 at Ecobee
 
 The Mill Food Recycler is on sale for $874 when you buy it directly from Mill, which isn’t quite its best price to date but still a nice discount on the clever kitchen appliance. Designed to help reduce food waste, the trash can transforms things like fruit peels, leftovers, and other scraps into a dry, compost-like material overnight, helping cut down on odors and the amount of trash your household produces. Read our review.
@@ -254,8 +279,6 @@ Govee Table Lamp 2 Pro X Sound by JBL
 Where to Buy:
 
  $179.99 $134.99 at Amazon
- $179.99 $134.99 at Best Buy
- $179.99 $134.99 at Govee
 
 Gaming
 Nintendo Switch 2 “Choose Your Game” bundle
@@ -332,10 +355,9 @@ Anker’s latest single-port USB-C charger offers up to 45W of power, foldable p
 
 Where to Buy:
 
- $39.99 $29.99 at Amazon (with Prime)
- $39.99 $29.99 at Anker (with code WSPDV2LMBR0W)
+ $39.99 $27.99 at Amazon
+ $39.99 $27.99 at Anker (with code WS7DV2UPQ7JH)
 
-If you need a reliable power bank, Anker’s Zolo Magnetic Power Bank (10,000mAh) is on sale for $39.99 ($10 off) at Amazon, which is $10 shy of its all-time low. The small battery pack can wirelessly charge iPhones at up to 7.5W, while the built-in USB-C cable delivers up to 30W fast charging for devices. It also doubles as an adjustable stand, making it handy for watching videos or keeping an eye on notifications while charging.
 Satechi’s 3-in-1 Foldable Wireless Charging Stand with Qi2 25W is on sale for $116.99 ($13 off) at Amazon, which is a new low price. The adjustable, foldable stand can wirelessly deliver up to 25W to compatible iPhones while simultaneously fast charging an Apple Watch and topping up your AirPods, but it also works with a range of Qi, Qi2, and Qi2.2-compatible Android phones and wireless earbuds. Satechi also includes a 45W USB-C adapter along with three international adapters, making it a useful travel companion.
 Twelve South PowerBug
 Part wall wart, part magnetic wireless charger, the StandBy-ready PowerBug is about as unique as chargers come. The simple device can top off MagSafe and Qi2-compatible devices — including the latest Google Pixel models — while supplying 35W charging speeds to a second gadget via USB-C.
@@ -343,7 +365,7 @@ Part wall wart, part magnetic wireless charger, the StandBy-ready PowerBug is ab
 Where to Buy:
 
  $49.99 $39.99 at Amazon (black)
- $49.99 at Twelve South
+ $49.99 $39.99 at Twelve South
  $49.99 $39.99 at Amazon (white)
 
 
@@ -352,10 +374,18 @@ The Jackery Explorer 500 is small but mighty, delivering 500W of power in a pack
 
 Where to Buy:
 
- $499 $339 at Amazon
+ $499 $319 at Amazon
  $499 $329 at Jackery
 
 Goal Zero is taking 25 percent off a range of portable power stations, including the Yeti 700, which is currently $524.89 ($175 off). The portable power station can power up to nine devices at once through its AC, USB-C, USB-A, and 12V ports. Compared to the smaller Yeti 300 (on sale for $262.89) and Yeti 500 (on sale for $374.89), the higher-end model offers greater battery capacity and power output, making it a better fit for running multiple laptops, phones, lights, and even small appliances simultaneously.
+Shargeek 170 Power Bank
+A see-through case protects a 24,000mAh battery, 170W maximum output, and the ability to charge three devices simultaneously via a pair of 140W USB-C ports and a single USB-A port.
+
+Where to Buy:
+
+ $199 $119 at Amazon
+ $199 $109.99 at Scharge (with code S170)
+
 Miscellaneous Verge favorites
 Garmin inReach Mini 2
 Garmin’s palm-sized inReach Mini 2 satellite communicator offers off-the-grid two-way messaging, built-in navigation capabilities, and powerful mapping features, including the ability to set waypoints when paired with Garmin’s Explore app. A subscription plan is required to access the Iridium network, though, with prices starting at $7.99 a month.
@@ -375,7 +405,7 @@ Where to Buy:
  $24.95 $18.69 at REI
 
 The Insta360 Link 2 Pro is down to $229.99 ($20 off) at Amazon, Best Buy, and directly from Insta360. The premium 4K webcam uses a large 1/1.3-inch sensor for sharper image quality and better low-light performance than its predecessor, though its resolution still maxes out at 4K/30fps or 1080p at up to 60fps. It features a two-axis gimbal and dual microphones with AI noise cancellation, while retaining features like AI tracking to help keep you centered if you move around.
-The newer Ray-Ban Meta 2 smart glasses are also on sale for around $322.15 ($57 off) at Amazon, Best Buy, and directly from Meta, which marks a new low price. They’re a minor upgrade over the last-gen model, with the biggest improvements being battery life and camera quality. The newer pair can last up to eight hours on a charge, which is double that of the original model, while the camera can capture sharper 3K video at 30fps. Read our review.
+The newer Ray-Ban Meta 2 smart glasses are also on sale starting at $322.15 ($57 off) at Amazon, Best Buy, and directly from Meta, which marks a new low price. They’re a minor upgrade over the last-gen model, with the biggest improvements being battery life and camera quality. The newer pair can last up to eight hours on a charge, which is double that of the original model, while the camera can capture sharper 3K video at 30fps. Read our review.
 Ray-Ban Meta (Gen 1) smart glasses
 Developed in partnership with Ray-Ban, Meta’s last-gen smart glasses can perform a range of tasks. They can capture 1080p video and play music, and thanks to a suite of AI-based features, you can even use them to translate from a myriad of languages in real time. Read our review.
 
@@ -383,7 +413,7 @@ Where to Buy:
 
  $299 $224.25 at Amazon
  $299 $224.25 at Best Buy
- $299.99 $224.99 at Meta
+ $299.99 $224.25 at Meta
 
 
 Half Dome 2 Tent (with footprint)
@@ -395,6 +425,15 @@ Where to Buy:
 
 You can buy the Insta360 X5 at Amazon, Best Buy, and directly from Insta360’s online storefront for an all-time low of $464.99 ($85 off), with Insta360 throwing in a free lens kit. The 360-degree action cam delivers sharper, more detailed images than its predecessor and improved low-light performance. Specifically, it now allows you to capture 4K footage at up to 120fps, 8K video at up to 30fps, or 5.7K at 60fps, while offering support for user-replaceable lenses. Read our review.
 A small, compact chair is nice to have for lounging by the campfire, and REI’s Flexlite Camp Chair is a great option now that it’s down to $67.39 (about $22 off) in multiple colors at REI. It features an aluminum frame, a stable four-leg design, and a ripstop polyester seat with water and stain resistance. When you’re done, it can also quickly fold down into a drawstring bag, so you can throw it in your car or tent.
+Twelve South AirFly Pro 2
+The AirFly Pro 2 is a handy tool for frequent travelers. The long-lasting Bluetooth adapter plugs into the auxiliary jack on any in-flight entertainment system, letting you and one other person listen to a movie or music without relying on the shoddy headphones that come with most flights. 
+
+Where to Buy:
+
+ $59.99 $49.99 at Amazon
+ $59.99 $49.99 at Twelve South
+
+
 Kelty Low Loveseat
 The Kelty Low Loveseat is a sturdy, low-profile camp chair built for two. It features a steel frame, a padded seat, and extra-large cup holders for your drinks or gear. It also includes a padded roll-tote storage bag, making it easy to transport when it’s folded down.
 
@@ -412,7 +451,7 @@ Where to Buy:
  $149 $111.69 at REI (medium)
  $159 $119.19 at REI (long)
 
-The Dyson Airwrap i.d. is on sale for $499.99 ($150 off) from Best Buy and Dyson. The dryer can automatically adjust heat, airflow, and timing according to your styling preferences, with the app letting you set up a profile based on factors like your hair type, length, and skill level. From there, it can guide you through a more customized curling routine. Dyson also includes three attachments, including a conical barrel, a diffuser designed for waves and curls, and a blade concentrator.
+The Dyson Airwrap i.d. is available for $499.99 ($150 off) from Amazon, Best Buy and Dyson. The dryer can automatically adjust heat, airflow, and timing according to your styling preferences, with the app letting you set up a profile based on factors like your hair type, length, and skill level. From there, it can guide you through a more customized curling routine. Dyson also includes three attachments, including a conical barrel, a diffuser designed for waves and curls, and a blade concentrator.
 The Amazfit Active 2 is on sale for $89.99 ($10 off) at Amazon and Best Buy, which is $10 shy of its lowest price to date. It’s a surprisingly capable budget fitness tracker, with features like continuous heart rate and blood oxygen monitoring, offline navigation, and battery life that can last up to nine days. Read our review.
 BioLite Site Lights
 BioLite’s ultra-versatile Site Light kit comes with six weatherproof bulbs, which can illuminate up to 1,000 square feet when hung or properly staked. You don’t need to bring a charger, either, as the included carrying case doubles as a solar charger for the lights.
@@ -432,28 +471,22 @@ Where to Buy:
  $599.95 $359.89 at BioLite (with free carry bag)
  $599.95 $359.89 at Backcountry
 
-Update, May 24th: Updated to reflect current pricing and availability.
+Update, May 25th: Updated to reflect current pricing / availability and several news deals, including those for Birdfy’s smart bird feeder and the Shargeek 170 Power Bank. Brandon Widder and Cameron Faulkner also contributed to this post.
 
-2. **Ferrari is using IBM’s AI to create F1 superfans**
-   - Source: TechCrunch | Date: 23.05.2026
-   - Score: 47.6%
-   - [Read More](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/)
-   > IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.
-
-3. **HP Discount Codes: 60% Off May 2026**
+2. **The AI Era Is Creating a Bug Hunting Arms Race**
    - Source: Wired | Date: 25.05.2026
-   - Score: 44.4%
-   - [Read More](https://www.wired.com/story/hp-coupon-code/)
-   > Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.
+   - Score: 46.2%
+   - [Read More](https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/)
+   > As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.
 
 ### [AGENT] Agentic & Automation
 
-1. **Agentic Commerce: Loyalty-Programme: Vertraut der Kunde dem KI-Agenten?**
-   - Source: etailment | Date: 21.05.2026
-   - Score: 43.6%
-   - [Read More](https://etailment.de/news/stories/loyalty-programme-vertraut-der-kunde-dem-ki-agenten-25489?utm_source=rss&utm_medium=referral&utm_campaign=news&utm_term=)
-   > Agentic Commerce stellt die traditionellen Programme zur Kundenbindung auf eine ernste Probe: Was nützt die mühsam aufgebaute Loyalität zu Brand und Produkt, wenn ein Konsument der KI Suche, Vergleich, Priorisierung und am Ende auch den Kauf überlässt? Doch Experten sind sich uneins, ob der letzte Schritt wirklich so leicht getan wird. Denn blind vertrauen wollen die Menschen der maschinellen Intelligenz offenbar noch nicht.
+1. **What ClickUp’s mass layoff tells us about the future of work**
+   - Source: TechCrunch | Date: 25.05.2026
+   - Score: 50.9%
+   - [Read More](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)
+   > The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.
 
 ---
 
-*Generated by Zeitungsjunge • 25. Mai 2026 08:50*
+*Generated by Zeitungsjunge • 26. Mai 2026 08:26*
