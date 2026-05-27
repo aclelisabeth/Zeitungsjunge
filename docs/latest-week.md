@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 26. Mai 2026 08:26
+**Generated:** 27. Mai 2026 08:34
 
 ## Report: Last 7 Days
 
@@ -10,24 +10,20 @@
 
 1. **OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership**
    - Source: OpenAI | Date: 25.05.2026
-   - Score: 48.9%
+   - Score: 48.0%
    - [Read More](https://openai.com/index/grupo-folha-grupo-uol-partnership)
    > OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.
 
-2. **Citing Gandalf, Pope Leo says we must "disarm" AI**
-   - Source: ArsTechnica | Date: 25.05.2026
-   - Score: 45.1%
-   - [Read More](https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/)
-   > In an age of AI, Pope looks for "artisans of hope."
-
 ### [TECH] Technology
 
-1. **The best Memorial Day sales you can shop this weekend**
-   - Source: The Verge | Date: 25.05.2026
+1. **The best Memorial Day sales you can still shop**
+   - Source: The Verge | Date: 26.05.2026
    - Score: 54.9%
    - [Read More](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
-   > Memorial Day is here, meaning the seasonal sales are in full swing. If your plans over the long weekend involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many of our favorite models are currently on sale. You can also find deals on everything from 4K OLED TVs and noise-canceling earbuds to tents, laptops, and plenty of our favorite everyday essentials.
-To give you more options, we’ve also included a selection of deals from retailers that aren’t necessarily running their own Memorial Day sales but are still offering limited-time deals through the remainder of the holiday.
+   > You can still save $200 on the new MacBook Air. | Photo: Antonio G. Di Benedetto / The Verge	
+
+The long weekend is over, but many of the best Memorial Day deals are still available. Many of our favorite portable speakers are discounted, as are other outdoorsy products we like, including a set of solar lights. You can also find deals on everything from 4K OLED TVs and noise-canceling earbuds to laptops, and plenty of our favorite everyday essentials.
+To give you more options, we’ve also included a selection of deals from retailers that weren’t officially running Memorial Day sales but are still matching many of the same prices. 
 Savings are savings, after all.
 
 
@@ -37,16 +33,6 @@ Savings are savings, after all.
 
 
 Earbuds and headphones 
-AirPods Pro 3
-The AirPods Pro 3 have a new design that improves their fit, superior noise cancellation, better bass, and fairly accurate heart rate sensors. Read our review.
-
-Where to Buy:
-
- $249 $199 at Amazon
- $249 $199 at Walmart
- $249.99 $199.99 at Best Buy
-
-
 Nothing Headphone A
 Nothing’s second over-ear headphones may not offer everything found on the pricier Nothing Headphone 1, but you do get physical controls, good sound, and more than five days of battery life per charge. Their design is also a bit more discreet, for better or worse. Read our review.
 
@@ -66,15 +52,7 @@ Where to Buy:
  $299 $249 at Best Buy
 
 Samsung’s Galaxy Buds 3 Pro are on sale for $149.99 ($100 off) at Best Buy, which matches their all-time low price. The wireless earbuds are our top pick for Samsung Galaxy phone device owners, thanks to their comfortable AirPods-inspired design, terrific sound quality, and good noise cancellation. They also offer helpful voice controls that let you adjust volume or playback without a wake word, while delivering excellent voice call quality. Read our review.
-If you’re an Apple user, there’s no better pair of starter buds than the open-style AirPods 4, which have fallen to a new low of $99 ($30 off) at Amazon and Walmart. The latest model sounds significantly better than the third-gen pair, particularly for voice calls. More importantly, they offer robust integration with the rest of the Apple ecosystem, letting you take advantage of audio sharing, automatic device switching, hands-free “Hey Siri” commands, Apple TV integration, and more. Read our review.
-Shokz OpenRun Pro 2
-The OpenRun Pro 2 are Shokz’s best bone conduction headphones yet, with better sound and more bass than their predecessor. Our reviewer Victoria Song praised their cozy fit as well as their USB-C charging (goodbye, proprietary charger!). Read our review.
-
-Where to Buy:
-
- $179.99 $129.99 at Best Buy
-
-
+If you’re an Apple user, there’s no better pair of starter buds than the open-style AirPods 4, which have fallen to $99 ($30 off) at Walmart. The latest model sounds significantly better than the third-gen pair, particularly for voice calls. More importantly, they offer robust integration with the rest of the Apple ecosystem, letting you take advantage of audio sharing, automatic device switching, hands-free “Hey Siri” commands, Apple TV integration, and more. Read our review.
 Nothing Ear (a)
 Nothing’s Ear (a) earbuds have the same general design as the company’s previous earbuds — but you can get these in a snazzy yellow. They include ANC, more than decent sound quality, and other features like multipoint for just under $100. Read our impressions.
 
@@ -84,7 +62,7 @@ Where to Buy:
  $99 $59 at Nothing
 
 Sennheiser’s Momentum True Wireless 4 earbuds are down to around $199.95 ($100 off) at Amazon and Best Buy, which is $20 shy of their best price to date. If sound quality matters most, they’re an easy recommendation, delivering rich, detailed audio with EQ customization to fine-tune the listening experience. Optional wing tips are included to help keep them secure and comfortable. Read our review.
-Best Buy and Walmart are selling the last-gen AirPods Max (USB-C) for around $449 ($100 off), which is $50 shy of their all-time low. Apple’s luxe over-ear headphones offer a premium design and work especially well with other Apple devices. They still deliver great sound quality and effective noise cancellation, even if the newer model has a slight edge. Read our review.
+Walmart‘s selling the last-gen AirPods Max (USB-C) for around $449 ($100 off), which is $50 shy of their all-time low. Apple’s luxe over-ear headphones offer a premium design and work especially well with other Apple devices. They still deliver great sound quality and effective noise cancellation, even if the newer model has a slight edge. Read our review.
 CMF Buds Pro 2
 The Buds Pro 2 offer a surprisingly robust set of features for the price, including ANC and a transparency mode that lets you tune into your surroundings. Their included charging case also features a smart dial that lets you adjust the volume, while multipoint Bluetooth support lets them connect to two devices simultaneously.
 
@@ -121,7 +99,7 @@ The Charge 6 is a robust, IP68-rated portable speaker with up to 28 hours of bat
 Where to Buy:
 
  $199.95 $149.95 at Amazon
- $199.95 $149.95 at Best Buy
+ $199.95 $159.95 at Best Buy
  $199.95 $159.99 at REI
 
 Bose’s SoundLink Micro is on sale for $99 ($30 off) at Amazon and Best Buy , matching its all-time low price. It’s a good pick if you want something more portable than the larger SoundLink Plus. It won’t deliver the same room-filling sound, but it’s pocket-friendly, features a rugged IP67 design, and offers up to 12 hours of battery life, making it easier to take on the go.
@@ -141,8 +119,7 @@ LG’s B5 TV is a great way to get OLED picture quality for less. It features su
 
 Where to Buy:
 
- $1299.99 $649.99 at Best Buy (48-inch)
- $2999.99 $1499.99 at Best Buy (77-inch, includes $200 gift card)
+ $2999.99 $1499.99 at Best Buy (77-inch)
 
 
 LG C5 OLED TV
@@ -180,7 +157,6 @@ In a TV Shootout whose judges included The Verge’s Nilay Patel, the TV’s HDR
 
 Where to Buy:
 
- $2197.99 $1597.99 at Amazon (55-inch)
  $3299.99 $2199.99 at Best Buy (65-inch)
  $2997.99 $2197.99 at Amazon (65-inch)
 
@@ -229,9 +205,8 @@ The Ecovacs Deebot X9 Pro Omni features an extendable mop that can clean itself,
 
 Where to Buy:
 
- $1299.99 $649 at Amazon
- $1299.99 $649 at Best Buy
- $1299.99 $649 at Ecovacs
+ $1299.99 $599 at Best Buy
+ $1299.99 $599 at Ecovacs
 
 
 Coway Airmega AP-1512HH Mighty air purifier
@@ -243,7 +218,6 @@ Where to Buy:
  $239.99 $159.99 at Walmart
 
 Ecobee’s Smart Thermostat Essential is on sale for $119.99 ($20 off) at Amazon and directly from Ecobee, which is also one of its better prices in recent months. The company’s most affordable thermostat covers the basics, letting you control your home’s temperature, create schedules in the app, and use Alexa, Apple Home, or Google Assistant. It also sends intruder alerts, but unlike Ecobee’s pricier models, it can’t automatically adjust temperatures based on activity in your home.
-If you want something even more capable, Ecovacs’ new Deebot X12 OmniCyclone is on sale for $1,249 ($250 off) at Amazon and directly from Ecovacs, matching its best price. The flagship is a more powerful with 22,000Pa suction, while offering a wider 10.6-inch roller mop that continuously rinses itself. It uses cameras and AI to detect dried stains, then sprays water and cleaning solution to help loosen stubborn messes before scrubbing them away.
 Ring Floodlight Cam Wired Pro
 The Ring Floodlight Cam Wired Pro delivers high-quality video with adjustable, accurate radar-powered motion detection, 2,000 lumens of light, and a good digital zoom. It offers smart alerts for people or motion, and works with Amazon Alexa or Samsung SmartThings.
 
@@ -260,10 +234,9 @@ This is a great wired doorbell camera, and the only one that can use an Ecobee t
 Where to Buy:
 
  $159.99 $129.99 at Amazon
- $159.99 $124.95 at Best Buy
  $159.99 $129.99 at Ecobee
 
-The Mill Food Recycler is on sale for $874 when you buy it directly from Mill, which isn’t quite its best price to date but still a nice discount on the clever kitchen appliance. Designed to help reduce food waste, the trash can transforms things like fruit peels, leftovers, and other scraps into a dry, compost-like material overnight, helping cut down on odors and the amount of trash your household produces. Read our review.
+
 Eve Energy Smart Plug
 Not only does this smart plug offer the most detailed energy monitoring of any we have ever tested but it also works with Matter-over-Thread and is an especially good choice for Apple Home users.
 
@@ -272,13 +245,6 @@ Where to Buy:
  $39.95 $34.45 at Amazon
  $39.99 $34.99 at Best Buy
  $39.95 $34.45 at The Home Depot
-
-
-Govee Table Lamp 2 Pro X Sound by JBL
-
-Where to Buy:
-
- $179.99 $134.99 at Amazon
 
 Gaming
 Nintendo Switch 2 “Choose Your Game” bundle
@@ -298,8 +264,7 @@ Where to Buy:
 
  $59.99 $39.99 at Best Buy (Nintendo Switch)
 
-You can buy the physical version of Assassin’s Creed Shadows at Best Buy for the PlayStation 5 or Xbox Series X for $34.99 ($15 off). The open-world game follows a shinobi assassin and a powerful samurai caught in the midst of political unrest in feudal Japan. Its stealth mechanics are intuitive, and there’s a satisfying amount of action, too. Read our review.
-You can save $100 when you spend over $400 on select Logitech products at Best Buy this weekend. The limited-time promo includes Logitech’s $179.99 Pro X2 Superstrike gaming mouse, which uses haptics-based buttons instead of mechanical ones, along with Logitech’s G923 racing wheel and its A50 Lightspeed gaming headset. The promo details are located under the pricing on each landing page, nested within the “Special Offers” section. From there, you can build your bundle.
+You can save $100 when you spend over $400 on select Logitech products at Best Buy. The limited-time promo includes Logitech’s $179.99 Pro X2 Superstrike gaming mouse, which uses haptics-based buttons instead of mechanical ones, along with Logitech’s G923 racing wheel and its A50 Lightspeed gaming headset. The promo details are located under the pricing on each landing page, nested within the “Special Offers” section. From there, you can build your bundle.
 Star Wars Outlaws
 Star Wars Outlaws is an original open-world adventure set in the vast universe of the iconic film series. It stars Kay Vess, a protagonist looking to steal from criminal overlords to gain her freedom. Read our review.
 
@@ -307,7 +272,6 @@ Where to Buy:
 
  $59.99 $35.97 at Amazon (Nintendo Switch 2)
  $69.99 $19.93 at Walmart (PlayStation 5)
- $69.99 $19.99 at Best Buy
 
 
 Xbox Wireless Controller
@@ -327,11 +291,11 @@ Where to Buy:
 
  $349 $299 at Amazon (128GB, Wi-Fi)
  $449 $399 at Amazon (256GB, Wi-Fi)
- $649 $596.5 at Amazon (512GB, Wi-Fi)
+ $649 $597 at Amazon (512GB, Wi-Fi)
 
-The latest 11-inch iPad Pro with 256GB of storage is down to $899 ($100 off) at Amazon and Best Buy, which is $100 shy of its all-time low. If you prefer a bigger screen, the 13-inch / Wi-Fi model with 256GB of storage is also on sale at Amazon and Best Buy for around $1,195 ($105 off). Apple’s newest iPad Pro is its fastest tablet yet, packing the M5 chip along with faster storage speeds, quicker charging, and a new N1 chip that handles wireless connectivity like Wi-Fi, Bluetooth, and Thread. Read our review.
+The latest 11-inch iPad Pro with 256GB of storage is down to $899 ($100 off) at Amazon, which is $100 shy of its all-time low. If you prefer a bigger screen, the 13-inch / Wi-Fi model with 256GB of storage is also on sale at Amazon for around $1,195 ($105 off). Apple’s newest iPad Pro is its fastest tablet yet, packing the M5 chip along with faster storage speeds, quicker charging, and a new N1 chip that handles wireless connectivity like Wi-Fi, Bluetooth, and Thread. Read our review.
 TCL’s Note A1 Nxtpaper is a tablet primarily for note-taking, akin to Remarkable’s Paper Pure and Amazon’s Kindle Scribe, but with a much better screen. You can currently snag the 11.5-inch tablet with a keyboard cover for $499.99 (originally $599.99) directly from TCL’s online storefront. The tablet features a 120Hz color panel that feels natural to draw or write on with its included stylus; it also offers a slew of built-in AI tools, allowing you to convert handwriting to text, make your handwriting more legible, and carry out other actions.
-15-inch MacBook Air (M5)
+MacBook Air (M5)
 Powered by Apple’s new M5 chip, the latest MacBook Airs are more powerful than prior models and offer double the base storage (512GB). They also support faster wireless standards, specifically Wi-Fi 7 and Bluetooth 6. Read our review.
 
 Where to Buy:
@@ -359,16 +323,6 @@ Where to Buy:
  $39.99 $27.99 at Anker (with code WS7DV2UPQ7JH)
 
 Satechi’s 3-in-1 Foldable Wireless Charging Stand with Qi2 25W is on sale for $116.99 ($13 off) at Amazon, which is a new low price. The adjustable, foldable stand can wirelessly deliver up to 25W to compatible iPhones while simultaneously fast charging an Apple Watch and topping up your AirPods, but it also works with a range of Qi, Qi2, and Qi2.2-compatible Android phones and wireless earbuds. Satechi also includes a 45W USB-C adapter along with three international adapters, making it a useful travel companion.
-Twelve South PowerBug
-Part wall wart, part magnetic wireless charger, the StandBy-ready PowerBug is about as unique as chargers come. The simple device can top off MagSafe and Qi2-compatible devices — including the latest Google Pixel models — while supplying 35W charging speeds to a second gadget via USB-C.
-
-Where to Buy:
-
- $49.99 $39.99 at Amazon (black)
- $49.99 $39.99 at Twelve South
- $49.99 $39.99 at Amazon (white)
-
-
 Jackery Explorer 500
 The Jackery Explorer 500 is small but mighty, delivering 500W of power in a package that features seven output ports and weighs just 13 pounds.
 
@@ -395,64 +349,26 @@ Where to Buy:
  $399.99 $249.99 at Amazon
  $399.99 $249.99 at Garmin
 
-
-LifeStraw Peak Series Straw
-LifeStraw’s redesigned Peak Series Straw features a durable, leakproof design that’s great for backcountry treks. It can remove unwanted viruses, bacteria, and microplastics as you drink — just like the base model — but benefits from an increased flow rate and more premium materials.
-
-Where to Buy:
-
- $24.95 $18.69 at Amazon
- $24.95 $18.69 at REI
-
 The Insta360 Link 2 Pro is down to $229.99 ($20 off) at Amazon, Best Buy, and directly from Insta360. The premium 4K webcam uses a large 1/1.3-inch sensor for sharper image quality and better low-light performance than its predecessor, though its resolution still maxes out at 4K/30fps or 1080p at up to 60fps. It features a two-axis gimbal and dual microphones with AI noise cancellation, while retaining features like AI tracking to help keep you centered if you move around.
-The newer Ray-Ban Meta 2 smart glasses are also on sale starting at $322.15 ($57 off) at Amazon, Best Buy, and directly from Meta, which marks a new low price. They’re a minor upgrade over the last-gen model, with the biggest improvements being battery life and camera quality. The newer pair can last up to eight hours on a charge, which is double that of the original model, while the camera can capture sharper 3K video at 30fps. Read our review.
 Ray-Ban Meta (Gen 1) smart glasses
 Developed in partnership with Ray-Ban, Meta’s last-gen smart glasses can perform a range of tasks. They can capture 1080p video and play music, and thanks to a suite of AI-based features, you can even use them to translate from a myriad of languages in real time. Read our review.
 
 Where to Buy:
 
- $299 $224.25 at Amazon
- $299 $224.25 at Best Buy
- $299.99 $224.25 at Meta
-
-
-Half Dome 2 Tent (with footprint)
-REI’s inexpensive, three-season tent is easy to set up and offers plenty of space for two people, with built-in pockets for stowing gear and large roll-up doors. It’s certainly not the lightest offering you can buy, but at this price, it’s an easy recommendation for first-time backpackers and anyone looking for a solid tent for car camping.
-
-Where to Buy:
-
- $329 $246.69 at REI
+ $299 $224 at Amazon
+ $299 $224 at Best Buy
+ $299.99 $224 at Meta
 
 You can buy the Insta360 X5 at Amazon, Best Buy, and directly from Insta360’s online storefront for an all-time low of $464.99 ($85 off), with Insta360 throwing in a free lens kit. The 360-degree action cam delivers sharper, more detailed images than its predecessor and improved low-light performance. Specifically, it now allows you to capture 4K footage at up to 120fps, 8K video at up to 30fps, or 5.7K at 60fps, while offering support for user-replaceable lenses. Read our review.
-A small, compact chair is nice to have for lounging by the campfire, and REI’s Flexlite Camp Chair is a great option now that it’s down to $67.39 (about $22 off) in multiple colors at REI. It features an aluminum frame, a stable four-leg design, and a ripstop polyester seat with water and stain resistance. When you’re done, it can also quickly fold down into a drawstring bag, so you can throw it in your car or tent.
-Twelve South AirFly Pro 2
-The AirFly Pro 2 is a handy tool for frequent travelers. The long-lasting Bluetooth adapter plugs into the auxiliary jack on any in-flight entertainment system, letting you and one other person listen to a movie or music without relying on the shoddy headphones that come with most flights. 
-
-Where to Buy:
-
- $59.99 $49.99 at Amazon
- $59.99 $49.99 at Twelve South
-
-
 Kelty Low Loveseat
 The Kelty Low Loveseat is a sturdy, low-profile camp chair built for two. It features a steel frame, a padded seat, and extra-large cup holders for your drinks or gear. It also includes a padded roll-tote storage bag, making it easy to transport when it’s folded down.
 
 Where to Buy:
 
- $149.95 $112.39 at REI
- $149.95 $112.39 at Backcountry
-
-
-REI Siesta Hooded 20 Sleeping Bag
-The Siesta prioritizes comfort with a roomy rectangular shape that gives you space to stretch out. The synthetic sleeping bag features an insulated hood — one that’s spacious enough to accommodate a real pillow — along with multiple zipper configurations so you can vent your feet or fully unzip it into a quilt-like blanket.
-
-Where to Buy:
-
- $149 $111.69 at REI (medium)
- $159 $119.19 at REI (long)
+ $149.95 $112.46 at Backcountry
 
 The Dyson Airwrap i.d. is available for $499.99 ($150 off) from Amazon, Best Buy and Dyson. The dryer can automatically adjust heat, airflow, and timing according to your styling preferences, with the app letting you set up a profile based on factors like your hair type, length, and skill level. From there, it can guide you through a more customized curling routine. Dyson also includes three attachments, including a conical barrel, a diffuser designed for waves and curls, and a blade concentrator.
-The Amazfit Active 2 is on sale for $89.99 ($10 off) at Amazon and Best Buy, which is $10 shy of its lowest price to date. It’s a surprisingly capable budget fitness tracker, with features like continuous heart rate and blood oxygen monitoring, offline navigation, and battery life that can last up to nine days. Read our review.
+The Amazfit Active 2 is on sale for $89.99 ($10 off) at Amazon, which is $10 shy of its lowest price to date. It’s a surprisingly capable budget fitness tracker, with features like continuous heart rate and blood oxygen monitoring, offline navigation, and battery life that can last up to nine days. Read our review.
 BioLite Site Lights
 BioLite’s ultra-versatile Site Light kit comes with six weatherproof bulbs, which can illuminate up to 1,000 square feet when hung or properly staked. You don’t need to bring a charger, either, as the included carrying case doubles as a solar charger for the lights.
 
@@ -460,7 +376,6 @@ Where to Buy:
 
  $99.95 $74.89 at Amazon
  $99.95 $74.89 at  BioLite
- $99.95 $74.89 at REI
 
 
 BioLite FirePit Plus
@@ -471,22 +386,30 @@ Where to Buy:
  $599.95 $359.89 at BioLite (with free carry bag)
  $599.95 $359.89 at Backcountry
 
-Update, May 25th: Updated to reflect current pricing / availability and several news deals, including those for Birdfy’s smart bird feeder and the Shargeek 170 Power Bank. Brandon Widder and Cameron Faulkner also contributed to this post.
+Update, May 26th: Updated to reflect current pricing / availability. Brandon Widder and Cameron Faulkner also contributed to this post.
 
-2. **The AI Era Is Creating a Bug Hunting Arms Race**
-   - Source: Wired | Date: 25.05.2026
-   - Score: 46.2%
-   - [Read More](https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/)
-   > As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.
+### [ECOM] E-Commerce
+
+1. **Amazon fulfillment competitor Stord raises $250M at $3B valuation** [E-COMMERCE]
+   - Source: TechCrunch | Date: 26.05.2026
+   - Score: 55.8%
+   - [Read More](https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/)
+   > Stord offers a network of physical warehouses and inventory management software for e-commerce. It bills itself as a sort of anti-Amazon, giving brands "the speed to compete" while still owning their customer relationships.
 
 ### [AGENT] Agentic & Automation
 
-1. **What ClickUp’s mass layoff tells us about the future of work**
-   - Source: TechCrunch | Date: 25.05.2026
-   - Score: 50.9%
-   - [Read More](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)
-   > The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.
+1. **AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened**
+   - Source: Wired | Date: 26.05.2026
+   - Score: 48.7%
+   - [Read More](https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/)
+   > The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.
+
+2. **Millions of AI agents imperiled by critical vulnerability in open source package**
+   - Source: ArsTechnica | Date: 26.05.2026
+   - Score: 47.6%
+   - [Read More](https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/)
+   > "BadHost" was found in Starlette, a package with 325 million weekly downloads.
 
 ---
 
-*Generated by Zeitungsjunge • 26. Mai 2026 08:26*
+*Generated by Zeitungsjunge • 27. Mai 2026 08:34*
