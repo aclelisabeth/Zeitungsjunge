@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 28. Mai 2026 08:38
+**Generated:** 29. Mai 2026 08:37
 
 ## Report: All Articles
 
@@ -10,60 +10,49 @@
 
 1. **Warp’s big bet on building open source with GPT-5.5**
    - Source: OpenAI | Date: 27.05.2026
-   - Score: 53.9%
+   - Score: 53.0%
    - [Read More](https://openai.com/index/warp)
    > Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.
 
+2. **LLMs believe false statements even after explicit warnings that they're false**
+   - Source: ArsTechnica | Date: 28.05.2026
+   - Score: 47.6%
+   - [Read More](https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/)
+   > Fine-tuning tests show "bias ... toward confidently representing the claims as true."
+
 ### [TECH] Technology
 
-1. **US law enforcement warns of "anti-tech extremism" as AI hatred grows**
-   - Source: ArsTechnica | Date: 27.05.2026
-   - Score: 47.2%
-   - [Read More](https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/)
-   > The feds are raising the alarm about a new category of threat.
-
-### [ECOM] E-Commerce
-
-1. **Apple’s newest iPad Air is up to $100 off for the first time** [E-COMMERCE]
-   - Source: The Verge | Date: 27.05.2026
-   - Score: 47.6%
-   - [Read More](https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale)
-   > If you want an iPad that’s more powerful than the entry-level model but less expensive than the iPad Pro, the latest iPad Air is the one to buy, and it’s down to one its best prices to date. The 11-inch Air with 128GB of storage and Wi-Fi connectivity is available at Amazon starting at $519.99 ($79 off). If you want a larger screen, the base 13-inch Air has dropped to a new low price of $699 ($100 off), also at Amazon.
-13-inch iPad Air M4 
+1. **Motorola’s last-gen Razr Ultra is almost half off**
+   - Source: The Verge | Date: 28.05.2026
+   - Score: 52.5%
+   - [Read More](https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale)
+   > Motorola’s latest Razr Ultra proves that its flip foldable format has evolved to become more than just a nostalgic gimmick. I’d understand if you’re not interested in shelling out $1,499.99 for the 2026 model, but the similar 2025 Motorola Razr Ultra with 512GB of storage is a much more palatable $699.99 unlocked at Best Buy (was $1,299.99) in all colors, while just the green color is available at this price at Amazon. Those may not feel as luxurious in the hand as the 2026 model’s Alcantara finish, but it looks nearly identical and now costs hundreds less. The discount brings it within range of some of our favorite budget-friendly smartphones.
+Motorola Razr Ultra (2025)
+Motorola has pulled out all the stops for its latest high-end flip phone with top-notch performance, great battery life, and luxurious finish options.
 
 Where to Buy:
 
- $799 $699.99 at Amazon (128GB, Wi-Fi)
- $899 $789.99 at Amazon (256GB, Wi-Fi)
- $1099 $1019 at Amazon (512GB, Wi-Fi)
+ $1299.99 $699.99 at Amazon (512GB)
+ $1299.99 $699.99 at Best Buy (512GB)
 
+You aren’t making many compromises by opting for last year’s version instead of getting the new one. In fact, some of its internal hardware is the same, including its Snapdragon 8 Elite, which is still snappy and performant, and aided by 16GB of RAM. The 2025 model offers fast 68W wired charging and 30W wireless charging. If you want better camera performance, the Samsung Galaxy Z Flip 7 costs around $1,000, but it’s missing the Razr Ultra’s charming design.
+Other deals to consider
+You can nab the Roborock Qrevo Curv 2 robot vacuum and mop from Best Buy, Target, or Roborock for $899.99 ($100 off). The mop is particularly effective at handling tough stains, as well as general vacuuming, and the mop cover can help keep your taller rugs from getting accidentally damp. The device is a little on the bulky side, and in our testing, it occasionally got stuck under shorter furniture, but it’s still one of our favorite combined robot vacuum and mops.
+Amazon has the Apple AirPods Max 2 marked down as low as $509 ($40 off), depending on your color preference. They’ve dipped to this price a few times, but if you’ve been considering the upgrade, it’s worth mentioning. These have the same drivers as the original version, but with upgraded processing and new features for Apple users, like live translation and spatial audio. They sound better than ever, and have incredible noise-canceling, but some of the issues linger from the old model, like hefty weight and lack of a proper carrying case included with purchase. Read our review.
+The Logitech G29 steering wheel is a great place to start if you’re feeling curious about sim racing at home, and you can snag it Best Buy or Amazon for $199.99 ($100 off). It’s a fairly basic wheel and pedal set, but it has force feedback for realistic rumbling, plus compatibility with PC, the PlayStation 4, and the PS5. It’s also compact, so you can stash it away when you aren’t using it.
 
-11-inch iPad Air (2026)
+2. **Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point**
+   - Source: TechCrunch | Date: 29.05.2026
+   - Score: 51.2%
+   - [Read More](https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/)
+   > The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.
 
-Where to Buy:
-
- $599 $519.99 at Amazon (128GB, Wi-Fi)
- $699 $609.99 at Amazon (256GB, Wi-Fi)
- $899 $839 at Amazon (512GB, Wi-Fi)
-
-No matter which size you choose, the new iPad Air is noticeably faster than the base iPad thanks to its M4 processor and a bump up to 12GB of RAM. While it falls short of the M5-powered iPad Pros in terms of raw performance and its super-thin design, the Air is sufficient for lighter creative work and some gaming. This model also boasts Apple Intelligence and support for the latest Apple Pencil Pro. 
-Apple also made a handful of smaller upgrades in the now-discounted iPad Air, like the N1 wireless networking chip that supports Wi-Fi 7 and Bluetooth 6. It’s also compatible with Thread, making it easier to control smart lights, locks, and other compatible smart home devices directly from your tablet. It was already a good value, and now it’s a better one at this price if you’re shopping for a new iPad.
-Read our M4-powered iPad Air review.
-
-### [AGENT] Agentic & Automation
-
-1. **Payroll startup Remote says it grew revenue 50% per employee without adding headcount**
-   - Source: TechCrunch | Date: 27.05.2026
-   - Score: 51.0%
-   - [Read More](https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/)
-   > Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.
-
-2. **AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened**
-   - Source: Wired | Date: 26.05.2026
-   - Score: 47.9%
-   - [Read More](https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/)
-   > The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.
+3. **New Moms Are Returning to Coding Jobs Radically Reshaped by AI**
+   - Source: Wired | Date: 28.05.2026
+   - Score: 46.2%
+   - [Read More](https://www.wired.com/story/women-parental-leave-return-office-ai/)
+   > New mothers working in software development are staring down an AI-pilled workplace they barely recognize.
 
 ---
 
-*Generated by Zeitungsjunge • 28. Mai 2026 08:38*
+*Generated by Zeitungsjunge • 29. Mai 2026 08:37*
