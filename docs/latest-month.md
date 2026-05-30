@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 29. Mai 2026 08:37
+**Generated:** 30. Mai 2026 07:35
 
 ## Report: Last 30 Days
 
@@ -10,49 +10,42 @@
 
 1. **Warp’s big bet on building open source with GPT-5.5**
    - Source: OpenAI | Date: 27.05.2026
-   - Score: 53.0%
+   - Score: 52.2%
    - [Read More](https://openai.com/index/warp)
    > Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.
 
-2. **LLMs believe false statements even after explicit warnings that they're false**
-   - Source: ArsTechnica | Date: 28.05.2026
-   - Score: 47.6%
-   - [Read More](https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/)
-   > Fine-tuning tests show "bias ... toward confidently representing the claims as true."
-
 ### [TECH] Technology
 
-1. **Motorola’s last-gen Razr Ultra is almost half off**
-   - Source: The Verge | Date: 28.05.2026
-   - Score: 52.5%
-   - [Read More](https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale)
-   > Motorola’s latest Razr Ultra proves that its flip foldable format has evolved to become more than just a nostalgic gimmick. I’d understand if you’re not interested in shelling out $1,499.99 for the 2026 model, but the similar 2025 Motorola Razr Ultra with 512GB of storage is a much more palatable $699.99 unlocked at Best Buy (was $1,299.99) in all colors, while just the green color is available at this price at Amazon. Those may not feel as luxurious in the hand as the 2026 model’s Alcantara finish, but it looks nearly identical and now costs hundreds less. The discount brings it within range of some of our favorite budget-friendly smartphones.
-Motorola Razr Ultra (2025)
-Motorola has pulled out all the stops for its latest high-end flip phone with top-notch performance, great battery life, and luxurious finish options.
+1. **Tech companies desperately want to film you doing chores**
+   - Source: The Verge | Date: 29.05.2026
+   - Score: 50.0%
+   - [Read More](https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data)
+   > This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. 
+But there's a catch. There's always a catch. 
+In exchange for the cleaning, Shift wants footage of its cleaners at work: scrubbing dishes, wiping counters, dusting tables, mopping floors. It wants everything. Video of all the boring domestic labor we'd happily outsource if we could - and that robotics companies are racing to teach machines to do so they can sell us something to do it for us.
+That's harder than it sounds. Unlike cha …
+Read the full story at The Verge.
 
-Where to Buy:
+2. **Startup offers free home cleaning—if it can record it all for robot training**
+   - Source: ArsTechnica | Date: 29.05.2026
+   - Score: 47.5%
+   - [Read More](https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/)
+   > The latest twist in paying humans to wear head cameras for robot training data.
 
- $1299.99 $699.99 at Amazon (512GB)
- $1299.99 $699.99 at Best Buy (512GB)
+### [AGENT] Agentic & Automation
 
-You aren’t making many compromises by opting for last year’s version instead of getting the new one. In fact, some of its internal hardware is the same, including its Snapdragon 8 Elite, which is still snappy and performant, and aided by 16GB of RAM. The 2025 model offers fast 68W wired charging and 30W wireless charging. If you want better camera performance, the Samsung Galaxy Z Flip 7 costs around $1,000, but it’s missing the Razr Ultra’s charming design.
-Other deals to consider
-You can nab the Roborock Qrevo Curv 2 robot vacuum and mop from Best Buy, Target, or Roborock for $899.99 ($100 off). The mop is particularly effective at handling tough stains, as well as general vacuuming, and the mop cover can help keep your taller rugs from getting accidentally damp. The device is a little on the bulky side, and in our testing, it occasionally got stuck under shorter furniture, but it’s still one of our favorite combined robot vacuum and mops.
-Amazon has the Apple AirPods Max 2 marked down as low as $509 ($40 off), depending on your color preference. They’ve dipped to this price a few times, but if you’ve been considering the upgrade, it’s worth mentioning. These have the same drivers as the original version, but with upgraded processing and new features for Apple users, like live translation and spatial audio. They sound better than ever, and have incredible noise-canceling, but some of the issues linger from the old model, like hefty weight and lack of a proper carrying case included with purchase. Read our review.
-The Logitech G29 steering wheel is a great place to start if you’re feeling curious about sim racing at home, and you can snag it Best Buy or Amazon for $199.99 ($100 off). It’s a fairly basic wheel and pedal set, but it has force feedback for realistic rumbling, plus compatibility with PC, the PlayStation 4, and the PS5. It’s also compact, so you can stash it away when you aren’t using it.
-
-2. **Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point**
+1. **What happens when companies become too AI-pilled?**
    - Source: TechCrunch | Date: 29.05.2026
-   - Score: 51.2%
-   - [Read More](https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/)
-   > The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.
+   - Score: 51.0%
+   - [Read More](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/)
+   > The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, […]
 
-3. **New Moms Are Returning to Coding Jobs Radically Reshaped by AI**
-   - Source: Wired | Date: 28.05.2026
-   - Score: 46.2%
-   - [Read More](https://www.wired.com/story/women-parental-leave-return-office-ai/)
-   > New mothers working in software development are staring down an AI-pilled workplace they barely recognize.
+2. **Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend**
+   - Source: Wired | Date: 29.05.2026
+   - Score: 46.6%
+   - [Read More](https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/)
+   > Google’s new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me.
 
 ---
 
-*Generated by Zeitungsjunge • 29. Mai 2026 08:37*
+*Generated by Zeitungsjunge • 30. Mai 2026 07:35*
