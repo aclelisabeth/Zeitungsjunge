@@ -1,51 +1,60 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 1. Juni 2026 10:11
+**Generated:** 2. Juni 2026 09:01
 
 ## Report: Last 30 Days
 
 **Total Articles:** 5
 
-### [AI] AI & Machine Learning
+### [ECOM] E-Commerce
 
-1. **Warp’s big bet on building open source with GPT-5.5**
-   - Source: OpenAI | Date: 27.05.2026
-   - Score: 50.5%
-   - [Read More](https://openai.com/index/warp)
-   > Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.
-
-### [TECH] Technology
-
-1. **Unastella, a South Korean rocket startup that launched from home, raises $24M**
-   - Source: TechCrunch | Date: 01.06.2026
-   - Score: 49.0%
-   - [Read More](https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/)
-   > The Seoul-based rocket startup is developing its own launch vehicles and engines.
-
-2. **AMD’s new pitch: our old tech is so good you should just keep using it**
+1. **Summer Game Fest 2026: All the news from gaming&#8217;s busiest week** [E-COMMERCE]
    - Source: The Verge | Date: 01.06.2026
-   - Score: 47.6%
-   - [Read More](https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d)
-   > AMD CEO Lisa Su holds a Ryzen chip. | Image: AMD	
+   - Score: 49.9%
+   - [Read More](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026)
+   > Get ready for some gaming news. It’s officially June, which means splashy new events from PlayStation, Xbox, and gaming hype man Geoff Keighley. But this season doesn’t just feature the big tentpole shows; there will be a bunch of smaller events, too, and they might feature some promising games as well.
+But this year’s events are taking place at a difficult time for the industry. The prices of consoles and gaming hardware have skyrocketed, with all of the three major console players announcing price hikes and PC handheld makers jacking up hardware costs as well.
+Game companies also have to work around the looming giant that is Grand Theft Auto VI, which is set to launch on November 19th. That time of year is usually a very busy one as studios launch their games to get ahead of the holiday shopping season, but we could see some of the industry’s biggest games give GTA VI a wide berth.
+We’ll be tracking the biggest news of the June gaming events season right here.
+Your guide to June’s biggest gaming events
+			
+Xbox and PlayStation have a lot to prove
+			
+There won’t be Project Helix news at the Xbox Games Showcase.
+			
+Microsoft delays Fable (again) to avoid GTA VI
+			
+Lots of games to think about.
 
-Computex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping prices (or no prices at all) as the entire industry navigates RAMageddon. 
-But for desktop PC gamers, AMD has a different pitch. It's relaunching three old components alongside a big new promise: You won't need to buy a new motherboard until 2030.
-Today, AMD is promising it will keep supporting its AM5 desktop motherboard socket with new Ryzen processors through 2029, which likely means you can keep upgrading to newer CPUs till the end of the decade without changing your board.
-Even if you're still on the older AM4 socket, you may hav …
-Read the full story at The Verge.
+### [PIM] PIM & Data Management
 
-3. **Websites Can Now Spy on You Through Your Hard Drive**
-   - Source: Wired | Date: 01.06.2026
-   - Score: 47.0%
-   - [Read More](https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/)
-   > Thanks to the newly detailed FROST technique, telltale SSD activity can be measured in the browser using simple JavaScript.
+1. **Allegedly trashing Airbnbs to test robots puts startup in legal trouble**
+   - Source: ArsTechnica | Date: 01.06.2026
+   - Score: 50.0%
+   - [Read More](https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/)
+   > Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.
 
-4. **Startup offers free home cleaning—if it can record it all for robot training**
-   - Source: ArsTechnica | Date: 29.05.2026
-   - Score: 45.7%
-   - [Read More](https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/)
-   > The latest twist in paying humans to wear head cameras for robot training data.
+### [AGENT] Agentic & Automation
+
+1. **Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year**
+   - Source: TechCrunch | Date: 01.06.2026
+   - Score: 51.1%
+   - [Read More](https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/)
+   > In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and completed a major acquisition.
+
+2. **Codex is becoming a productivity tool for everyone**
+   - Source: OpenAI | Date: 02.06.2026
+   - Score: 49.8%
+   - [Read More](https://openai.com/index/codex-for-knowledge-work)
+   > The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.
+
+3. **The Magic of MCP and Agentic Workflows: Practical AI in the World of Product**
+   - Source: PIMvendors | Date: 01.06.2026
+   - Score: 47.3%
+   - [Read More](https://pimvendors.com/knowledge-base/news/the-magic-of-mcp-and-agentic-workflows-practical-ai-in-the-world-of-product/)
+   > Agentic AI is not a future roadmap item for PIM teams — it is the current architectural decision that will determine which organizations remain visible in AI-mediated search and commerce,...
+The post The Magic of MCP and Agentic Workflows: Practical AI in the World of Product appeared first on PIMvendors.
 
 ---
 
-*Generated by Zeitungsjunge • 1. Juni 2026 10:11*
+*Generated by Zeitungsjunge • 2. Juni 2026 09:01*
