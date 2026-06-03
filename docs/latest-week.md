@@ -1,60 +1,86 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 2. Juni 2026 09:01
+**Generated:** 3. Juni 2026 09:21
 
 ## Report: Last 7 Days
 
 **Total Articles:** 5
 
-### [ECOM] E-Commerce
+### [AI] AI & Machine Learning
 
-1. **Summer Game Fest 2026: All the news from gaming&#8217;s busiest week** [E-COMMERCE]
-   - Source: The Verge | Date: 01.06.2026
-   - Score: 49.9%
-   - [Read More](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026)
-   > Get ready for some gaming news. It’s officially June, which means splashy new events from PlayStation, Xbox, and gaming hype man Geoff Keighley. But this season doesn’t just feature the big tentpole shows; there will be a bunch of smaller events, too, and they might feature some promising games as well.
-But this year’s events are taking place at a difficult time for the industry. The prices of consoles and gaming hardware have skyrocketed, with all of the three major console players announcing price hikes and PC handheld makers jacking up hardware costs as well.
-Game companies also have to work around the looming giant that is Grand Theft Auto VI, which is set to launch on November 19th. That time of year is usually a very busy one as studios launch their games to get ahead of the holiday shopping season, but we could see some of the industry’s biggest games give GTA VI a wide berth.
-We’ll be tracking the biggest news of the June gaming events season right here.
-Your guide to June’s biggest gaming events
-			
-Xbox and PlayStation have a lot to prove
-			
-There won’t be Project Helix news at the Xbox Games Showcase.
-			
-Microsoft delays Fable (again) to avoid GTA VI
-			
-Lots of games to think about.
+1. **PlayStation State of Play June 2026: All the news and trailers**
+   - Source: The Verge | Date: 02.06.2026
+   - Score: 47.6%
+   - [Read More](https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers)
+   > While the majority of Summer Game Fest takes place over the weekend, Sony is getting a jump on things with its next State of Play showcase, which airs on June 2nd at 5PM ET. It’s coming at a pivotal time for the PlayStation brand: The PS5 keeps getting more expensive and Sony’s big bet on live-service games has largely fallen flat. A good showing at SGF won’t fix everything, but it could help show that PlayStation is on the right path moving forward.
+For its part, Sony says its latest State of Play will feature “more than 60 minutes of updates, announcements, and gameplay reveals from top studios around the world.” The only confirmed part of the event’s lineup is Wolverine, from Spider-Man developer Insomniac, which is slated to launch in September. But given the length of the stream, there’ll be plenty more detailed. Maybe we’ll see the just-announced third expansion for The Witcher 3, or the long-awaited final installment of the Final Fantasy VII remake trilogy, or some more of Intergalactic, the next big project from The Last of Us developer Naughty Dog. It’s also likely the event will provide some insight into the uncertain future of Marathon.
+Whatever Sony shows, you can watch along on YouTube or Twitch, or follow along with the latest developments right here.
+And for everything announced at the rest of Summer Game Fest, be sure to check out our event hub.
 
-### [PIM] PIM & Data Management
 
-1. **Allegedly trashing Airbnbs to test robots puts startup in legal trouble**
-   - Source: ArsTechnica | Date: 01.06.2026
-   - Score: 50.0%
-   - [Read More](https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/)
-   > Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.
+					
+God of War Laufey is coming to the PS5
+			
+Remedy’s Control sequel launches in September
+			
+Until Dawn gets a little sun.
+			
+Marathon season 2 kicks off.
+			
+Ace Combat 8 release date: October 2nd.
+			
+A different take on Silent Hill.
+			
+Onimusha: Way of the Sword launches in September — and a demo is launching today.
+			
+Arrakis on console.
+			
+Dino crisis.
+			
+The Tomb Raider reboot is getting a small delay.
+			
+Yokai-slaying fun.
+			
+Dave the Diver is getting a prequel game.
+			
+Rayman reimagined, revealed.
+			
+A little more Marvel.
+			
+Here’s seven bloody minutes of Wolverine on the PS5
+			
+PlayStation’s next big State of Play kicks off soon.
+			
+Summer Game Fest is getting off to an early start.
+
+### [TECH] Technology
+
+1. **Google rolls out fake call detection to protect against AI deepfake impersonation scams**
+   - Source: TechCrunch | Date: 02.06.2026
+   - Score: 51.0%
+   - [Read More](https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/)
+   > As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.
+
+2. **Microsoft plans Linux tools and an RTX Spark desktop for Windows developers**
+   - Source: ArsTechnica | Date: 02.06.2026
+   - Score: 47.6%
+   - [Read More](https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/)
+   > One hardware announcement and several software highlights from Microsoft Build.
+
+3. **Redditors Are Using AI to Beat Obscene World Cup Ticket Prices**
+   - Source: Wired | Date: 03.06.2026
+   - Score: 47.0%
+   - [Read More](https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/)
+   > Soccer fans on r/WorldCup2026Tickets are using Claude to build DIY ticketing software, exchanging on back channels, and leaving scalpers scrambling.
 
 ### [AGENT] Agentic & Automation
 
-1. **Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year**
-   - Source: TechCrunch | Date: 01.06.2026
-   - Score: 51.1%
-   - [Read More](https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/)
-   > In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and completed a major acquisition.
-
-2. **Codex is becoming a productivity tool for everyone**
+1. **Codex is becoming a productivity tool for everyone**
    - Source: OpenAI | Date: 02.06.2026
-   - Score: 49.8%
+   - Score: 48.9%
    - [Read More](https://openai.com/index/codex-for-knowledge-work)
    > The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.
 
-3. **The Magic of MCP and Agentic Workflows: Practical AI in the World of Product**
-   - Source: PIMvendors | Date: 01.06.2026
-   - Score: 47.3%
-   - [Read More](https://pimvendors.com/knowledge-base/news/the-magic-of-mcp-and-agentic-workflows-practical-ai-in-the-world-of-product/)
-   > Agentic AI is not a future roadmap item for PIM teams — it is the current architectural decision that will determine which organizations remain visible in AI-mediated search and commerce,...
-The post The Magic of MCP and Agentic Workflows: Practical AI in the World of Product appeared first on PIMvendors.
-
 ---
 
-*Generated by Zeitungsjunge • 2. Juni 2026 09:01*
+*Generated by Zeitungsjunge • 3. Juni 2026 09:21*
