@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 6. Juni 2026 07:40
+**Generated:** 7. Juni 2026 08:18
 
 ## Report: All Articles
 
@@ -10,54 +10,40 @@
 
 1. **How Endava is redesigning software delivery around AI agents**
    - Source: OpenAI | Date: 04.06.2026
-   - Score: 53.5%
+   - Score: 52.6%
    - [Read More](https://openai.com/index/endava-frontiers)
    > Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.
 
 ### [TECH] Technology
 
-1. **Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18**
-   - Source: TechCrunch | Date: 04.06.2026
-   - Score: 52.8%
-   - [Read More](https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/)
-   > On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.
+1. **Startup Battlefield 200 applications officially close in 3 days**
+   - Source: TechCrunch | Date: 05.06.2026
+   - Score: 50.2%
+   - [Read More](https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/)
+   > Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.
 
-2. **So Long, ‘Ferrynoia.’ Green Maritime Technology Is Here**
+2. **Benn Jordan longs for the days of tech that didn’t spy on you**
+   - Source: The Verge | Date: 06.06.2026
+   - Score: 49.9%
+   - [Read More](https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire)
+   > Benn refuses to be pigeon holed. | Image: Benn Jordan	
+
+Benn Jordan may have initially gained notoriety for his music as Flashbulb and later, reviewing synths and effects pedals on YouTube under Benn and Gear. But about five years ago, Benn decided to take his YouTube channel in a different direction. He didn't stop covering music gear overnight, but as time progressed, his channel became more focused on science and technology investigations. He even turned the entire enterprise into a nonprofit.
+While there will still be the occasional video focused on music or audio - say, poisoning AI music systems or storing data in bird song - lately Benn has been largely focused on the surveillance state.  …
+Read the full story at The Verge.
+
+3. **So Long, ‘Ferrynoia.’ Green Maritime Technology Is Here**
    - Source: Wired | Date: 05.06.2026
-   - Score: 46.5%
+   - Score: 45.6%
    - [Read More](https://www.wired.com/story/so-long-ferrynoia-green-maritime-technology-is-here/)
    > From San Francisco to Stockholm, a new generation of electric ferries is entering passenger service, marking a tipping point for green maritime technology.
 
-3. **Small modular nuclear reactor reaches criticality in first test**
+4. **Small modular nuclear reactor reaches criticality in first test**
    - Source: ArsTechnica | Date: 05.06.2026
-   - Score: 45.1%
+   - Score: 44.2%
    - [Read More](https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/)
    > The reactor, from a startup called Antares, isn't ready to generate power yet.
 
-### [ECOM] E-Commerce
-
-1. **The Sonos Era 100 speaker is down to its lowest price in months** [E-COMMERCE]
-   - Source: The Verge | Date: 05.06.2026
-   - Score: 50.0%
-   - [Read More](https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale)
-   > Whether you’re considering starting a Sonos speaker setup, or adding to an existing group, the Sonos Era 100 is worth picking up. The compact, capable smart speaker is currently marked down to $189 ($30 off) at a variety of retailers, including Amazon, Best Buy, and directly from Sonos. If you want an even lower price, Sonos is selling refurbished Era 100 speakers for just $134. They come with fresh accessories and packaging, and sport the same one-year warranty as its new speakers.
-Sonos Era 100
-The Era 100 is Sonos’s most affordable in-home smart speaker. Offering pleasant sound at a relatively compact size, it improves upon the prior Sonos One with stereo audio, line-in support, and Bluetooth support. Read our review.
-
-Where to Buy:
-
- $219 $189 at Amazon
- $219 $189 at Sonos
- $219 $189 at Best Buy
-
-The wireless speaker has a rich, detailed sound profile, with room-filling audio despite its small size. You might be able to improve the sound further with the Sonos Trueplay feature, which uses either your phone or the speaker’s built-in microphone to automatically tune it to your space. The Era 100 can easily connect with other speakers in the Sonos ecosystem for multi-room play, even with different Sonos models.
-The Era 100 has expanded functionality from previous entry-level Sonos speakers, adding in Bluetooth and USB-C wired audio, as well as improved onboard controls. While the speaker features built-in voice assistant support for both Sonos and Alexa, you can flip a switch on its back to cut power to the microphone.
-Read our full Sonos Era 100 review.
-Other deals to consider
-The Google Nest Doorbell is one of our favorite video doorbells, and the wired version is currently marked down at Amazon to just $140 ($40 off). This doorbell has fairly sharp 960 x 1280 video quality, notifications for people and packages (a Google Home Premium subscription can provide more detailed notifications, including familiar face recognition), and full integration with many other Google products. The wired model has sharper video and faster response times than the battery-powered version. Read our review.
-Humble has a 2K Sports bundle full of games redeemable on Steam.. If you spend at least $10, you’ll get NBA 2K26 plus a heap of the game’s virtual currency. Pledging $25 or more will also get you PGA Tour 2K25, TopSpin 2K25, and Olli Olli World Rad Edition. Proceeds go to Covenant House.
-The Technics EAH-AZ80 wireless earbuds have a natural warmth and expansive soundstage that rivals some of our other favorite picks. They also sport excellent active noise-canceling and three-way multipoint pairing, but their high launch price didn’t do them any favors. However, at the discounted price of $147.99 ($52 off) at Amazon, they’re a much more appealing pick. Read our review.
-
 ---
 
-*Generated by Zeitungsjunge • 6. Juni 2026 07:40*
+*Generated by Zeitungsjunge • 7. Juni 2026 08:18*
