@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 8. Juni 2026 09:17
+**Generated:** 9. Juni 2026 08:26
 
 ## Report: Last 30 Days
 
@@ -10,38 +10,73 @@
 
 1. **How Endava is redesigning software delivery around AI agents**
    - Source: OpenAI | Date: 04.06.2026
-   - Score: 51.8%
+   - Score: 51.0%
    - [Read More](https://openai.com/index/endava-frontiers)
    > Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.
 
-2. **School shooting survivor sues AI gun detection firm after system failed to spot weapon**
-   - Source: ArsTechnica | Date: 07.06.2026
-   - Score: 44.7%
-   - [Read More](https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/)
-   > How accurate does an AI system need to be?
-
 ### [TECH] Technology
 
-1. **Startup Battlefield 200 applications officially close in 3 days**
-   - Source: TechCrunch | Date: 05.06.2026
-   - Score: 49.4%
-   - [Read More](https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/)
-   > Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.
+1. **The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech**
+   - Source: Wired | Date: 08.06.2026
+   - Score: 49.0%
+   - [Read More](https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/)
+   > The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.
 
-2. **NASA will wear high-tech Prada long johns to the Moon**
-   - Source: The Verge | Date: 07.06.2026
-   - Score: 47.6%
-   - [Read More](https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis)
-   > We've seen Axiom Space and Prada's collaboration on the Axiom Extravehicular Mobility Unit (AxEMU) spacesuit. Now the company has revealed the Liquid Cooling and Ventilation Garment (LCVG) that astronauts will wear underneath it when Artemis IV returns humans to the Moon in 2028.
-The LCVG is the all-important base layer that will keep the crew cool and comfortable while inside the AxEMU and on spacewalks. Cold water is circulated through tubes embedded in the suit to whisk heat away from astronauts' bodies. And, should the primary system fail, there is a backup, unlike older cooling suits. The LCVG also houses the ventilation system that su …
+2. **Apple plays catch-up at WWDC**
+   - Source: TechCrunch | Date: 08.06.2026
+   - Score: 48.6%
+   - [Read More](https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/)
+   > Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.
+
+### [PIM] PIM & Data Management
+
+1. **Instagram is finally letting everyone reorganize their profile grid**
+   - Source: The Verge | Date: 08.06.2026
+   - Score: 47.7%
+   - [Read More](https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid)
+   > Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups, but as of June 8th, it's rolling out widely via the Android and iPhone mobile apps. 
+Until now, the posts on your Instagram profile have been locked in chronological order beyond the ability to pin three posts at the top, but once the feature is live on your account, you can long-press and drag posts freely, no matter how old they are. Any posts that are pinned will remain at the top.
+
+
+  
+ 
+  
+ 
+
+
+ 
+
+ View this post on Instagram
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+
+
+Instagram boss Adam Mosseri a …
 Read the full story at The Verge.
 
-3. **All the Ways Europe Is Ditching American Technology**
-   - Source: Wired | Date: 08.06.2026
-   - Score: 46.9%
-   - [Read More](https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/)
-   > A WIRED timeline shows how dozens of governments, companies, and other organizations across Europe are moving, or planning to shift, away from US Big Tech.
+### [AGENT] Agentic & Automation
+
+1. **For the 2nd time in weeks, Microsoft packages laced with credential stealer**
+   - Source: ArsTechnica | Date: 08.06.2026
+   - Score: 47.5%
+   - [Read More](https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/)
+   > 73 packages run self-replicating stealer as soon as they're opened by an AI agent.
 
 ---
 
-*Generated by Zeitungsjunge • 8. Juni 2026 09:17*
+*Generated by Zeitungsjunge • 9. Juni 2026 08:26*
