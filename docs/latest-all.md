@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 9. Juni 2026 08:26
+**Generated:** 10. Juni 2026 08:43
 
 ## Report: All Articles
 
@@ -10,73 +10,60 @@
 
 1. **How Endava is redesigning software delivery around AI agents**
    - Source: OpenAI | Date: 04.06.2026
-   - Score: 51.0%
+   - Score: 50.1%
    - [Read More](https://openai.com/index/endava-frontiers)
    > Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.
 
 ### [TECH] Technology
 
-1. **The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech**
+1. **Logitech’s new Mobi Fold squeezes a lot of functionality into a tiny folding mouse**
+   - Source: The Verge | Date: 10.06.2026
+   - Score: 50.4%
+   - [Read More](https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on)
+   > The Mobi Fold feels like a full-sized mouse when opened and includes a touch panel for scrolling.	
+
+Logitech finally announced its new ultraportable travel mouse following leaked marketing images that spoiled the surprise last month. As the name implies, the Mobi Fold is a compact mouse that can  fold in half using a hinge that can pivot about 130 degrees. At $79.99 in graphite, off-white, lilac, and sand color options, the Mobi Fold isn’t Logitech’s lightest or cheapest mouse, but it’s definitely one of its smallest and a well-featured alternative to your laptop’s trackpad if you can get used to some unconventional ergonomics.
+The arch-shaped Mobi Fold looks similar to other folding devices, like the Surface Arc mouse. But while Microsoft’s design folds flat, making it thinner and easier to slip into a pocket or bag, the Mobi Fold is more like a clamshell cellphone. And even though it doesn’t snap shut with a satisfying clunk, it feels durable. Logitech says the hinge was “tested to withstand 15 years of daily use.”
+
+
+
+
+That hinge, along with more than half the mouse, is wrapped in a silicone skin that improves grip while semi-protecting it from drops. Where it covers the hinge you’ll find a pleated design that expands and stretches when the mouse is folded in half, so there’s no risk of pinching. 
+At 79 grams the Mobi Fold is a few grams heavier than Logitech’s Pebble Mouse 2 and the bare-bones M196 that I’ve been recently traveling with. When folded, the mouse is a little over three-quarters of an inch tall and about 2.6×2.5 inches in size, making it feel seriously compact. It reminds me of some wireless earbud cases, but a bit thinner.
+
+
+
+
+Logitech claims the Mobi Fold’s rechargeable battery will power the mouse for up to one month on a full charge, while a 1-minute quick charge will keep it going for up to 22 hours. It’s getting a global release. which means we can probably thank recent EU regulations for a removable cover on the underside allowing that rechargeable battery to be replaced in the future.
+The Mobi Fold isn’t designed to entirely replace a full-featured desktop mouse, but it offers enough functionality and customizability to be a solid trackpad alternative. There’s a 4K DPI optical sensor on the bottom and a pair of left and right mouse buttons on top with a multifunction touch panel between them. That panel’s behavior can be changed using the optional Logi Options Plus software, so swiping your finger up and down either causes websites and documents to zip by or a more leisurely line by line scroll. The top and bottom of the touch panel also function as two additional clicky buttons. You can customize their functionality using Logitech’s app, but by default they function as forward and back buttons while browsing.
+A single button on the underside of the Mobi Fold is used to connect and cycle the mouse between up to three different devices, and I had no difficulty connecting it to a couple of laptops and an iPad. Instead of a dedicated power button, you turn the mouse off by folding it in half. I found that while scrolling with the touch panel remains active when you’ve picked up the mouse to fold it, all of the buttons are disabled. That should prevent accidental presses and clicks because you’ll absolutely be pressing them as you fold it.
+If portability is your ultimate priority, the Mobi Fold is an excellent way to keep a mouse on hand. You’ll just want to take some extra time to get comfortable using it.
+
+
+
+
+While Microsoft’s aptly named Arc mouse features a gracefully curved arch that contours to your hand, the Mobi Fold feels more like you’re resting your hands on two sides of a piece of cardboard that’s been folded in half. Its buttons and touch panel are also completely flat, and I’ve come to realize I’m a mouse user who prefers to frequently lift and reposition a mouse instead of moving my entire arm to push it around. The Mobi Fold’s thin design made it hard to do that as I struggled to find a sturdy place to grip it on either side.
+For $80, the Mobi Fold delivers an impressively portable mouse that also offers more than just basic functionality. I will always choose a physical wheel over a touch pad for scrolling, but I’d happily endure finger swipes given how small this mouse folds up. While I’d still opt for my laptop’s touchpad, the Mobi Fold is an excellent accessory for taking advantage of the iPad’s recent multitasking upgrades.
+Photography by Andrew Liszewski / The Verge
+
+2. **How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund**
+   - Source: TechCrunch | Date: 09.06.2026
+   - Score: 48.7%
+   - [Read More](https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/)
+   > Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.
+
+3. **The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech**
    - Source: Wired | Date: 08.06.2026
-   - Score: 49.0%
+   - Score: 48.1%
    - [Read More](https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/)
    > The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.
 
-2. **Apple plays catch-up at WWDC**
-   - Source: TechCrunch | Date: 08.06.2026
-   - Score: 48.6%
-   - [Read More](https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/)
-   > Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.
-
-### [PIM] PIM & Data Management
-
-1. **Instagram is finally letting everyone reorganize their profile grid**
-   - Source: The Verge | Date: 08.06.2026
-   - Score: 47.7%
-   - [Read More](https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid)
-   > Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups, but as of June 8th, it's rolling out widely via the Android and iPhone mobile apps. 
-Until now, the posts on your Instagram profile have been locked in chronological order beyond the ability to pin three posts at the top, but once the feature is live on your account, you can long-press and drag posts freely, no matter how old they are. Any posts that are pinned will remain at the top.
-
-
-  
- 
-  
- 
-
-
- 
-
- View this post on Instagram
-
- 
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
-
-
-Instagram boss Adam Mosseri a …
-Read the full story at The Verge.
-
-### [AGENT] Agentic & Automation
-
-1. **For the 2nd time in weeks, Microsoft packages laced with credential stealer**
-   - Source: ArsTechnica | Date: 08.06.2026
-   - Score: 47.5%
-   - [Read More](https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/)
-   > 73 packages run self-replicating stealer as soon as they're opened by an AI agent.
+4. **Starlink charges $10 monthly hardware fee in move away from one-time purchases**
+   - Source: ArsTechnica | Date: 09.06.2026
+   - Score: 47.6%
+   - [Read More](https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/)
+   > Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10.
 
 ---
 
-*Generated by Zeitungsjunge • 9. Juni 2026 08:26*
+*Generated by Zeitungsjunge • 10. Juni 2026 08:43*
