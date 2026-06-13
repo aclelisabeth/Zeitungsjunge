@@ -1,108 +1,47 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 12. Juni 2026 08:53
+**Generated:** 13. Juni 2026 08:16
 
 ## Report: All Articles
 
 **Total Articles:** 5
 
-### [AI] AI & Machine Learning
-
-1. **Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet**
-   - Source: Wired | Date: 11.06.2026
-   - Score: 46.6%
-   - [Read More](https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/)
-   > Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.
-
 ### [TECH] Technology
 
-1. **Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world**
-   - Source: TechCrunch | Date: 12.06.2026
-   - Score: 48.7%
-   - [Read More](https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/)
-   > The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.
+1. **Here's what Jeff Bezos' new startup Prometheus will do**
+   - Source: ArsTechnica | Date: 12.06.2026
+   - Score: 47.5%
+   - [Read More](https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/)
+   > It isn't the only startup tackling physical AI, but it's one of the best-funded.
 
-### [ECOM] E-Commerce
-
-1. **Here are the price-matching policies for Best Buy, GameStop, and others** [E-COMMERCE]
-   - Source: The Verge | Date: 11.06.2026
-   - Score: 57.5%
-   - [Read More](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
-   > Nothing is more frustrating than buying a new pair of headphones, an OLED TV, or a laptop just to find out that you could have gotten it for cheaper somewhere else just a few days or weeks later. That’s why, in order to keep customers happy and prevent them from shopping elsewhere, some retailers offer price-matching policies in which they promise to match a lower price found elsewhere. That kind of information comes in handy no matter the time of year, but it’s especially helpful during shopping events like Amazon’s Prime Day 2026 sale, which kicks off June 23rd and lasts through June 26th.
-What follows are the price-matching policies for a number of major retailers. There are a few things to note here. First, every retailer has its own set of rules and restrictions. We’ve summarized some of them here, but we recommend visiting the provided links and reading the policies carefully. Second, most retailers that serve as a marketplace for other sellers, specifically wholesale retailers like Costco and Sam’s Club, don’t offer any protections, and many traditional stores won’t match their prices.
-Lastly, there are always exceptions to the rules. If you’re looking for a deal on a product and you know it’s available for a lower price elsewhere (or it was previously offered at the same retailer), it never hurts to call or chat with a customer service rep and ask if they’ll match the price. You have nothing to lose but time, and there’s always a chance they may find a loophole or make a special exception.
-Amazon
-Amazon doesn’t offer price matching. Full stop. You can contact customer support, but even if you’re an Amazon Prime customer, it’s not likely that they’ll help you out.
-That being said, Amazon does offer a liberal return policy, meaning you can often return an item you purchased from Amazon if it’s available for less elsewhere (or at Amazon). Then, you can just repurchase the product wherever it’s cheapest. 
-Target
-Target used to let shoppers price match identical items sold by select retailers, including Amazon, but no longer does so. Under its current policy, shoppers can only request a price adjustment if they find an identical qualifying item for less than they paid on Target.com, at their local Target store, or through an eligible Target Circle deal. Target will also price match Target Plus Partner (the retailer’s name for third-party sellers) items if the same Target Plus Partner on Target.com has it for less, or with a Target Circle deal. Price matches can be requested at the time of purchase or within 14 days after purchase.
-To request a price match, you’ll need to show the online price or digital version of the ad and provide your original receipt or packing slip; screenshots and photos aren’t accepted. Alternatively, you can call for online purchases at 1-800-591-3869 or chat online via contactus.target.com.
-However, that Target’s policy excludes in-store price matches from other Target stores. It also can’t be combined with Target Circle Bonuses, Target coupons, Registry coupons, or gift card promotions, and doesn’t apply to clearance, closeout, liquidation, damaged, used, open-box, refurbished, pre-owned, or rent-to-own items. In addition, Target won’t match prices between items sold directly by Target and those sold by third-party Target Plus Partner sellers.
-Best Buy
-Best Buy’s Price Match Guarantee states that a product could be eligible for a price reduction if it’s new, identical to the competitor’s product, immediately available at a qualifying competitor’s store or on its site, and not shown on Best Buy’s exclusion list — that includes “items for sale the Thursday before Thanksgiving Day through the Monday after Thanksgiving.” Items must have the identical model number and color. However, disclaimer here: Best Buy only matches prices that are available to all customers and does not match membership-exclusive, loyalty-program, or paid-member discounts, thus it excludes events like Amazon Prime Day.
-To get the difference, you have to contact Best Buy via its on-site chat and provide the ad or website with a lower price point. Alternatively, you can call 1-888-237-8289 or visit any Best Buy or Pacific Sales store. Approved retailers include Amazon, B&H Photo, Apple, Costco, Sam’s Club, Target, and Walmart. Items must be sold directly through the store, too, not a third-party seller.
-Best Buy will also, upon request, match an in-store or online price that was lowered during the return and exchange period, which typically lasts up to 15 days. Keep in mind that the return window on most products is 60 days for both Best Buy Plus and My Best Buy Total members.
-Walmart
-Walmart doesn’t price-match competitors, though Walmart’s online store offers price matching on items purchased from Walmart stores if the item is in stock at Walmart.com.
-However, the policy doesn’t apply to residents of Alaska, Hawaii, or Puerto Rico. Additionally, it doesn’t apply to special event prices, like those seen during Black Friday. Walmart also does not retroactively price-match items purchased on Walmart.com that have dropped in price after the time of purchase. The retailer doesn’t price-match items purchased from Walmart Marketplace retailers or third-party sellers, either, and Walmart says the ultimate decision for a price match comes down to the store manager on duty when you make the request.
-Apple
-While we’ve seen claims that Apple will price-match up to 10 percent on products bought at certain major retailers, there is no official policy on the company’s website.
-If Apple reduces the price of an Apple-branded product within 14 days of when you receive it, you can visit an Apple Store or contact Apple Support at 1-800-MY-APPLE to request a refund or credit for the difference. However, this doesn’t apply to special promotional pricing, such as Black Friday or Cyber Monday deals.
-B&H Photo
-B&H says that it might be able to honor a current lower price or match the price of a competitor, but it does so on a case-by-case basis. You have to contact its customer service team using the on-site chat, email, or by calling 1-800-606-6969 / 1-212-444-6615. If approved, B&H Photo will price match one identical item per customer.
-Costco
-Costco does not price match with competitors. However, according to its website, it will issue a credit for the difference between the price a member paid and the promotional price if you bought the item online at Costco and requested the credit up to 30 days before the price change. If you bought the product from a Costco warehouse location, visit the membership counter at the store where you made the purchase. Costco doesn’t price-match items purchased at Costco warehouses with items purchased on Costco.com.
-Dell
-Dell will price-match identical products from Dell, Amazon, Best Buy, Walmart, Target, HP, Apple, Lenovo, and several other retailers. Dell will not match prices available at Costco or Sam’s Club. You can call 1-877-275-3355 or chat online to run a price check, but you’ll need to provide a link to the competitor’s product. Dell outlines the specs you’ll need to compare to determine whether an item is eligible for a price match before you contact them, and before you make a purchase.
-You can also contact the company about a price difference within 30 days of purchase. However, Dell doesn’t match membership-only pricing or the exclusive discounts you’ll find during Amazon Prime Day. Items that are discounted as a Deal of the Week or Daily Deals through Dell’s Member Purchase Program are also ineligible.
-eBay
-eBay doesn’t offer price matching on purchases made during the week of Thanksgiving through Cyber Monday, but it does provide a generous price guarantee on select items outside that window. If you buy an item marked with the “Best Price Guarantee” badge — or one featured in eBay Deals — and find a lower price from an approved competitor within 48 hours, eBay will give you 110 percent of the price difference in the form of a coupon. That means you’ll receive a coupon worth the full difference plus an extra 10 percent, which you can use toward your next eBay purchase. Approved competitors include Amazon, Best Buy, Target, and Walmart.
-The products must be new, unopened, and identical to the competitor’s item. You have to contact eBay Customer Service, and if they verify your claims are legitimate, you will receive the coupon and be able to use it toward your next eBay purchase. Only one item can be price-matched per day, however.
-GameStop
-GameStop does not mention an official price-matching policy on its website. In 2022, however, GameStop tweeted that the store will price-match items sold and shipped by Amazon as long as they’re available online or in-store. Although GameStop only mentioned Amazon in the tweet, others have reported that the store will price-match items purchased from Target and elsewhere.
-Google
-If a request is made within the standard return period, Google will match online pricing from select retailers — specifically Amazon, Best Buy, Walmart, B&H Photo, Signifi, and Target. It doesn’t, however, match preorder pricing from other retailers or carrier deals. The product must also be in stock and identical, right down to the color and configuration. Plus, you need to provide a public link to the promo page or product listing to verify the lower price, and that item must be currently in stock. Items sold by third-party sellers are ineligible for a price match.
-Amazon Prime deals are eligible for price matching, but other members-only discounts aren’t. Other exclusions apply, too, including wholesale and educational pricing; mail-in offers and coupons; product bundles; clearance, open-box, refurbished, and pre-owned items; and products sold by third-party sellers on a competitor’s website. Google will only provide a price match on smartphones and other products with data plans if they’re unlocked devices.
-You may also receive the difference if the product you purchased from the Google Store drops in price within the standard return period, though you’ll need to contact Google directly to get the price match or correction.
-The Home Depot
-The Home Depot will match the price of identical, in-stock products from other retailers, except for membership-based wholesalers. The retailer must be able to ship the item to your location, so prices from regional retailers are ineligible. The price-match policy does not apply to special events like Black Friday, clearance prices, used and refurbished items, or rebate offers. You may request a price match within 30 days of your purchase. 
-You must bring the ad or listing to the register in-store. (You can also request price matches for online purchases that are shipped to the customer.) For online orders, you’ll need to provide the exact SKU for the item on both the competitor’s and The Home Depot’s sites. To request a price match over the phone, you can call 1-800-430-3376. Additionally, The Home Depot will only honor requests submitted by the original buyer.
-HP
-According to HP’s website, the company will match the current pretax price for new comparable PCs and identical HP printer, display, and accessory model numbers from nationally recognized online retailers, such as Dell, Lenovo, Amazon, Staples, Newegg, and Best Buy. The specs have to be the same to get a price match on PCs, but the product model number does not need to be identical.
-You must ask for the match at the time of purchase by calling 1-800-888-0229 or via chat. You can’t request a price match via email, and the policy doesn’t apply to items purchased during promotional periods. It also doesn’t apply to membership stores like Costco and Sam’s Club, items purchased through a third-party vendor on an approved site, or items purchased using financing.
-HP also offers price protection on HP-branded products. If a price drops during your 30-day return window, you can request an adjustment by emailing myhpsales@hp.com. This doesn’t apply to products purchased during certain seasonal sales events, including Fourth of July promotions and deals offered during Thanksgiving Week and Cyber Week.
-Lenovo
-Lenovo matches pricing on comparable PCs from Lenovo, HP, or Dell with the same key specs as long as they’re sold through a list of recognized retailers. That list includes bigger stores such as Best Buy, Walmart, Amazon, Newegg, and B&H Photo, as well as direct competitors such as Dell and HP. The comparable PC must also be in stock and readily available from both Lenovo and the competing retailer, and you have to contact a Lenovo sales rep with specific details about the specs and availability of the product you’re inquiring about in order to facilitate the match. 
-That said, you can’t use coupons or special discounts when requesting a price match, and the policy doesn’t apply to membership stores like Costco. The policy also doesn’t apply to “Marketplace” items where third parties fulfill the order, so double-check that you bought the product directly from the retailer. Build-your-own models are also ineligible for a price match. Lenovo’s separate Price Guarantee program, meanwhile, is limited to five eligible Lenovo products per customer per year.
-Lenovo also offers a price guarantee refund for laptops and personal desktop computers bought from Lenovo.com within 30 days of purchase. To receive a refund, you must contact Customer Care and provide proof of the lower price for the identical product offered on Lenovo.com. This policy doesn’t apply to doorbuster or clearance products, however.
-Lowe’s
-Lowe’s will match the price of identical, in-stock products when you present an ad, product listing, or photo from a qualifying online or local retailer, including Amazon, Best Buy, Target, and Walmart. The product must be purchased directly from the retailer and not a third-party seller, however, and it doesn’t apply to special sales events like Black Friday and other holiday promotions.
-Additionally, Lowe’s doesn’t match prices from one Lowe’s store to another, nor does it match any rebate discounts or those available only to a select group of customers (such as loyalty clubs). Clearance, seasonal, buy one get one free, and custom made items are also ineligible for a price match. To request a price match, you can head to the store, call 1-877-465-6937, or chat online.
-Microsoft
-Microsoft will refund you the difference if it drops the price of an in-stock physical product purchased online from the Microsoft Store within 60 days of your purchase being delivered.  The same policy also applies if you find the identical product on sale at a lower price at a qualifying retailer such as Amazon or Best Buy, though it doesn’t extend to the Surface Hub, HoloLens, Windows DevKits, or digital products.
-Furthermore, some eligible products are subject to specific retailer exclusions. For example, price matches for Surface products at other retailers are limited to Amazon and Best Buy, while Xbox products are limited to the two aforementioned retailers as well as Target, GameStop, and Walmart. The price match policy excludes products from third-party sellers, clearance items, bundles, rebates, and prices only available after guests log in.
-You’ll need to contact Microsoft’s Sales and Support team at 1-800-642-7676 within 60 days of delivery to request a refund. If you purchase an item from a Microsoft Experience Center, you’ll need to return to that location with your receipt. In both instances, Microsoft will credit the difference between the price you paid and the current lower price to your original payment method, which typically takes between three and five days to process.
-Newegg
-Newegg no longer matches prices from competing retailers. The company only price matches eligible items sold and shipped by Newegg (not third-party sellers), and the product must be identical. The lower price must also appear on Newegg.com within seven calendar days of your purchase. If approved, Newegg will issue the difference as credit that can be used on the site or app for up to 365 days. 
-The match won’t apply to rebates, coupons, financing offers, bundles, clearance items, open-box and refurbished products. The policy also doesn’t apply to prices found at third-party marketplace sellers, or products on sale during major sales events like Black Friday and Cyber Monday.
-Sam’s Club
-You can request a price match against other Sam’s Club stores, but not competitors. Note that this doesn’t apply to items marked down or on clearance.
-Update, June 11th: Updated to reflect current retailer policies.
-
-2. **Valve kills its retail gift card program due to scammers** [E-COMMERCE]
-   - Source: ArsTechnica | Date: 10.06.2026
-   - Score: 46.6%
-   - [Read More](https://arstechnica.com/gaming/2026/06/valve-kills-its-retail-gift-card-program-due-to-scammers/)
-   > Move also cuts off a massive market of legit users who buy cards with physical cash.
+2. **Elon Musk is the world&#8217;s first trillionaire**
+   - Source: The Verge | Date: 12.06.2026
+   - Score: 47.4%
+   - [Read More](https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo)
+   > Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and have remained well above the $138 benchmark that gives Musk a 13-figure net worth.
+SpaceX combined Musk's rocket, AI, and social media platforms earlier this year, and said in its S-1 that its goal is to "build the systems and technologies necessary to make life multiplanetary, to understand the true nature of the universe, and to extend the light  …
+Read the full story at The Verge.
 
 ### [AGENT] Agentic & Automation
 
 1. **OpenAI to acquire Ona**
    - Source: OpenAI | Date: 11.06.2026
-   - Score: 51.4%
+   - Score: 50.5%
    - [Read More](https://openai.com/index/openai-to-acquire-ona)
    > OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.
 
+2. **Here’s How AI Agents Can Protect EV Chargers**
+   - Source: Wired | Date: 13.06.2026
+   - Score: 49.4%
+   - [Read More](https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/)
+   > An AI agent system proposed by researchers in Spain promises to prevent energy theft and damage to EV chargers, as well as the critical energy infrastructure that powers them.
+
+3. **Andrew Yang thinks the next big startup opportunity is lowering the cost of living**
+   - Source: TechCrunch | Date: 13.06.2026
+   - Score: 48.9%
+   - [Read More](https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/)
+   > Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.
+
 ---
 
-*Generated by Zeitungsjunge • 12. Juni 2026 08:53*
+*Generated by Zeitungsjunge • 13. Juni 2026 08:16*
