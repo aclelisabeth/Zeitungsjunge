@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 13. Juni 2026 08:16
+**Generated:** 14. Juni 2026 08:36
 
 ## Report: Today
 
@@ -8,40 +8,50 @@
 
 ### [TECH] Technology
 
-1. **Here's what Jeff Bezos' new startup Prometheus will do**
+1. **As Anthropic suspends access to new models, India debates its AI future**
+   - Source: TechCrunch | Date: 14.06.2026
+   - Score: 48.8%
+   - [Read More](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/)
+   > Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.
+
+2. **Here's what Jeff Bezos' new startup Prometheus will do**
    - Source: ArsTechnica | Date: 12.06.2026
-   - Score: 47.5%
+   - Score: 46.7%
    - [Read More](https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/)
    > It isn't the only startup tackling physical AI, but it's one of the best-funded.
-
-2. **Elon Musk is the world&#8217;s first trillionaire**
-   - Source: The Verge | Date: 12.06.2026
-   - Score: 47.4%
-   - [Read More](https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo)
-   > Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and have remained well above the $138 benchmark that gives Musk a 13-figure net worth.
-SpaceX combined Musk's rocket, AI, and social media platforms earlier this year, and said in its S-1 that its goal is to "build the systems and technologies necessary to make life multiplanetary, to understand the true nature of the universe, and to extend the light  …
-Read the full story at The Verge.
 
 ### [AGENT] Agentic & Automation
 
 1. **OpenAI to acquire Ona**
    - Source: OpenAI | Date: 11.06.2026
-   - Score: 50.5%
+   - Score: 49.7%
    - [Read More](https://openai.com/index/openai-to-acquire-ona)
    > OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.
 
 2. **Here’s How AI Agents Can Protect EV Chargers**
    - Source: Wired | Date: 13.06.2026
-   - Score: 49.4%
+   - Score: 48.6%
    - [Read More](https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/)
    > An AI agent system proposed by researchers in Spain promises to prevent energy theft and damage to EV chargers, as well as the critical energy infrastructure that powers them.
 
-3. **Andrew Yang thinks the next big startup opportunity is lowering the cost of living**
-   - Source: TechCrunch | Date: 13.06.2026
-   - Score: 48.9%
-   - [Read More](https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/)
-   > Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.
+3. **Bose’s latest QuietComfort Ultra are $70 off, marking a new low price **
+   - Source: The Verge | Date: 13.06.2026
+   - Score: 47.4%
+   - [Read More](https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale)
+   > Bose’s latest QuietComfort Ultra headphones fold down for easy storage. | Image: Bose	
+
+If you’re planning on traveling anytime soon, Bose’s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the foldable design of their predecessor, making them easy to pack in a carry-on. They’re even easier to recommend today, now that they’ve dropped to a new low price of $379 ($70 off) at Amazon, Best Buy, and Walmart. 
+Bose QuietComfort Ultra headphones (second-gen)
+
+Where to Buy:
+
+ $449 $379 at Amazon
+ $449 $379 at Walmart
+ $449 $379 at Best Buy
+
+The over-ears improve upon their predecessor with better noise cancellation and support for lossless audio over a USB-C cable, allowing you to enjoy higher-quality sound from compatible devices. Bose also added a new Cinema Mode that helps make movies and TV shows feel more immersive while making dialogue easier to hear, along with an improved transparency mode that surpasses the predecessor’s capabilities of reducing sudden loud noises. Battery life is better too, with the headphones lasting up to 30 hours on a single charge — a six-hour increase over the first-generation model. 
+Bose has also added a few other conveniences, including the ability to automatically enter a low-power standby mode when stored in the included case or laid flat. Plus, the headphones automatically power on and reconnect to a paired device when you put them on. At the same time, the new model retains soft ear cups and a comfortable, lightweight design that’s easy to wear for hours a time. Support for multipoint Bluetooth pairing remains as well, allowing you to stay connected to two devices simultaneously, so you can watch a video on your laptop and answer calls from your phone.
 
 ---
 
-*Generated by Zeitungsjunge • 13. Juni 2026 08:16*
+*Generated by Zeitungsjunge • 14. Juni 2026 08:36*
