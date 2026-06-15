@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 14. Juni 2026 08:36
+**Generated:** 15. Juni 2026 10:50
 
 ## Report: All Articles
 
@@ -8,15 +8,25 @@
 
 ### [TECH] Technology
 
-1. **As Anthropic suspends access to new models, India debates its AI future**
+1. **As AI companies race to go public, who else is along for the ride?**
    - Source: TechCrunch | Date: 14.06.2026
-   - Score: 48.8%
-   - [Read More](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/)
-   > Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.
+   - Score: 48.4%
+   - [Read More](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/)
+   > Startups are trying to "ride that SpaceX IPO wave."
 
-2. **Here's what Jeff Bezos' new startup Prometheus will do**
+2. **Solid-state batteries still aren’t ready, but gels are**
+   - Source: The Verge | Date: 14.06.2026
+   - Score: 47.2%
+   - [Read More](https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state)
+   > This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.
+How it started
+Lithium-ion batteries are everywhere as we enter the second quarter of the 21st century, and that's a problem. From exploding e-bikes in stairwells to lithium-ion power banks combusting midflight, the volatile nature of traditional liquid electrolytes has become an undeniable public safety hazard. 
+In 2025, the US Consumer Product Safety Commission (CPSC) i …
+Read the full story at The Verge.
+
+3. **Here's what Jeff Bezos' new startup Prometheus will do**
    - Source: ArsTechnica | Date: 12.06.2026
-   - Score: 46.7%
+   - Score: 45.8%
    - [Read More](https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/)
    > It isn't the only startup tackling physical AI, but it's one of the best-funded.
 
@@ -24,34 +34,16 @@
 
 1. **OpenAI to acquire Ona**
    - Source: OpenAI | Date: 11.06.2026
-   - Score: 49.7%
+   - Score: 48.8%
    - [Read More](https://openai.com/index/openai-to-acquire-ona)
    > OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.
 
 2. **Here’s How AI Agents Can Protect EV Chargers**
    - Source: Wired | Date: 13.06.2026
-   - Score: 48.6%
+   - Score: 47.7%
    - [Read More](https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/)
    > An AI agent system proposed by researchers in Spain promises to prevent energy theft and damage to EV chargers, as well as the critical energy infrastructure that powers them.
 
-3. **Bose’s latest QuietComfort Ultra are $70 off, marking a new low price **
-   - Source: The Verge | Date: 13.06.2026
-   - Score: 47.4%
-   - [Read More](https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale)
-   > Bose’s latest QuietComfort Ultra headphones fold down for easy storage. | Image: Bose	
-
-If you’re planning on traveling anytime soon, Bose’s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the foldable design of their predecessor, making them easy to pack in a carry-on. They’re even easier to recommend today, now that they’ve dropped to a new low price of $379 ($70 off) at Amazon, Best Buy, and Walmart. 
-Bose QuietComfort Ultra headphones (second-gen)
-
-Where to Buy:
-
- $449 $379 at Amazon
- $449 $379 at Walmart
- $449 $379 at Best Buy
-
-The over-ears improve upon their predecessor with better noise cancellation and support for lossless audio over a USB-C cable, allowing you to enjoy higher-quality sound from compatible devices. Bose also added a new Cinema Mode that helps make movies and TV shows feel more immersive while making dialogue easier to hear, along with an improved transparency mode that surpasses the predecessor’s capabilities of reducing sudden loud noises. Battery life is better too, with the headphones lasting up to 30 hours on a single charge — a six-hour increase over the first-generation model. 
-Bose has also added a few other conveniences, including the ability to automatically enter a low-power standby mode when stored in the included case or laid flat. Plus, the headphones automatically power on and reconnect to a paired device when you put them on. At the same time, the new model retains soft ear cups and a comfortable, lightweight design that’s easy to wear for hours a time. Support for multipoint Bluetooth pairing remains as well, allowing you to stay connected to two devices simultaneously, so you can watch a video on your laptop and answer calls from your phone.
-
 ---
 
-*Generated by Zeitungsjunge • 14. Juni 2026 08:36*
+*Generated by Zeitungsjunge • 15. Juni 2026 10:50*
