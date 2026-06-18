@@ -1,69 +1,51 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 17. Juni 2026 09:25
+**Generated:** 18. Juni 2026 09:08
 
 ## Report: Today
 
 **Total Articles:** 5
 
+### [AI] AI & Machine Learning
+
+1. **A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry**
+   - Source: OpenAI | Date: 17.06.2026
+   - Score: 51.7%
+   - [Read More](https://openai.com/index/ai-chemist-improves-reaction)
+   > OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.
+
+2. **World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names**
+   - Source: TechCrunch | Date: 17.06.2026
+   - Score: 51.0%
+   - [Read More](https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/)
+   > World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.
+
 ### [TECH] Technology
 
-1. **Payments startup Flutterwave hits $3.2B valuation, backed by Ripple**
-   - Source: TechCrunch | Date: 16.06.2026
-   - Score: 53.4%
-   - [Read More](https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/)
-   > African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as an investor and partner.
-
-### [ECOM] E-Commerce
-
-1. **Everything you need to know about Prime Day 2026** [E-COMMERCE]
-   - Source: The Verge | Date: 16.06.2026
+1. **Vibe-decoding the White House-Anthropic fight over Fable**
+   - Source: The Verge | Date: 17.06.2026
    - Score: 52.4%
-   - [Read More](https://www.theverge.com/gadgets/945942/prime-day-2026-frequently-asked-questions)
-   > Amazon Prime Day 2026 is getting closer, and it’s possible you might have some questions about the sale. When does it start? Why is it in June instead of July? And, most importantly, when will the deals go live? We have concrete answers to those questions, and we’ll have a lot more Prime Day coverage coming soon as Amazon rolls out more deals.
-When does Prime Day start?
-Amazon Prime Day 2026 officially starts on June 23rd, 2026 at 12:01AM PT, and ends on June 27, 2026 at 12:01AM PT. Some items will stay discounted for the entire period, or at least for as long as they remain in stock, while others will only run for a shorter chunk of the four day sale. In its article about Prime Day 2026 timing, Amazon noted that special deals will go live at 12AM, 8AM, and 1PM PT each day throughout the sale.
-Why is Prime Day in June this year?
-While there have been exceptions, Prime Day has historically occurred in July. So, what’s up with the recent change? Amazon’s Jamil Ghani told Reuters that the decision came down to some big events overlapping with its usual July launch. “This year, we have the (FIFA) World Cup […] We’ve got also the 250th anniversary of U.S. independence, and so we thought ​this week (beginning June 22) was the best week for us to hold Prime Day,” Ghani said.
-When do early Prime Day deals start?
-The rollout of early deals is already underway, and Amazon is highlighting deals on household essentials and Amazon devices like Kindle accessories and Ring cameras. It’s safe to assume that there will be several dozen deals available ahead of Prime Day, and we’ll be bringing them to you, so stay tuned.
-Do I need to be a Prime member to save?
-While there are likely to be some deals available to all shoppers, Amazon Prime members will have exclusive access to many discounts. If you haven’t signed up for Prime before, you can claim a 30 day free trial. 
-Young adults and students can claim six months of Prime membership for free, after which you’ll be charged $7.49 per month if you want to continue (or $69 per year if you want to pay annually) with some account sharing limitations. People receiving government assistance can use Amazon Access for discounts on specific products, including a Prime membership.
-Are other retailers offering similar deals?
-Other retailers are likely to drop prices through Prime Day to meet or at least come closer to Amazon. Walmart is hosting a competing sale from June 22nd, 2026 at 12:01AM ET until June 28th, 2026 at 11:59PM ET both online and in stores, with early access for Walmart Plus members. Similarly, Target has Circle Deal Days starting on June 23rd and running until June 26th for anyone with a free Target Circle account.  We’ll keep an eye out for deals wherever we can find them, and let you know if someone else beats Amazon’s price, or launches a similar sale.
-Do any retailers offer price matching for Prime Day?
-Currently, no major retailers offer price matching for Prime Day deals on Amazon. Best Buy typically offers price matching for Amazon, but most Prime Day deals won’t qualify because they’re either advertised as limited quantity, or require a Prime membership. Neither Target nor Walmart offer price matching for competitors.
-How can I know that Prime Day deals are actually good?
-There’s a deep trove of products that we’re hoping to see discounts on during Prime Day, and we use tools like CamelCamelCamel to track prices. When the markdowns match or exceed ones we’ve seen before on tech we like, we’ll tell you about it. Of course, you can track price history on items this way, too. 
-Amazon makes that easy with its own “Alexa for Shopping” price tracker (accessible by clicking “Price history” next to the item’s price), which is great for quick checks, but in our experience it doesn’t show up on every product, and it seems to deliver just up to one year of price history. On the other hand, CamelCamelCamel lets you see pricing data going back for the entire duration of the product’s availability, which is nice for researching slightly older products.
-Do prices stay the same through Prime Day?
-Generally, yes, though not always. Once a product is discounted for Prime Day, it usually sticks to that price for the duration of the sale. However, there will likely be some instances — Lightning Deals, for example — when deeper discounts might be available for a limited time.
-What are the best deals during Prime Day?
-Well, that’s something we’ll be able to tell you a lot more about in the coming weeks. But we always look forward to deals on Apple products, like AirPods, as well as other earbuds and headphones. Video games, TVs, monitors, and computer peripherals also typically see big discounts. Pretty much anything you’d likely want to buy during the Black Friday pre-holiday period should get some kind of discount during Amazon’s June event.
+   - [Read More](https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house)
+   > CEO of Anthropic Dario Amodei attends a working lunch with G7 leaders, G7 outreach partners, and global tech CEOs on innovation and AI, during the G7 Summit on June 17th, 2026, in Evian-les-Bains, France. | Photo: Anna Moneymaker / Getty Images	
 
-2. **‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI** [E-COMMERCE]
-   - Source: Wired | Date: 16.06.2026
-   - Score: 48.7%
-   - [Read More](https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/)
-   > A Silicon Valley software maker and an ecommerce company reveal to WIRED how they are navigating the emerging challenge of “tokenomics.”
+Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier AI development? Send 'em over to tina.nguyen+tips@theverge.com.
+Back when I was covering Donald Trump's first presidency, it was incredibly common to read three different versions of the same story. His administration had split into several factions, all of which had different interests, and all of which hated each other. There was the Reince Pr …
+Read the full story at The Verge.
 
-### [PIM] PIM & Data Management
-
-1. **Trump admin abandons fight against wind energy as clean energy output surges**
-   - Source: ArsTechnica | Date: 16.06.2026
-   - Score: 47.4%
-   - [Read More](https://arstechnica.com/science/2026/06/trump-admin-abandons-fight-against-wind-energy-as-clean-energy-output-surges/)
-   > Legal victories have dampened the Trump admin’s efforts to halt wind and solar power.
+2. **Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital**
+   - Source: Wired | Date: 17.06.2026
+   - Score: 49.0%
+   - [Read More](https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/)
+   > In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.
 
 ### [AGENT] Agentic & Automation
 
-1. **OpenAI to acquire Ona**
-   - Source: OpenAI | Date: 11.06.2026
-   - Score: 47.2%
-   - [Read More](https://openai.com/index/openai-to-acquire-ona)
-   > OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.
+1. **AI coding agents taught robots how to install GPUs and cut zip ties**
+   - Source: ArsTechnica | Date: 17.06.2026
+   - Score: 47.5%
+   - [Read More](https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/)
+   > Nvidia's self-improvement program for robots enlists teams of AI coding agents.
 
 ---
 
-*Generated by Zeitungsjunge • 17. Juni 2026 09:25*
+*Generated by Zeitungsjunge • 18. Juni 2026 09:08*
