@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 22. Juni 2026 10:32
+**Generated:** 23. Juni 2026 08:23
 
 ## Report: Last 7 Days
 
@@ -8,43 +8,61 @@
 
 ### [AI] AI & Machine Learning
 
-1. **Samsung Electronics brings ChatGPT and Codex to employees**
-   - Source: OpenAI | Date: 21.06.2026
-   - Score: 49.6%
-   - [Read More](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment)
-   > Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.
+1. **Daybreak: Tools for securing every organization in the world**
+   - Source: OpenAI | Date: 22.06.2026
+   - Score: 49.2%
+   - [Read More](https://openai.com/index/daybreak-securing-the-world)
+   > OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.
 
-2. **28 Tips to Take Your ChatGPT Prompts to the Next Level**
-   - Source: Wired | Date: 21.06.2026
-   - Score: 46.2%
-   - [Read More](https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/)
-   > Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.
+2. **OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos**
+   - Source: Wired | Date: 22.06.2026
+   - Score: 49.0%
+   - [Read More](https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/)
+   > Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.
 
 ### [TECH] Technology
 
-1. **Electric air taxis are stuck in the courtroom**
-   - Source: The Verge | Date: 21.06.2026
-   - Score: 47.2%
-   - [Read More](https://www.theverge.com/column/950975/electric-air-taxis-lawsuits)
-   > Joby flight at JFK airport. | Image: The Verge	
+1. **The Apple Watch SE 3 is just $199 for Prime Day**
+   - Source: The Verge | Date: 22.06.2026
+   - Score: 50.0%
+   - [Read More](https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale)
+   > The Apple Watch SE 3 is at an all-time low of $199, making the sleeper hit of last year’s Apple Watches an even better value. While the Series 11 and Ultra 3 were iterative updates, the SE 3 was a wide-ranging glow-up that added an always-on display, gestures like double tap and wrist flick, a wrist-temperature sensor, 5G connectivity, fast charging, a speaker, and an upgraded processor that’ll support watchOS 27 when it arrives in the fall.
+Apple Watch SE 3
+The Apple Watch SE 3 is a major glow-up, adding an always-on display, wrist-temperature sensor, a more powerful processor, and fast charging.
 
-This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on aviation, air taxis, and Wi-Fi speeds at 30,000 feet, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.
-How it started
-Last year, two of the leading air taxi companies in the US, Joby Aviation and Archer Aviation, sued each other, with Joby accusing Archer of corporate espionage and Archer claiming that Joby was concealing its ties to China. Then, in February of this year, Archer filed a patent infringement suit against a different air taxi rival, Vertical A …
-Read the full story at The Verge.
+Where to Buy:
 
-2. **Aura’s impressive e-ink photo frame doesn’t even look digital**
-   - Source: TechCrunch | Date: 19.06.2026
-   - Score: 46.9%
-   - [Read More](https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/)
-   > All of Aura's frames connect to the Aura app, which is where you can upload photos from your phone, web, email, iCloud, or Google Photos.
+ $249 $199 at Amazon
 
-3. **The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed**
+This is the Apple Watch that I recommend for most people, unless you really want a watch with thinner bezels and EKG and atrial fibrillation detection. The 40mm size is also great if you have a smaller wrist. When I was testing the watch, I really didn’t feel any FOMO. But if advanced health features are a sticking point, the Apple Watch Series 11 is also $50 off for an all-time low price of $279. Just a note for bargain hunters: Keep in mind that we’re expecting to see a Series 12 in a few months, while we likely won’t see an update to the SE line for at least another year.
+Read our Apple Watch SE 3 review.
+
+
+  window.HYPE_DESK_CONFIG = {
+    productImageUrl: "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Mop-Removal.jpg",
+    productImageAlt: "Dreame L60 Pro Ultra Robot Vacuum and Mop",
+    productTitle: "Dreame L60 Pro Ultra Robot Vacuum and Mop",
+    shortDescription: "The robot vacuum built for homes that other robot vacuums give up on.",
+    longDescription:
+      "The L60 Pro Ultra is built for homes that give robot vacuums a hard time. The ProLeap system handles thresholds and room transitions that stop other robots cold, 35,000Pa of suction with anti-tangle brush technology tackles carpets and pet hair, and dual omni-scrub mopping with hot water takes care of stubborn floor stains. Intelligent navigation and pet-friendly cleaning modes for larger and more complex homes.",
+    purchaseUrl: "https://go.skimresources.com?id=1025X1701640&xs=1&url=https%3A%2F%2Fwww.dreametech.com%2Fproducts%2Fl60-pro-ultra-robot-vacuum&xcust=DreameHypedeskPlacement4",
+    purchaseLinkText: "Shop at Dreame"
+  };
+
+2. **The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed**
    - Source: ArsTechnica | Date: 20.06.2026
-   - Score: 46.4%
+   - Score: 45.6%
    - [Read More](https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/)
    > Tests of age-verification technology show the risks of life-altering errors.
 
+### [AGENT] Agentic & Automation
+
+1. **The AI world is getting ‘loopy’**
+   - Source: TechCrunch | Date: 22.06.2026
+   - Score: 51.1%
+   - [Read More](https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/)
+   > The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.
+
 ---
 
-*Generated by Zeitungsjunge • 22. Juni 2026 10:32*
+*Generated by Zeitungsjunge • 23. Juni 2026 08:23*
