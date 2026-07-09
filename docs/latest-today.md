@@ -1,49 +1,51 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 8. Juli 2026 07:23
+**Generated:** 9. Juli 2026 08:18
 
 ## Report: Today
 
 **Total Articles:** 5
 
+### [AI] AI & Machine Learning
+
+1. **Introducing GPT-Live**
+   - Source: OpenAI | Date: 08.07.2026
+   - Score: 48.9%
+   - [Read More](https://openai.com/index/introducing-gpt-live)
+   > A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.
+
+2. **Hackers can use 9 of the most popular AI tools to assemble massive botnets**
+   - Source: ArsTechnica | Date: 08.07.2026
+   - Score: 47.1%
+   - [Read More](https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/)
+   > "HalluSquatting" weaponizes LLMs' inability to say "I don't know."
+
 ### [TECH] Technology
 
-1. **Doom developer id reportedly cut in half as part of Xbox layoffs**
-   - Source: The Verge | Date: 07.07.2026
-   - Score: 52.5%
-   - [Read More](https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs)
-   > As part of the mass layoffs hitting Xbox, Doom developer id Software has laid off around 50 percent of its staff, according to Game Developer. One source claimed to the publication that the cuts equate to more than 90 redundancies. Another source said that id's QA department was significantly impacted. The report was published the same day that id is releasing a major expansion for its latest Doom game.
-A former id employee affected by the cuts, Michael Maynard, corroborated the figure in a LinkedIn post, saying that the layoffs affected "roughly" 50 percent of the company. "We created arguably THE BEST first person engine technology in the …
-Read the full story at The Verge.
-
-2. **British Space Startup Launches Longevity Lab Into Orbit**
-   - Source: Wired | Date: 07.07.2026
-   - Score: 46.3%
-   - [Read More](https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/)
-   > The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.
+1. **Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game**
+   - Source: Wired | Date: 08.07.2026
+   - Score: 49.1%
+   - [Read More](https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/)
+   > Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.
 
 ### [ECOM] E-Commerce
 
-1. **Australian Payments Plus moves faster with ChatGPT and Codex** [E-COMMERCE]
-   - Source: OpenAI | Date: 07.07.2026
-   - Score: 48.9%
-   - [Read More](https://openai.com/index/australian-payments-plus)
-   > See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.
+1. **Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones** [E-COMMERCE]
+   - Source: The Verge | Date: 08.07.2026
+   - Score: 47.6%
+   - [Read More](https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder)
+   > Even though they haven’t been officially announced yet, Samsung is giving you a chance to save some cash when you preorder what we’re expecting to be the brand’s updated Galaxy Z Fold phones. The next Galaxy Unpacked event will take place on July 22nd, 2026, and features the tagline “A new shape unfolds.” In addition to seeing updated versions of the existing Flip and Fold form factors, we anticipate the debut of a new, wider foldable phone. If you register your interest ahead of time and end up preordering one of the new phones shortly after they’re announced, Samsung will give you a $30 store credit at checkout.
+There are some caveats to this offer. You have to use the credit when you preorder the phone. No saving it for later. Also, the credit can’t be applied to the cost of the phone either, so you’ll have to put it towards the cost of accessories or extra services. Samsung specifically calls out that select Galaxy rings, earbuds, watches, and tablets are eligible, or you can use it to help pay for Samsung Care Plus.
+There are no downsides to registering your interest, so if you think you might be interested in buying one of the upcoming phones, it’s worth filling out the form. As long as you use the same email during checkout, the credit will be automatically applied.
 
 ### [AGENT] Agentic & Automation
 
-1. **The ‘first’ AI-run ransomware attack still needed a human**
-   - Source: TechCrunch | Date: 06.07.2026
-   - Score: 52.9%
-   - [Read More](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/)
-   > An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.
-
-2. **How AI could enable autonomous robot workers in workplaces—and maybe homes**
-   - Source: ArsTechnica | Date: 07.07.2026
-   - Score: 47.3%
-   - [Read More](https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/)
-   > Top robotics researchers and founders explain how robot autonomy is evolving.
+1. **With EU backing, QuantumDiamonds aims to speed up chip manufacturing**
+   - Source: TechCrunch | Date: 08.07.2026
+   - Score: 51.1%
+   - [Read More](https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/)
+   > Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that applies a novel approach to inspecting chips.
 
 ---
 
-*Generated by Zeitungsjunge • 8. Juli 2026 07:23*
+*Generated by Zeitungsjunge • 9. Juli 2026 08:18*
