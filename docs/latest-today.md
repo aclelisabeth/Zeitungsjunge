@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 9. Juli 2026 08:18
+**Generated:** 10. Juli 2026 08:15
 
 ## Report: Today
 
@@ -8,44 +8,42 @@
 
 ### [AI] AI & Machine Learning
 
-1. **Introducing GPT-Live**
-   - Source: OpenAI | Date: 08.07.2026
-   - Score: 48.9%
-   - [Read More](https://openai.com/index/introducing-gpt-live)
-   > A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.
+1. **OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’**
+   - Source: The Verge | Date: 09.07.2026
+   - Score: 52.5%
+   - [Read More](https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work)
+   > About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a "limited preview" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it "the best model we have ever produced."
+To celebrate, OpenAI also unveiled a new AI agent on the same day: ChatGPT Work. It's billed as a combination of ChatGPT and Codex, allowing the everyday non-technical user to take advantage of Codex's capabilities for non-coding tasks, and it's powered by the GPT-5.6 model suite (Sol, Terra, and Luna). "It can g …
+Read the full story at The Verge.
 
-2. **Hackers can use 9 of the most popular AI tools to assemble massive botnets**
-   - Source: ArsTechnica | Date: 08.07.2026
-   - Score: 47.1%
-   - [Read More](https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/)
-   > "HalluSquatting" weaponizes LLMs' inability to say "I don't know."
+2. **GPT-5.6 is now the preferred model in Microsoft 365 Copilot**
+   - Source: OpenAI | Date: 09.07.2026
+   - Score: 49.3%
+   - [Read More](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot)
+   > Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.
+
+3. **OpenAI may have made a fatal misstep in copyright fight with news orgs**
+   - Source: ArsTechnica | Date: 09.07.2026
+   - Score: 47.5%
+   - [Read More](https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/)
+   > OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.
 
 ### [TECH] Technology
 
-1. **Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game**
-   - Source: Wired | Date: 08.07.2026
-   - Score: 49.1%
-   - [Read More](https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/)
-   > Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.
-
-### [ECOM] E-Commerce
-
-1. **Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones** [E-COMMERCE]
-   - Source: The Verge | Date: 08.07.2026
-   - Score: 47.6%
-   - [Read More](https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder)
-   > Even though they haven’t been officially announced yet, Samsung is giving you a chance to save some cash when you preorder what we’re expecting to be the brand’s updated Galaxy Z Fold phones. The next Galaxy Unpacked event will take place on July 22nd, 2026, and features the tagline “A new shape unfolds.” In addition to seeing updated versions of the existing Flip and Fold form factors, we anticipate the debut of a new, wider foldable phone. If you register your interest ahead of time and end up preordering one of the new phones shortly after they’re announced, Samsung will give you a $30 store credit at checkout.
-There are some caveats to this offer. You have to use the credit when you preorder the phone. No saving it for later. Also, the credit can’t be applied to the cost of the phone either, so you’ll have to put it towards the cost of accessories or extra services. Samsung specifically calls out that select Galaxy rings, earbuds, watches, and tablets are eligible, or you can use it to help pay for Samsung Care Plus.
-There are no downsides to registering your interest, so if you think you might be interested in buying one of the upcoming phones, it’s worth filling out the form. As long as you use the same email during checkout, the credit will be automatically applied.
+1. **Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot**
+   - Source: Wired | Date: 10.07.2026
+   - Score: 49.4%
+   - [Read More](https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/)
+   > Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?
 
 ### [AGENT] Agentic & Automation
 
-1. **With EU backing, QuantumDiamonds aims to speed up chip manufacturing**
-   - Source: TechCrunch | Date: 08.07.2026
+1. **An AI agent startup just let its agent run its $100M fundraise**
+   - Source: TechCrunch | Date: 09.07.2026
    - Score: 51.1%
-   - [Read More](https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/)
-   > Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that applies a novel approach to inspecting chips.
+   - [Read More](https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/)
+   > Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.
 
 ---
 
-*Generated by Zeitungsjunge • 9. Juli 2026 08:18*
+*Generated by Zeitungsjunge • 10. Juli 2026 08:15*
