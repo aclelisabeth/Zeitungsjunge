@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 10. Juli 2026 08:15
+**Generated:** 11. Juli 2026 07:05
 
 ## Report: Today
 
@@ -8,42 +8,44 @@
 
 ### [AI] AI & Machine Learning
 
-1. **OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’**
-   - Source: The Verge | Date: 09.07.2026
-   - Score: 52.5%
-   - [Read More](https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work)
-   > About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a "limited preview" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it "the best model we have ever produced."
-To celebrate, OpenAI also unveiled a new AI agent on the same day: ChatGPT Work. It's billed as a combination of ChatGPT and Codex, allowing the everyday non-technical user to take advantage of Codex's capabilities for non-coding tasks, and it's powered by the GPT-5.6 model suite (Sol, Terra, and Luna). "It can g …
-Read the full story at The Verge.
-
-2. **GPT-5.6 is now the preferred model in Microsoft 365 Copilot**
+1. **GPT-5.6 is now the preferred model in Microsoft 365 Copilot**
    - Source: OpenAI | Date: 09.07.2026
-   - Score: 49.3%
+   - Score: 48.5%
    - [Read More](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot)
    > Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.
 
-3. **OpenAI may have made a fatal misstep in copyright fight with news orgs**
-   - Source: ArsTechnica | Date: 09.07.2026
-   - Score: 47.5%
-   - [Read More](https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/)
-   > OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.
-
 ### [TECH] Technology
 
-1. **Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot**
+1. **Apple sues OpenAI for allegedly stealing hardware secrets**
+   - Source: The Verge | Date: 10.07.2026
+   - Score: 52.7%
+   - [Read More](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets)
+   > Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered "a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple." In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, which OpenAI bought in 2025 - along with two specific employees, Tang Tan (OpenAI's chief hardware officer) and Chang Liu (who joined OpenAI from Apple in January).
+An Apple spokesperson shared this statement with 9to5Mac:
+At Apple, our teams are constantly developing breakthrough technologies to create the b …
+
+Read the full story at The Verge.
+
+2. **Is an air-conditioning revolution coming to Europe?**
+   - Source: ArsTechnica | Date: 10.07.2026
+   - Score: 49.8%
+   - [Read More](https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/)
+   > The AC culture wars may be solved by advances in environmentally friendly technology.
+
+3. **Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot**
    - Source: Wired | Date: 10.07.2026
-   - Score: 49.4%
+   - Score: 48.6%
    - [Read More](https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/)
-   > Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?
+   > Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?
 
-### [AGENT] Agentic & Automation
+### [ECOM] E-Commerce
 
-1. **An AI agent startup just let its agent run its $100M fundraise**
-   - Source: TechCrunch | Date: 09.07.2026
-   - Score: 51.1%
-   - [Read More](https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/)
-   > Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.
+1. **Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn** [E-COMMERCE]
+   - Source: TechCrunch | Date: 11.07.2026
+   - Score: 48.8%
+   - [Read More](https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/)
+   > Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.
 
 ---
 
-*Generated by Zeitungsjunge • 10. Juli 2026 08:15*
+*Generated by Zeitungsjunge • 11. Juli 2026 07:05*
