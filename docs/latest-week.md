@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 13. Juli 2026 08:09
+**Generated:** 14. Juli 2026 07:03
 
 ## Report: Last 7 Days
 
@@ -8,55 +8,41 @@
 
 ### [AI] AI & Machine Learning
 
-1. **GPT-5.6 is now the preferred model in Microsoft 365 Copilot**
-   - Source: OpenAI | Date: 09.07.2026
-   - Score: 46.8%
-   - [Read More](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot)
-   > Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.
+1. **Getting started with ChatGPT**
+   - Source: OpenAI | Date: 10.07.2026
+   - Score: 46.4%
+   - [Read More](https://openai.com/academy/getting-started)
+   > Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.
+
+2. **US continues to shun Ebola-infected citizens; second American sent to Germany**
+   - Source: ArsTechnica | Date: 13.07.2026
+   - Score: 45.2%
+   - [Read More](https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/)
+   > The man is said to be doing well in a Frankfurt hospital.
 
 ### [TECH] Technology
 
-1. **TechCrunch Mobility: A robotaxi ultimatum**
-   - Source: TechCrunch | Date: 12.07.2026
-   - Score: 48.4%
-   - [Read More](https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/)
-   > Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
+1. **Already rich, already successful, why the last wave of tech winners is grinding again**
+   - Source: TechCrunch | Date: 14.07.2026
+   - Score: 48.9%
+   - [Read More](https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/)
+   > They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.
 
-2. **Is an air-conditioning revolution coming to Europe?**
-   - Source: ArsTechnica | Date: 10.07.2026
-   - Score: 48.1%
-   - [Read More](https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/)
-   > The AC culture wars may be solved by advances in environmentally friendly technology.
+2. **OnePlus is reportedly bailing on the US**
+   - Source: The Verge | Date: 13.07.2026
+   - Score: 47.7%
+   - [Read More](https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe)
+   > OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a WinFuture report. 
+Should the exit actually happen, it will mark a conclusion to months of rumors about the future of OnePlus. Android Headlines said in January that OnePlus was being "dismantled," though OnePlus, in a statement at the time, said that "OnePlus North America continues to operate, with full guarantee of users' after-sales support, software updates, and rights commitments."
+In March, 9to5Google reported that OnePlus might cease operations in global ma …
+Read the full story at The Verge.
 
-3. **Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot**
-   - Source: Wired | Date: 10.07.2026
+3. **Hostinger Promo Code: 79% Off for July 2026**
+   - Source: Wired | Date: 14.07.2026
    - Score: 46.9%
-   - [Read More](https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/)
-   > Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?
-
-### [PIM] PIM & Data Management
-
-1. **One of SteelSeries&#8217; best gaming headsets is over $100 off**
-   - Source: The Verge | Date: 12.07.2026
-   - Score: 52.4%
-   - [Read More](https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale)
-   > The SteelSeries Arctis Nova Pro gaming headset. | Photo by Amelia Holowaty Krales	
-
-SteelSeries has the Arctis Nova Pro Wireless gaming headset on sale for $239.99 (currently between $300 and $350 at other retailers). The Xbox version that supports a host of other platforms including PlayStation, PC, and Switch is available in both black and white. The PlayStation version, which supports the same platforms except for Xbox, is discounted in white. Both versions can also connect to mobile devices via Bluetooth.
-SteelSeries Arctis Nova Pro Wireless
-The Nova Pro Wireless gaming headset supports active noise cancellation, swappable batteries, Bluetooth support, and compatibility with PC and most consoles — including Xbox and PlayStation. This model includes a base station that makes it easy to toggle crucial sound settings. Read our review.
-
-Where to Buy:
-
- $379.99 $239.99 at SteelSeries (Xbox, black, blemished box)
- $379.99 $239.99 at SteelSeries (Playstation, white, blemished box)
- $379.99 $239.99 at SteelSeries (Xbox, white, blemished box)
-
-This isn’t your average price reduction; SteelSeries’ reason for discounting the headsets is because their packaging is damaged. It assures that the hardware inside is still unused and undamaged, and the headset includes the same one-year warranty as any of its new headsets.
-The Nova Pro Wireless was an impressive gaming headset when it launched four years ago — and still is — especially at this price point. It has all the features you’re probably expecting from a high-end wireless headset, like active noise cancellation for blocking out sounds, a noise-canceling microphone for clear callouts and crisp voice delivery, and Bluetooth connectivity in case you need to take a call. In addition, the slick USB base station adds a ton of unique functionality, like charging a spare batteries to minimize downtime when one dies, onboard controls for game profiles and sound mixing, and the ability to blend up to three inputs at a time (including Bluetooth).
-There are some things you should keep in mind if you’re thinking of picking up the Arctis Nova Pro Wireless. Our reviewers disagreed on its comfort. Neither found it uncomfortable, but both agreed that it’s heavier than other SteelSeries headsets. If you were considering the newer and more expensive Nova Pro Omni, this headset has most of the same unique features at a much more palatable price point.
-Read our SteelSeries Arctis Nova Pro review.
+   - [Read More](https://www.wired.com/story/hostinger-coupon-code/)
+   > Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.
 
 ---
 
-*Generated by Zeitungsjunge • 13. Juli 2026 08:09*
+*Generated by Zeitungsjunge • 14. Juli 2026 07:03*
