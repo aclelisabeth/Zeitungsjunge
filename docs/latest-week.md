@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 29. Juli 2026 07:37
+**Generated:** 30. Juli 2026 07:27
 
 ## Report: Last 7 Days
 
@@ -8,42 +8,43 @@
 
 ### [TECH] Technology
 
-1. **As US measles cases rise, biotech firms start developing new treatments**
-   - Source: ArsTechnica | Date: 28.07.2026
-   - Score: 47.4%
-   - [Read More](https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/)
-   > The US is making measles great again, so treatment options are needed for the most vulnerable.
+1. **Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026 **
+   - Source: TechCrunch | Date: 29.07.2026
+   - Score: 53.6%
+   - [Read More](https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/)
+   > At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
+
+2. **Hostinger Promo Code: 79% Off for August 2026**
+   - Source: Wired | Date: 29.07.2026
+   - Score: 46.1%
+   - [Read More](https://www.wired.com/story/hostinger-coupon-code/)
+   > Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.
 
 ### [ECOM] E-Commerce
 
 1. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
-   - Source: etailment | Date: 29.07.2026
+   - Source: etailment | Date: 30.07.2026
    - Score: 48.6%
    - [Read More](https://etailment.de)
    > Aktuelle Nachrichten, Analysen und Expertenmeinungen zu E-Commerce, Handel, Payment, Logistik und Marketing.
 
-2. **eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement** [E-COMMERCE]
-   - Source: The Verge | Date: 28.07.2026
-   - Score: 47.6%
-   - [Read More](https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement)
-   > eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment and cyberstalking campaign in 2019, as reported earlier by CNBC. The settlement will resolve a lengthy legal saga that revealed how eBay's former executives sent live insects, a bloody pig mask, a funeral wreath, and other strange items to David and Ina Steiner over their newsletter's coverage of eBay.
-The Steiners, who operate the EcommerceBytes newsletter, sued eBay and its former executives - including ex-CEO Devin Wenig -  in 2021. The lawsuit accused the company and its executives of launching a …
-Read the full story at The Verge.
-
 ### [AGENT] Agentic & Automation
 
-1. **Scientific computing in the age of agentic AI**
-   - Source: OpenAI | Date: 28.07.2026
-   - Score: 54.5%
-   - [Read More](https://openai.com/index/scientific-computing-agentic-ai)
-   > A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.
+1. **How GPT-5.6 fuses frontier intelligence with frontier efficiency**
+   - Source: OpenAI | Date: 29.07.2026
+   - Score: 53.9%
+   - [Read More](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency)
+   > GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.
 
-2. **These App Store hidden gems prove there’s still room for great software in the AI era**
-   - Source: TechCrunch | Date: 28.07.2026
-   - Score: 53.5%
-   - [Read More](https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/)
-   > Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.
+2. **Microsoft confirms Copilot ‘super app’ coming this year**
+   - Source: The Verge | Date: 29.07.2026
+   - Score: 50.2%
+   - [Read More](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed)
+   > Microsoft is working on an AI "super app" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span "both consumer and commercial experiences" when it launches this year.
+"Copilot is evolving rapidly from chat to Cowork to Autopilots," Nadella said. "This quarter, we are bringing these Copilot experiences together, including code, in one super app… This is a major step forward, and I look forward to sharing more soon."
+Nadella's confirmation comes months after a report from Fortune revealed that Microsoft is working on a super app that blends its …
+Read the full story at The Verge.
 
 ---
 
-*Generated by Zeitungsjunge • 29. Juli 2026 07:37*
+*Generated by Zeitungsjunge • 30. Juli 2026 07:27*
