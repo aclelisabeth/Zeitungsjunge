@@ -1,50 +1,53 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 30. Juli 2026 07:27
+**Generated:** 31. Juli 2026 07:45
 
 ## Report: All Articles
 
 **Total Articles:** 5
 
+### [AI] AI & Machine Learning
+
+1. **How avatarin built a 24/7 retail agent with GPT-Realtime**
+   - Source: OpenAI | Date: 30.07.2026
+   - Score: 53.9%
+   - [Read More](https://openai.com/index/avatarin)
+   > avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.
+
+2. **Tim Cook hints at iCloud Plus tier for AI power users**
+   - Source: The Verge | Date: 30.07.2026
+   - Score: 50.2%
+   - [Read More](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai)
+   > Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI "a lot," adding that "we will have some kind of upgrade possibilities on iCloud Plus where people can buy up the stack."
+This fall, Apple will broadly launch its long-delayed Siri AI with iOS 27, which can do things like answer questions about what's on your screen and take action across your apps. It also includes a new standalone Siri AI app that offers a ChatGPT-like interface. 
+In June, Apple said that its AI features, including  …
+Read the full story at The Verge.
+
 ### [TECH] Technology
 
-1. **Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026 **
-   - Source: TechCrunch | Date: 29.07.2026
-   - Score: 53.6%
-   - [Read More](https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/)
-   > At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
-
-2. **Hostinger Promo Code: 79% Off for August 2026**
-   - Source: Wired | Date: 29.07.2026
-   - Score: 46.1%
-   - [Read More](https://www.wired.com/story/hostinger-coupon-code/)
-   > Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.
+1. **Okta buys AI security startup Permiso — source says for about $200M**
+   - Source: TechCrunch | Date: 30.07.2026
+   - Score: 53.5%
+   - [Read More](https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/)
+   > The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.
 
 ### [ECOM] E-Commerce
 
 1. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
-   - Source: etailment | Date: 30.07.2026
+   - Source: etailment | Date: 31.07.2026
    - Score: 48.6%
    - [Read More](https://etailment.de)
    > Aktuelle Nachrichten, Analysen und Expertenmeinungen zu E-Commerce, Handel, Payment, Logistik und Marketing.
 
-### [AGENT] Agentic & Automation
+### [PIM] PIM & Data Management
 
-1. **How GPT-5.6 fuses frontier intelligence with frontier efficiency**
-   - Source: OpenAI | Date: 29.07.2026
-   - Score: 53.9%
-   - [Read More](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency)
-   > GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.
-
-2. **Microsoft confirms Copilot ‘super app’ coming this year**
-   - Source: The Verge | Date: 29.07.2026
-   - Score: 50.2%
-   - [Read More](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed)
-   > Microsoft is working on an AI "super app" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span "both consumer and commercial experiences" when it launches this year.
-"Copilot is evolving rapidly from chat to Cowork to Autopilots," Nadella said. "This quarter, we are bringing these Copilot experiences together, including code, in one super app… This is a major step forward, and I look forward to sharing more soon."
-Nadella's confirmation comes months after a report from Fortune revealed that Microsoft is working on a super app that blends its …
-Read the full story at The Verge.
+1. **A Grocer’s V.C. Bets on the Backbone of Retail’s AI Future**
+   - Source: PIMvendors | Date: 30.07.2026
+   - Score: 47.6%
+   - [Read More](https://pimvendors.com/knowledge-base/pim/a-grocers-v-c-bets-on-the-backbone-of-retails-ai-future/)
+   > This article is based on an announcement from Ahold Delhaize’s venture arm W23 Global and what it signals about the next wave of retail tech — and, quietly, the next...
+The post A Grocer’s V.C. Bets on the Backbone of Retail’s AI Future appeared first on PIMvendors.
 
 ---
 
-*Generated by Zeitungsjunge • 30. Juli 2026 07:27*
+*Generated by Zeitungsjunge • 31. Juli 2026 07:45*
