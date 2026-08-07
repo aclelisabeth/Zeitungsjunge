@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 6. August 2026 07:32
+**Generated:** 7. August 2026 06:04
 
 ## Report: Today
 
@@ -8,44 +8,45 @@
 
 ### [AI] AI & Machine Learning
 
-1. **Rogue AI agents created fake online identities in another hacking attempt**
-   - Source: The Verge | Date: 05.08.2026
-   - Score: 49.9%
-   - [Read More](https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking)
-   > Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems. 
-According to a report from the UK's AI Security Institute, which evaluates frontier models from top AI labs before they are released, agents powered by OpenAI's GPT-5.6-Sol and Anthropic's Mythos 5 went "engaged in sustained, potentially harmful activity directed at real people and organisations." This included trying to insert malicious code i …
-Read the full story at The Verge.
+1. **From asking to doing: How the world is putting ChatGPT to work**
+   - Source: OpenAI | Date: 06.08.2026
+   - Score: 49.0%
+   - [Read More](https://openai.com/index/how-the-world-is-putting-chatgpt-to-work)
+   > New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.
 
 ### [TECH] Technology
 
-1. **Circles powers telco personalization with OpenAI technology**
-   - Source: OpenAI | Date: 03.08.2026
-   - Score: 49.7%
-   - [Read More](https://openai.com/index/circles)
-   > Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.
+1. **Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands **
+   - Source: TechCrunch | Date: 06.08.2026
+   - Score: 51.2%
+   - [Read More](https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/)
+   > Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s still open to showcase your startup.  Here’s what $12,500 buys you:  Joining fellow exhibitors is the fastest, lowest-lift way for a […]
 
-### [ECOM] E-Commerce
+2. **Suno shares plans to combat spammy AI music**
+   - Source: The Verge | Date: 06.08.2026
+   - Score: 50.1%
+   - [Read More](https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark)
+   > Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images	
 
-1. **Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders** [E-COMMERCE]
-   - Source: TechCrunch | Date: 05.08.2026
-   - Score: 56.1%
-   - [Read More](https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/)
-   > The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.
-
-2. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
-   - Source: etailment | Date: 06.08.2026
-   - Score: 48.6%
-   - [Read More](https://etailment.de)
-   > Aktuelle Nachrichten, Analysen und Expertenmeinungen zu E-Commerce, Handel, Payment, Logistik und Marketing.
+Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. 
+The company is rolling out new transparency tools, along with new watermarking and fingerprinting tech. Shulman says it aligns with "emerging industry standards" that will make it easier to identify Suno-generated content. He also says the company is aiming to partner with "distribution platforms on combatting fraud and misuse." 
+Last year, th …
+Read the full story at The Verge.
 
 ### [AGENT] Agentic & Automation
 
-1. **OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree**
+1. **Cloudflare open-sources vibe-coding platform for people who aren't coders**
+   - Source: ArsTechnica | Date: 06.08.2026
+   - Score: 50.0%
+   - [Read More](https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/)
+   > Cloudflare built an AI agent workspace for its employees. Now it’s open source.
+
+2. **Why Normal People Aren’t Using AI Agents**
    - Source: Wired | Date: 06.08.2026
-   - Score: 46.7%
-   - [Read More](https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/)
-   > At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.
+   - Score: 49.1%
+   - [Read More](https://www.wired.com/story/why-normal-people-arent-using-ai-agents/)
+   > The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.
 
 ---
 
-*Generated by Zeitungsjunge • 6. August 2026 07:32*
+*Generated by Zeitungsjunge • 7. August 2026 06:04*
