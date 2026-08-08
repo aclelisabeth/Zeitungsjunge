@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 7. August 2026 06:04
+**Generated:** 8. August 2026 05:34
 
 ## Report: Last 7 Days
 
@@ -8,45 +8,44 @@
 
 ### [AI] AI & Machine Learning
 
-1. **From asking to doing: How the world is putting ChatGPT to work**
-   - Source: OpenAI | Date: 06.08.2026
-   - Score: 49.0%
-   - [Read More](https://openai.com/index/how-the-world-is-putting-chatgpt-to-work)
-   > New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.
+1. **How HSP GRUPPE builds AI capabilities for tax advisory**
+   - Source: OpenAI | Date: 07.08.2026
+   - Score: 49.3%
+   - [Read More](https://openai.com/index/hsp-gruppe)
+   > Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.
 
 ### [TECH] Technology
 
-1. **Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands **
-   - Source: TechCrunch | Date: 06.08.2026
-   - Score: 51.2%
-   - [Read More](https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/)
-   > Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s still open to showcase your startup.  Here’s what $12,500 buys you:  Joining fellow exhibitors is the fastest, lowest-lift way for a […]
+1. **Scientists Used AI to Create 16 New Viruses**
+   - Source: Wired | Date: 07.08.2026
+   - Score: 49.0%
+   - [Read More](https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/)
+   > The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.
 
-2. **Suno shares plans to combat spammy AI music**
-   - Source: The Verge | Date: 06.08.2026
-   - Score: 50.1%
-   - [Read More](https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark)
-   > Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images	
+### [ECOM] E-Commerce
 
-Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. 
-The company is rolling out new transparency tools, along with new watermarking and fingerprinting tech. Shulman says it aligns with "emerging industry standards" that will make it easier to identify Suno-generated content. He also says the company is aiming to partner with "distribution platforms on combatting fraud and misuse." 
-Last year, th …
-Read the full story at The Verge.
+1. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
+   - Source: etailment | Date: 08.08.2026
+   - Score: 48.6%
+   - [Read More](https://etailment.de)
+   > Aktuelle Nachrichten, Analysen und Expertenmeinungen zu E-Commerce, Handel, Payment, Logistik und Marketing.
 
 ### [AGENT] Agentic & Automation
 
-1. **Cloudflare open-sources vibe-coding platform for people who aren't coders**
-   - Source: ArsTechnica | Date: 06.08.2026
-   - Score: 50.0%
-   - [Read More](https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/)
-   > Cloudflare built an AI agent workspace for its employees. Now it’s open source.
+1. **Cloudflare launches Kitesurf, a browser built for AI agents**
+   - Source: TechCrunch | Date: 07.08.2026
+   - Score: 51.0%
+   - [Read More](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/)
+   > Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.
 
-2. **Why Normal People Aren’t Using AI Agents**
-   - Source: Wired | Date: 06.08.2026
-   - Score: 49.1%
-   - [Read More](https://www.wired.com/story/why-normal-people-arent-using-ai-agents/)
-   > The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.
+2. **OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful**
+   - Source: The Verge | Date: 07.08.2026
+   - Score: 50.1%
+   - [Read More](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities)
+   > OpenAI says it is pausing "internal activities" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue and breached other organizations. 
+Recent internal evaluations of an OpenAI model called Astra indicate that it offers "significant advancements in agentic coding and cybersecurity," according to the company. "These results, in addition to expert assessments, have led us to conclude last n …
+Read the full story at The Verge.
 
 ---
 
-*Generated by Zeitungsjunge • 7. August 2026 06:04*
+*Generated by Zeitungsjunge • 8. August 2026 05:34*
