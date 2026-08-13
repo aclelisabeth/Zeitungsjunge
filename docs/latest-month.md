@@ -1,50 +1,62 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 12. August 2026 06:07
+**Generated:** 13. August 2026 06:09
 
 ## Report: Last 30 Days
 
 **Total Articles:** 5
 
-### [AI] AI & Machine Learning
-
-1. **Testing ads in ChatGPT**
-   - Source: OpenAI | Date: 11.08.2026
-   - Score: 49.3%
-   - [Read More](https://openai.com/index/testing-ads-in-chatgpt)
-   > OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.
-
-2. **Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT**
-   - Source: The Verge | Date: 12.08.2026
-   - Score: 47.8%
-   - [Read More](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive)
-   > After a former lead writer claimed Saber "replaced me with ChatGPT," CEO Matthew Karch now claims, "Neither Saber nor Unigine have replaced any writers with AI," for the Rideshare "Stimulator" game announced last month, developed by Unigine.
-The writer, Stella Sacco, says differently, however, posting on Bluesky that "I was lead writer on this one! And Saber replaced me with ChatGPT midway through development. All the passenger voices were AI too. Either they changed direction at some point or they're not disclosing it on Steam." 
-Saber describes Rideshare "Stimulator" as an "immersive driving simulation game that puts you behind the wheel …
-Read the full story at The Verge.
-
 ### [TECH] Technology
 
-1. **Hostinger Promo Code: 79% Off for August 2026**
+1. **Lovable confirms new $13.3B valuation, raises another $400M**
+   - Source: TechCrunch | Date: 12.08.2026
+   - Score: 51.0%
+   - [Read More](https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/)
+   > This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.
+
+2. **The White House Is Going to Expand Its AI Policy**
    - Source: Wired | Date: 12.08.2026
-   - Score: 47.0%
-   - [Read More](https://www.wired.com/story/hostinger-coupon-code/)
-   > Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.
+   - Score: 49.2%
+   - [Read More](https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/)
+   > Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.
 
 ### [ECOM] E-Commerce
 
-1. **Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months** [E-COMMERCE]
-   - Source: TechCrunch | Date: 11.08.2026
-   - Score: 51.2%
-   - [Read More](https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/)
-   > Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.
+1. **This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off** [E-COMMERCE]
+   - Source: The Verge | Date: 12.08.2026
+   - Score: 50.2%
+   - [Read More](https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale)
+   > The 8BitDo mechanical keyboard and dual super buttons. | Image: The Verge	
+
+If you’re looking for a mechanical keyboard that can give your desk a touch of retro flair, Amazon has 8BitDo’s Retro Mechanical Keyboard with Dual Super Buttons on sale for $69.99, one of the lowest prices we’ve seen for the bundle. The styling on this keyboard is thorough, with blocky retro legends on the rounded keycaps, and supplementary buttons and detailing to help match the theme.
+8BitDo Retro Mechanical Keyboard
+This mechanical keyboard is designed to look like Nintendo’s original NES controller, with features like two red customizable buttons. Along with Bluetooth support, it also offers a standard tenkeyless layout with clicky, hot-swappable switches.
+
+Where to Buy:
+
+ $99.99 $69.99 at Amazon (N edition)
+
+Despite how it looks on the outside, the internals on this keyboard are modern, with support for Bluetooth, 2.4GHz, and a USB wired connection, and compatibility with both Windows and Android. The 87-key setup is mounted on white Kailh Box switches for that vintage clicky sound, with a volume knob and function keys for quick controls. 
+The included dual super buttons connect to the keyboard, and can be programmed to a variety of key combinations and functions without the need for any additional software. These sizable buttons are great for easy access to shortcuts like copy and paste or media shortcuts, and the bundle includes one, but you can connect up to four to a single keyboard.
+Other deals to consider
+Best Buy has the Aukey 2-in-1 MagSafe Qi2 wireless charging stand discounted to $27.99 (usually $49.99). The stand can charge your iPhone and AirPods at the same time with up to 15W of power, and folds away neatly for travel or to clear desk space.
+You can grab a Samsung Galaxy S25 Edge with 512GB of storage at Woot for $669.99, almost half off the retail price of $1,299.99. The phone stands out with its remarkably thin and light design, and still has recent generation smartphone features, like a SnapDragon 8 Elite chipset, 200MP camera, and 6.7-inch 1440p display with a 120Hz refresh rate. Read our review.
+The Lego Icons Transformers Soundwave set is on sale at Amazon for $168.96, almost matching its all-time low price. This 1,505-piece set can transform between the character’s robot and cassette player modes without any disassembly, and the included sound effects block helps give this kit a fun twist.
 
 2. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
-   - Source: etailment | Date: 12.08.2026
+   - Source: etailment | Date: 13.08.2026
    - Score: 48.6%
    - [Read More](https://etailment.de)
    > Aktuelle Nachrichten, Analysen und Expertenmeinungen zu E-Commerce, Handel, Payment, Logistik und Marketing.
 
+### [AGENT] Agentic & Automation
+
+1. **From assistance to execution: How enterprises put AI to work**
+   - Source: OpenAI | Date: 12.08.2026
+   - Score: 54.2%
+   - [Read More](https://openai.com/index/how-enterprises-put-ai-to-work)
+   > OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.
+
 ---
 
-*Generated by Zeitungsjunge • 12. August 2026 06:07*
+*Generated by Zeitungsjunge • 13. August 2026 06:09*
