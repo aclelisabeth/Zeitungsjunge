@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 18. August 2026 05:19
+**Generated:** 19. August 2026 05:20
 
 ## Report: Today
 
@@ -10,51 +10,68 @@
 
 1. **The builder’s guide to GPT‑5.6**
    - Source: OpenAI | Date: 13.08.2026
-   - Score: 51.0%
+   - Score: 50.2%
    - [Read More](https://openai.com/index/builders-guide-to-gpt-5-6)
    > Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.
 
-2. **US vaccination rates fall again as exemptions continue to rise, CDC data shows**
-   - Source: ArsTechnica | Date: 17.08.2026
-   - Score: 45.3%
-   - [Read More](https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/)
-   > Again, the CDC did not publish a full report and instead simply put the data online.
-
-### [TECH] Technology
-
-1. **Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic**
-   - Source: TechCrunch | Date: 17.08.2026
-   - Score: 51.1%
-   - [Read More](https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/)
-   > Sonic Fire Tech raised its new funding to help get its sound-powered fire protection system into everything from commercial kitchens to apartment buildings.
-
-2. **WiiM’s capable HomePod-esque smart speaker is almost $50 off**
-   - Source: The Verge | Date: 17.08.2026
-   - Score: 47.5%
-   - [Read More](https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale)
-   > The smart speaker market is more or less dominated by major tech companies: Apple, Google, Sonos, and Amazon. But WiiM’s powerful 100W Sound smart speaker is an attractive alternative because it’s not locked down to play nicely with select music services. It supports over 20 services, and it sports Wi-Fi 6E, Bluetooth 5.3 and ethernet, giving you multiple ways to connect. Additionally, it taps into standards used by other speakers, including Chromecast, Spotify Connect, DLNA, Alexa Cast, and more (AirPlay 2 is off the table, though its Pro Music Streamer supports it). In other words, it can be added to multi-room setups you may already have in the Google Home or Amazon Echo ecosystem.
-The black and white versions are rarely discounted, but they’re each 15 percent off at Amazon and directly through WiiM. Normally $299.99, they’re $254.15.
-WiiM Sound Smart Speaker
-
-Where to Buy:
-
- $299 $254.15 at Amazon
- $299 $254.15 at WiiM
-
-WiiM also makes the Sound Lite, which is also discounted by 15 percent. Originally $229, it’s $194.65 at Amazon and WiiM. It has the same dimensions, connectivity and performance output as the Sound (plus, the ability to use AI to adapt its sound quality to your room), but it lacks the 1.8-inch touch display that can show off album art, and there’s no voice remote included — those are around $33. That said, you can wirelessly pair these speakers and other recent WiiM products to each other to build a surround sound setup. Read more in our coverage.
-Other great Verge-approved deals
-All colors of Apple’s AirPods Max 2 over-ear, noise-canceling headphones are down to $429 at Best Buy as part of its 60-year anniversary sale. Originally $549, this sale brings them down to their second-best price, only bested by Prime Day’s $399 deal. Amazon has fewer colors available at this price. In our review, John Higgins praised their improved sound quality and noise cancellation effect, but wished certain things about it had changed. At their original price, he would have liked a proper carrying case included with purchase. But, at least with this discount, you can get a nicer case with the cash you’ll save.
-Look, sometimes you just need a cheap TV, not an amazing one. If that’s you, there might be a 58-inch Hisense 4K QLED Roku TV that’ll do. Normally $399.99, the QD5 is down to $189.99 at Best Buy. It doesn’t seem particularly impressive, but it’s a feature-packed TV at a good price. Beyond having built-in Roku guts for streaming movies and TV shows, it supports Dolby Vision, HDR 10 and HLG, and its game mode supports variable refresh rate and auto low latency mode (though, it tops out at 60Hz refresh rate).
-We highlighted a deal on the Godox ES45 key light recently, and the deal is back on at Amazon. The $20 off sale brings the powerful key light setup down to $119, and while it doesn’t match Elgato’s Key Light one-for-one with specs, it’s a great value that costs $60 less. It has adjustable color temperature and brightness, and its settings can be easily tweaked with its controller, which gets recharged by sticking magnetically to the back of the light. A key light is great for adding a strong light source to your room. It can be used to light you directly, or aim it at the wall to be softly illuminated in light that bounces off.
+2. **OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue**
+   - Source: Wired | Date: 18.08.2026
+   - Score: 49.1%
+   - [Read More](https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/)
+   > The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.
 
 ### [ECOM] E-Commerce
 
-1. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
-   - Source: etailment | Date: 18.08.2026
+1. **Samsung’s Galaxy Buds 3 Pro are almost half off today** [E-COMMERCE]
+   - Source: The Verge | Date: 18.08.2026
+   - Score: 50.1%
+   - [Read More](https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale)
+   > The Samsung Galaxy Buds 3 Pro.	
+
+If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99. These well-equipped earbuds feature excellent sound quality, crisp transparency mode, and a clear microphone for taking calls on the go.
+Samsung Galaxy Buds 3 Pro
+The Galaxy Buds 3 Pro are Samsung’s best-sounding wireless earbuds yet. They have a stemmed design similar to the AirPods Pro, but even if their design is a little bland, the Buds 3 Pro make up for it with great call quality, useful voice commands, and more.
+
+Where to Buy:
+
+ $249.99 at Amazon
+ $249.99 $169.88 at Walmart
+ $249.99 $149.99 at Best Buy
+
+When we reviewed the Buds 3 Pro, Chris Welch was particularly impressed by the audio quality, which he described as “full and detailed” with strong bass and treble. One standout feature are voice commands, which let you quickly adjust the volume or control media playback by simply speaking the command, no wake phrase required. They have excellent battery life for the category, and IP57 water and dust resistance.
+Read our Samsung Galaxy Buds 3 Pro review.
+
+
+  window.HYPE_DESK_CONFIG = {
+    productImageUrl: "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/04_foldable_phone_16x9.png",
+    productImageAlt: "Samsung Galaxy Z Fold7 Unlocked",
+    productTitle: "Samsung Galaxy Z Fold7 Unlocked",
+    shortDescription: "Two screens, one device, one price that makes it worth it.",
+    longDescription:
+      "The Z Fold7 is Samsung's most ambitious phone and the refurbished market is where it becomes genuinely attainable. Unfold it to an 8-inch Dynamic AMOLED display for real multitasking, fold it back down and it fits in your pocket like a normal phone. The Snapdragon 8 Elite chip and 200MP main camera with 30x Space Zoom make this one of the most capable devices available at any price. Unlocked for any carrier, professionally refurbished, and backed by a one-year warranty and 30-day return policy through Back Market.",
+    purchaseUrl: "https://www.awin1.com/cread.php?awinmid=18275&awinaffid=173843&campaign=VergeHypeDesk&clickref=AugustArticle3&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fsamsung-galaxy-z-fold7-256-gb-blue-unlocked%2F5cad4a8c-1036-4537-b6ae-194f4de45135%3Fl%3D12",
+    purchaseLinkText: "Buy at Back Market"
+  };
+
+
+
+Other deals to consider
+The DJI Osmo Pocket 3 is discounted to $399 at Amazon, $100 off its usual price. This compact vlogging camera is mounted to a handheld gimbal, helping ensure steady shots and crisp video even while walking or moving around. It’s capable of shooting 4K video at 120 frames per second, and is surprisingly sharp for a small and budget-friendly camera. Read our hands-on.
+Amazon is selling four packs of Philips Hue smart plugs for $77.48 total, where each unit would normally cost $37.99. These compact plugs add connectivity to almost anything you’d normally plug into a wall, with support for a direct Bluetooth connection, or smart home integration if you also have a Philips Hue Bridge.
+You can grab the SteelSeries Arctis Nova Pro Wireless from Woot for $239.99 (usually $379.99) and save an additional $5 once per Woot account by using the code WOOTGAMING at checkout. This premium gaming headset features multi-system connectivity through the USB hub, active noise canceling, and swappable batteries for nearly endless gaming. Read our review.
+
+2. **TikTok explores peer-to-peer payments via DMs, report says** [E-COMMERCE]
+   - Source: TechCrunch | Date: 18.08.2026
+   - Score: 48.7%
+   - [Read More](https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/)
+   > If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.
+
+3. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
+   - Source: etailment | Date: 19.08.2026
    - Score: 48.6%
    - [Read More](https://etailment.de)
    > Aktuelle Nachrichten, Analysen und Expertenmeinungen zu E-Commerce, Handel, Payment, Logistik und Marketing.
 
 ---
 
-*Generated by Zeitungsjunge • 18. August 2026 05:19*
+*Generated by Zeitungsjunge • 19. August 2026 05:20*
