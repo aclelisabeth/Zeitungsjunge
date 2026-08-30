@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 29. August 2026 11:25
+**Generated:** 30. August 2026 10:11
 
 ## Report: Last 30 Days
 
@@ -10,38 +10,28 @@
 
 1. **a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’**
    - Source: TechCrunch | Date: 28.08.2026
-   - Score: 50.7%
+   - Score: 49.9%
    - [Read More](https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/)
    > The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI.
 
-2. **Supporting Thailand’s next generation of AI startups**
+2. **Musicians-turned-detectives are hunting for AI grifters**
+   - Source: The Verge | Date: 29.08.2026
+   - Score: 49.7%
+   - [Read More](https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai)
+   > As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology until increasing public scrutiny forced them to tell the truth. 
+For musicians - especially those creating art in technologically-focused spaces like electronic dance music - the increasingly complicated question of what is "real" and what isn't feels particularly urgent and personal …
+Read the full story at The Verge.
+
+3. **Supporting Thailand’s next generation of AI startups**
    - Source: OpenAI | Date: 28.08.2026
-   - Score: 48.8%
+   - Score: 48.0%
    - [Read More](https://openai.com/index/supporting-next-generation-ai-startups-thailand)
    > OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.
 
 ### [ECOM] E-Commerce
 
-1. **Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate** [E-COMMERCE]
-   - Source: The Verge | Date: 28.08.2026
-   - Score: 49.9%
-   - [Read More](https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale)
-   > Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch version. While OLED televisions are great for deep black levels and great contrast, their high price point may be off-putting to some buyers. Mini-LED TVs like this TCL are a more wallet-friendly option, and have high brightness while also supporting features like Quantum Dots for vivid colors.
-TCL QM7L
-
-Where to Buy:
-
- $997.99 $797.99 at Amazon (55-inch)
- $1499.99 $899.99 at Best Buy (65-inch)
-
-The QM7L also includes the features you’d expect from a premium television. The 144Hz refresh rate is supported by Variable Refresh Rate to reduce tearing and input lag while gaming, with HDR and Dolby Vision support for great image quality and contrast. The screens have Google TV onboard, with support for AirPlay 2 in case you want to stream from an Apple device.
-Other deals to consider
-Star Trek fans can pick up the Picard Legacy Collection on Blu-Ray for $137.49 from Amazon, a thirty percent discount from the normal price. This 54-disc set covers the entirety of Patrick Stewart’s legendary role as Captain Jean-Luc Picard, including all seven seasons of The Next Generation, the four movies that accompanied the series, and all three seasons of Picard.
-The 5,000mAh Anker MagGo power bank is on sale for $29.99 (usually $49.95) at Amazon. This MagSafe-compatible battery pack charges devices for up to 15W wireless charging, or 20W through the USB-C port. 
-Woot has the Belkin Thunderbolt 3 Dock Pro on sale for $64.99, a 64 percent discount from its usual price of $179.99, and you can save an extra 25 percent by using code WOOTDOCK at checkout. This dock has a healthy selection of ports, including five USB-A, two Thunderbolt 3, and DisplayPort 1.4, giving laptops with limited connectivity access to plenty of peripherals and an extra screen.
-
-2. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
-   - Source: etailment | Date: 29.08.2026
+1. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
+   - Source: etailment | Date: 30.08.2026
    - Score: 48.6%
    - [Read More](https://etailment.de)
    > Aktuelle Nachrichten, Analysen und Expertenmeinungen zu E-Commerce, Handel, Payment, Logistik und Marketing.
@@ -50,10 +40,10 @@ Woot has the Belkin Thunderbolt 3 Dock Pro on sale for $64.99, a 64 percent disc
 
 1. **Anthropic's new hardware standard lets AI agents control the physical world**
    - Source: ArsTechnica | Date: 27.08.2026
-   - Score: 49.2%
+   - Score: 48.4%
    - [Read More](https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/)
    > Standardized driver interface aims to let devices talk to AI and each other.
 
 ---
 
-*Generated by Zeitungsjunge • 29. August 2026 11:25*
+*Generated by Zeitungsjunge • 30. August 2026 10:11*
