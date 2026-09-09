@@ -1,51 +1,51 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 8. September 2026 09:14
+**Generated:** 9. September 2026 09:18
 
 ## Report: Last 30 Days
 
 **Total Articles:** 5
 
+### [AI] AI & Machine Learning
+
+1. **Meta bets on AI agent Muse to catch up in AI race**
+   - Source: The Verge | Date: 08.09.2026
+   - Score: 52.5%
+   - [Read More](https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race)
+   > Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch up to rivals like OpenAI, Anthropic, and Google. 
+Muse is a "personal AI agent" designed to help out with everyday tasks and projects, like online shopping, sending emails, and planning a trip. Once given a goal, Meta says Muse can work on its own, opening a browser, filling out forms, and even negotiating on users' behalf. F …
+Read the full story at The Verge.
+
 ### [TECH] Technology
 
-1. **Seattle Times and Newsday sue OpenAI and Microsoft for infringement**
-   - Source: The Verge | Date: 06.09.2026
-   - Score: 51.8%
-   - [Read More](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)
-   > The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhoto via Getty Images	
-
-The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by The New York Times, Ziff Davis, Merriam-Webster, and Encyclopedia Britannica against OpenAI.
-The Seattle Times and Newsday also named Microsoft as a defendant in the suit, since Copilot is built on OpenAI's technology. The publishers join a list of nearly 400 local newspapers that recently sued the two  …
-Read the full story at The Verge.
+1. **CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks**
+   - Source: TechCrunch | Date: 09.09.2026
+   - Score: 53.8%
+   - [Read More](https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/)
+   > UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.
 
 ### [ECOM] E-Commerce
 
 1. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
-   - Source: etailment | Date: 08.09.2026
+   - Source: etailment | Date: 09.09.2026
    - Score: 48.6%
    - [Read More](https://etailment.de)
    > Aktuelle Nachrichten, Analysen und Expertenmeinungen zu E-Commerce, Handel, Payment, Logistik und Marketing.
 
 ### [AGENT] Agentic & Automation
 
-1. **Authors push back as publishers and agents make claims on Anthropic settlement**
-   - Source: TechCrunch | Date: 06.09.2026
-   - Score: 50.2%
-   - [Read More](https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/)
-   > Authors say publishers seem to be claiming more than their fair share of settlement payments.
+1. **How GPT-5.6 Sol helps run quantum computing experiments**
+   - Source: OpenAI | Date: 08.09.2026
+   - Score: 49.4%
+   - [Read More](https://openai.com/index/codex-quantum-computing-experiments)
+   > See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.
 
-2. **Research acceleration: The view inside OpenAI**
-   - Source: OpenAI | Date: 06.09.2026
-   - Score: 48.3%
-   - [Read More](https://openai.com/index/research-acceleration-view-inside-openai)
-   > Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.
-
-3. **ICE Wants to Know Everyone Who Bought a Certain Green Beanie From REI in the Last 2 Years**
-   - Source: Wired | Date: 04.09.2026
-   - Score: 46.2%
-   - [Read More](https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/)
-   > Homeland Security Investigations agents hit the outdoor retailer with a controversial subpoena as part of a dragnet search for the identities of protesters who entered a Minnesota church in March.
+2. **Muse, Meta’s New Personal AI Agent, Needs You to Trust It**
+   - Source: Wired | Date: 08.09.2026
+   - Score: 46.5%
+   - [Read More](https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/)
+   > Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.
 
 ---
 
-*Generated by Zeitungsjunge • 8. September 2026 09:14*
+*Generated by Zeitungsjunge • 9. September 2026 09:18*
