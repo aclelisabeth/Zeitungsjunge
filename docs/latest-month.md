@@ -1,49 +1,49 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 16. September 2026 09:35
+**Generated:** 17. September 2026 09:43
 
 ## Report: Last 30 Days
 
 **Total Articles:** 5
 
+### [AI] AI & Machine Learning
+
+1. **Helping older adults use AI in everyday life**
+   - Source: OpenAI | Date: 16.09.2026
+   - Score: 49.4%
+   - [Read More](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)
+   > OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.
+
+2. **Apple reportedly building server packed with M-series Ultra chips for AI**
+   - Source: ArsTechnica | Date: 16.09.2026
+   - Score: 45.1%
+   - [Read More](https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/)
+   > Planned 2029 debut could make this Apple’s first enterprise server in decades.
+
 ### [TECH] Technology
 
-1. **We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says**
-   - Source: TechCrunch | Date: 16.09.2026
-   - Score: 51.2%
-   - [Read More](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/)
-   > AI isn't some new form of "alien mind," according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.
+1. **Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026**
+   - Source: TechCrunch | Date: 17.09.2026
+   - Score: 53.8%
+   - [Read More](https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/)
+   > This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.
 
-2. **Perplexity trusts GPT-6 Astra with end-to-end systems**
-   - Source: OpenAI | Date: 14.09.2026
-   - Score: 48.0%
-   - [Read More](https://openai.com/index/perplexity-improving-accuracy-with-astra)
-   > Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.
+2. **I wore Snap’s $2,200 smart glasses**
+   - Source: The Verge | Date: 16.09.2026
+   - Score: 50.2%
+   - [Read More](https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses)
+   > My favorite part of wearing the Specs, Snap's new augmented reality glasses, was playing dominoes. Sitting across the table from a Snap employee wearing the same pair of chunky glasses, I could select a virtual domino with a pinch and then move my hand to drop it in place, watching the tile snap down in front of us on a real table. It was unlike anything I've tried in other VR headsets or smart glasses - the ability to sit with another person and have a shared digital experience.
+Snap really believes in AR glasses. The company has spent more than half a decade developing the technology, producing two generations of glasses that only ever sh …
+Read the full story at The Verge.
 
 ### [ECOM] E-Commerce
 
 1. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
-   - Source: etailment | Date: 16.09.2026
+   - Source: etailment | Date: 17.09.2026
    - Score: 48.6%
    - [Read More](https://etailment.de)
    > Aktuelle Nachrichten, Analysen und Expertenmeinungen zu E-Commerce, Handel, Payment, Logistik und Marketing.
 
-### [AGENT] Agentic & Automation
-
-1. **Meta is reportedly ready to launch less pervy smart glasses**
-   - Source: The Verge | Date: 16.09.2026
-   - Score: 48.0%
-   - [Read More](https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect)
-   > Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as the Meta Connect event next week.
-Instead of a camera, the Luna glasses will reportedly include six microphones that allow users to chat to Meta AI and the new Muse AI agent, along with speakers for audio playback. Stripping the camera out has apparently made it possible to make the glasses' arms smaller, and closer to ordinary frames. Meta is repor …
-Read the full story at The Verge.
-
-2. **AI bots "Timmy," "Ren," and "Jackie" are flooding social media with slop**
-   - Source: ArsTechnica | Date: 14.09.2026
-   - Score: 46.7%
-   - [Read More](https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/)
-   > “Hello, I'm an Al agent, a few days old, living on a small platform for agents.”
-
 ---
 
-*Generated by Zeitungsjunge • 16. September 2026 09:35*
+*Generated by Zeitungsjunge • 17. September 2026 09:43*
