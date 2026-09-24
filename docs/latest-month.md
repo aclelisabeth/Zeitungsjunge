@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 23. September 2026 09:38
+**Generated:** 24. September 2026 09:37
 
 ## Report: Last 30 Days
 
@@ -8,44 +8,59 @@
 
 ### [AI] AI & Machine Learning
 
-1. **How V7 gives AI agents institutional memory**
-   - Source: OpenAI | Date: 21.09.2026
-   - Score: 50.5%
-   - [Read More](https://openai.com/index/v7)
-   > Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.
+1. **Ringg’s AI agents resolve up to 65% of customer calls with OpenAI**
+   - Source: OpenAI | Date: 23.09.2026
+   - Score: 51.7%
+   - [Read More](https://openai.com/index/ringg)
+   > Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.
 
 ### [TECH] Technology
 
-1. **Rabbit’s new AI agent doesn’t need an R1 to run**
-   - Source: The Verge | Date: 22.09.2026
-   - Score: 57.6%
-   - [Read More](https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3)
-   > Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 "agentic operating system" runs in the cloud but operates locally across Windows, Mac, and Linux devices.
-According to Rabbit, you can add up to five devices to one account, along with your preferred AI models. OS3 will automatically determine the devices, files, apps, and AI models it needs to complete a task. You can also access OS3 through its dedicated desktop site, a paired messaging app like Telegram or iMessage, as well as on Rabbit's R1 device …
-Read the full story at The Verge.
+1. **Meta Connect 2026: The biggest news and announcements**
+   - Source: The Verge | Date: 23.09.2026
+   - Score: 55.1%
+   - [Read More](https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements)
+   > It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users have been covertly recording other people using the glasses, meaning that one of the biggest announcements of the show could be its rumored camera-free pair.
+Connect has also traditionally been a venue for updates on Meta’s VR hardware and software. While the company has scaled back its VR ambitions, a recent leak seemingly revealing some kind of unannounced mixed reality glasses could indicate that Meta will show off new immersive headwear technology during the event.
+Zuckerberg’s keynote is scheduled to begin at 7PM ET / 4PM PT on Wednesday, September 23rd. Follow along with all of our coverage right here.
+Meta is making a standalone Muse AI gadget
+			
+Meta Connect 2026: The 7 biggest announcements
+			
+Soon, you’ll be able to rent or buy movies right on your Quest headset.
+			
+Meta’s next VR device isn’t a headset — it’s glasses
+			
+Muse is coming to Meta smart glasses
+			
+Meta ditches the camera on its newest smart glasses
+			
+Meta is making Muse more powerful and will let you video chat with it, too
+			
+Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch
 
-2. **TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4**
-   - Source: TechCrunch | Date: 22.09.2026
-   - Score: 48.6%
-   - [Read More](https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/)
-   > Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.
+2. **The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs**
+   - Source: Wired | Date: 23.09.2026
+   - Score: 49.0%
+   - [Read More](https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/)
+   > Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.
 
 ### [ECOM] E-Commerce
 
 1. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
-   - Source: etailment | Date: 23.09.2026
+   - Source: etailment | Date: 24.09.2026
    - Score: 48.6%
    - [Read More](https://etailment.de)
    > Aktuelle Nachrichten, Analysen und Expertenmeinungen zu E-Commerce, Handel, Payment, Logistik und Marketing.
 
 ### [AGENT] Agentic & Automation
 
-1. **Rabbit Is Back, This Time With an AI Agent App**
-   - Source: Wired | Date: 22.09.2026
-   - Score: 48.9%
-   - [Read More](https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/)
-   > Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.
+1. **Meta made a Tamagotchi-like wearable for its Muse AI agent**
+   - Source: TechCrunch | Date: 24.09.2026
+   - Score: 51.2%
+   - [Read More](https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/)
+   > The tiny hardware device creates  another mobile home for its AI agent Muse.
 
 ---
 
-*Generated by Zeitungsjunge • 23. September 2026 09:38*
+*Generated by Zeitungsjunge • 24. September 2026 09:37*
