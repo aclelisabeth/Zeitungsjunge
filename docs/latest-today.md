@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 24. September 2026 09:37
+**Generated:** 25. September 2026 09:54
 
 ## Report: Today
 
@@ -8,59 +8,46 @@
 
 ### [AI] AI & Machine Learning
 
-1. **Ringg’s AI agents resolve up to 65% of customer calls with OpenAI**
+1. **PrismML brings its tiny LLMs to Qualcomm-powered smart glasses**
+   - Source: TechCrunch | Date: 24.09.2026
+   - Score: 51.0%
+   - [Read More](https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/)
+   > Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.
+
+2. **Ringg’s AI agents resolve up to 65% of customer calls with OpenAI**
    - Source: OpenAI | Date: 23.09.2026
-   - Score: 51.7%
+   - Score: 50.9%
    - [Read More](https://openai.com/index/ringg)
    > Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.
 
-### [TECH] Technology
-
-1. **Meta Connect 2026: The biggest news and announcements**
-   - Source: The Verge | Date: 23.09.2026
-   - Score: 55.1%
-   - [Read More](https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements)
-   > It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users have been covertly recording other people using the glasses, meaning that one of the biggest announcements of the show could be its rumored camera-free pair.
-Connect has also traditionally been a venue for updates on Meta’s VR hardware and software. While the company has scaled back its VR ambitions, a recent leak seemingly revealing some kind of unannounced mixed reality glasses could indicate that Meta will show off new immersive headwear technology during the event.
-Zuckerberg’s keynote is scheduled to begin at 7PM ET / 4PM PT on Wednesday, September 23rd. Follow along with all of our coverage right here.
-Meta is making a standalone Muse AI gadget
-			
-Meta Connect 2026: The 7 biggest announcements
-			
-Soon, you’ll be able to rent or buy movies right on your Quest headset.
-			
-Meta’s next VR device isn’t a headset — it’s glasses
-			
-Muse is coming to Meta smart glasses
-			
-Meta ditches the camera on its newest smart glasses
-			
-Meta is making Muse more powerful and will let you video chat with it, too
-			
-Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch
-
-2. **The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs**
-   - Source: Wired | Date: 23.09.2026
-   - Score: 49.0%
-   - [Read More](https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/)
-   > Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.
+3. **Why No One Wants to Date Tech Bros**
+   - Source: Wired | Date: 24.09.2026
+   - Score: 48.7%
+   - [Read More](https://www.wired.com/story/tech-bros-dating-palantir-tesla/)
+   > Once seen as nerdy but harmless innovators, men in tech are now widely regarded as red-pilled Elon Musk wannabes. It’s made getting laid a whole lot harder.
 
 ### [ECOM] E-Commerce
 
 1. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
-   - Source: etailment | Date: 24.09.2026
+   - Source: etailment | Date: 25.09.2026
    - Score: 48.6%
    - [Read More](https://etailment.de)
    > Aktuelle Nachrichten, Analysen und Expertenmeinungen zu E-Commerce, Handel, Payment, Logistik und Marketing.
 
-### [AGENT] Agentic & Automation
+### [PIM] PIM & Data Management
 
-1. **Meta made a Tamagotchi-like wearable for its Muse AI agent**
-   - Source: TechCrunch | Date: 24.09.2026
-   - Score: 51.2%
-   - [Read More](https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/)
-   > The tiny hardware device creates  another mobile home for its AI agent Muse.
+1. **Jensen Huang talks about AI and climate change like a supervillain**
+   - Source: The Verge | Date: 24.09.2026
+   - Score: 50.0%
+   - [Read More](https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain)
+   > As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts "an enormous amount of pain and suffering" first.  
+The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the same accelerationist spin we've seen from a variety of tech leaders as well as President Donald Trump. They promise that AI will be such a gift to humanity that it's worth the damage caused by data centers currently running on dirty energy. 
+
+Huang's extreme level of privilege is glaring
+
+Huang's extreme level of privilege is glaring in the interview. He …
+Read the full story at The Verge.
 
 ---
 
-*Generated by Zeitungsjunge • 24. September 2026 09:37*
+*Generated by Zeitungsjunge • 25. September 2026 09:54*
