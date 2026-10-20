@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 19. Oktober 2026 10:23
+**Generated:** 20. Oktober 2026 09:43
 
 ## Report: Last 7 Days
 
@@ -8,42 +8,52 @@
 
 ### [AI] AI & Machine Learning
 
-1. **Amp puts AI agents to work beyond code with OpenAI models**
-   - Source: OpenAI | Date: 14.10.2026
-   - Score: 48.4%
-   - [Read More](https://openai.com/index/amp-beyond-coding)
-   > See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.
+1. **Advancing coding in low‑resource programming languages**
+   - Source: OpenAI | Date: 19.10.2026
+   - Score: 51.7%
+   - [Read More](https://openai.com/index/low-resource-programming-languages)
+   > Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.
 
 ### [TECH] Technology
 
-1. **Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card**
+1. **Laplace Intelligence red-teams robots and self-driving cars before they hit the real world**
+   - Source: TechCrunch | Date: 19.10.2026
+   - Score: 53.3%
+   - [Read More](https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/)
+   > University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.
+
+2. **Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card**
    - Source: Wired | Date: 19.10.2026
-   - Score: 49.5%
+   - Score: 48.6%
    - [Read More](https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/)
    > The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.
 
-2. **Tesla turns to 50-year-old stunt technology as it tries to Roadster again**
-   - Source: ArsTechnica | Date: 16.10.2026
-   - Score: 48.1%
-   - [Read More](https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/)
-   > If you want to make a car spin in the air, compressed gas is a good way to do it.
-
 ### [ECOM] E-Commerce
 
-1. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
-   - Source: etailment | Date: 19.10.2026
+1. **Sony’s best noise-canceling earbuds are nearly $100 off today only** [E-COMMERCE]
+   - Source: The Verge | Date: 19.10.2026
+   - Score: 52.5%
+   - [Read More](https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only)
+   > Sony’s WF-1000XM6 are on sale in black today only. | Image: Sony	
+
+For a very limited time, Sony’s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&H Photo is selling Sony’s latest WF-1000XM6 in black for an all-time low of $238 ($92 off) at checkout. Other retailers aren’t currently offering a discount on the XM6.
+Sony WF-1000XM6 earbuds
+
+Where to Buy:
+
+ $329.99 $238 at B&H Photo
+
+The XM6 are a solid upgrade over their predecessor and easily amongst the best noise-canceling wireless earbuds on the market. In his review, John Higgins noted that they do a better job of tuning out other people’s conversations than any other earbuds he’s tested. Sony has also improved the bone-conduction sensor and added AI-powered microphones that help keep your voice clear during calls, even in noisy environments.
+The XM6 earbuds also deliver clean, balanced sound with impressive bass, raising the bar of what we expect with Sony’s WF-1000XM series. If you prefer to customize your listening experience, Sony’s Sound Connect app offers plenty of customization options, including the ability to adjust how much surrounding noise you hear without removing the earbuds. You can also personalize the touch controls.
+The XM6 earbuds support Sony’s LDAC codec, which delivers higher-quality audio from compatible Android devices, too. New in the latest set is a listening mode that makes music sound more like background audio playing in a cafe, allowing you to listen to your favorite music without getting too distracted from whatever you’re doing.
+Read our Sony WF-1000XM6 review.
+
+2. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
+   - Source: etailment | Date: 20.10.2026
    - Score: 48.6%
    - [Read More](https://etailment.de)
    > Aktuelle Nachrichten, Analysen und Expertenmeinungen zu E-Commerce, Handel, Payment, Logistik und Marketing.
 
-### [AGENT] Agentic & Automation
-
-1. **India becomes the latest country to report rogue AI agent activity**
-   - Source: TechCrunch | Date: 16.10.2026
-   - Score: 49.3%
-   - [Read More](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
-   > The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.
-
 ---
 
-*Generated by Zeitungsjunge • 19. Oktober 2026 10:23*
+*Generated by Zeitungsjunge • 20. Oktober 2026 09:43*
