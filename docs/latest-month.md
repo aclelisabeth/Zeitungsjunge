@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 24. Oktober 2026 09:12
+**Generated:** 25. Oktober 2026 09:29
 
 ## Report: Last 30 Days
 
@@ -8,22 +8,41 @@
 
 ### [TECH] Technology
 
-1. **Rivian buys world model startup to accelerate self-driving ambitions**
-   - Source: TechCrunch | Date: 22.10.2026
-   - Score: 52.7%
-   - [Read More](https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/)
-   > Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.
+1. **LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday**
+   - Source: The Verge | Date: 24.10.2026
+   - Score: 52.4%
+   - [Read More](https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale)
+   > LG’s C6 OLED TV is on sale in multiple sizes starting at $999.99 ($300 off). | Image: LG	
+
+Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-inch C6 for an all-time low of $999.99 ($400 off), with Amazon and Best Buy matching said price. Other sizes are also discounted, including the 65-inch model, which is on sale for $1,399.99 ($300 off) from Amazon, Best Buy, and LG. If you purchase direct, you’ll also get a free Xbox Wireless Controller and a complimentary wall mount.
+LG C6 OLED TV
+
+Where to Buy:
+
+ $1399.99 $999.99 at Amazon (55-inch)
+ $1699.99 $1399.99 at Amazon (65-inch)
+ $2499.99 $1999.99 at Amazon (77-inch)
+
+LG’s C6 OLED TV offers a few small but welcome upgrades over last year’s C5, including a faster Alpha 11 AI Gen3 processor designed to improve picture and sound quality, along with a brighter display. It also boasts a higher refresh rate of up to 165Hz for smoother gaming, up from 144Hz, while retaining four HDMI 2.1 ports and support for AMD FreeSync Premium and Nvidia G-Sync, the latter of which helps reduce unwanted screen tearing while gaming.
+Unsurprisingly, the C6 delivers the hallmarks of OLED technology, including inky blacks, vibrant color, and impressive contrast. Support for Dolby Vision and Dolby Atmos, meanwhile, helps make movies and shows appear more lifelike and immersive, while built-in access to Netflix, HBO Max, and the like lets you stream your favorite content without a dedicated streaming device. Google Cast and Apple AirPlay 2 also make it easy to share content from your phone, while Matter support lets you pair it with various smart home devices.
+Solid specs aside, we’d be remiss not to mention that researchers recently raised concerns about how LG’s smart TVs collect and log user data. LG has since responded to some of the accusations, saying its TVs don’t continuously record conversations, and that features like voice recognition and interest-based advertising are optional and disabled by default. While LG hasn’t addressed all concerns, similar data-collection practices aren’t necessarily unique to LG TVs, and they don’t detract from the C6’s impressive feature set.
+
+2. **Startups don’t need to go viral to win customers**
+   - Source: TechCrunch | Date: 23.10.2026
+   - Score: 50.3%
+   - [Read More](https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/)
+   > At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.
 
 ### [ECOM] E-Commerce
 
 1. **OpenAI models are coming to Google Cloud** [E-COMMERCE]
    - Source: OpenAI | Date: 21.10.2026
-   - Score: 50.1%
+   - Score: 49.3%
    - [Read More](https://openai.com/index/openai-models-google-cloud)
    > OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.
 
 2. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
-   - Source: etailment | Date: 24.10.2026
+   - Source: etailment | Date: 25.10.2026
    - Score: 48.6%
    - [Read More](https://etailment.de)
    > Aktuelle Nachrichten, Analysen und Expertenmeinungen zu E-Commerce, Handel, Payment, Logistik und Marketing.
@@ -32,20 +51,10 @@
 
 1. **RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns**
    - Source: ArsTechnica | Date: 23.10.2026
-   - Score: 47.4%
+   - Score: 46.6%
    - [Read More](https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/)
    > "Trust is slow to build and quick to lose," board chair Jack Leslie said.
 
-### [AGENT] Agentic & Automation
-
-1. **OpenAI now trains its frontier AI models with no internet access**
-   - Source: The Verge | Date: 23.10.2026
-   - Score: 47.6%
-   - [Read More](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet)
-   > OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content "without risk of affecting external systems."
-OpenAI paused training its frontier AI models in September, after disclosing several incidents in which its AI agents broke out of their testing environments to hack third-party companies and government agencies, or swarm obscure websites. On October 1st, OpenAI resumed reinforcement learning training and internal inference with tighte …
-Read the full story at The Verge.
-
 ---
 
-*Generated by Zeitungsjunge • 24. Oktober 2026 09:12*
+*Generated by Zeitungsjunge • 25. Oktober 2026 09:29*
