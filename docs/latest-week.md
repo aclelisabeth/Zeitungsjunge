@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 25. Oktober 2026 09:29
+**Generated:** 26. Oktober 2026 10:38
 
 ## Report: Last 7 Days
 
@@ -8,53 +8,42 @@
 
 ### [TECH] Technology
 
-1. **LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday**
-   - Source: The Verge | Date: 24.10.2026
-   - Score: 52.4%
-   - [Read More](https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale)
-   > LG’s C6 OLED TV is on sale in multiple sizes starting at $999.99 ($300 off). | Image: LG	
+1. **AI delivers ‘zero financial payoff’ to most companies, Apollo economist says**
+   - Source: TechCrunch | Date: 25.10.2026
+   - Score: 53.4%
+   - [Read More](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+   > "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."
 
-Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-inch C6 for an all-time low of $999.99 ($400 off), with Amazon and Best Buy matching said price. Other sizes are also discounted, including the 65-inch model, which is on sale for $1,399.99 ($300 off) from Amazon, Best Buy, and LG. If you purchase direct, you’ll also get a free Xbox Wireless Controller and a complimentary wall mount.
-LG C6 OLED TV
-
-Where to Buy:
-
- $1399.99 $999.99 at Amazon (55-inch)
- $1699.99 $1399.99 at Amazon (65-inch)
- $2499.99 $1999.99 at Amazon (77-inch)
-
-LG’s C6 OLED TV offers a few small but welcome upgrades over last year’s C5, including a faster Alpha 11 AI Gen3 processor designed to improve picture and sound quality, along with a brighter display. It also boasts a higher refresh rate of up to 165Hz for smoother gaming, up from 144Hz, while retaining four HDMI 2.1 ports and support for AMD FreeSync Premium and Nvidia G-Sync, the latter of which helps reduce unwanted screen tearing while gaming.
-Unsurprisingly, the C6 delivers the hallmarks of OLED technology, including inky blacks, vibrant color, and impressive contrast. Support for Dolby Vision and Dolby Atmos, meanwhile, helps make movies and shows appear more lifelike and immersive, while built-in access to Netflix, HBO Max, and the like lets you stream your favorite content without a dedicated streaming device. Google Cast and Apple AirPlay 2 also make it easy to share content from your phone, while Matter support lets you pair it with various smart home devices.
-Solid specs aside, we’d be remiss not to mention that researchers recently raised concerns about how LG’s smart TVs collect and log user data. LG has since responded to some of the accusations, saying its TVs don’t continuously record conversations, and that features like voice recognition and interest-based advertising are optional and disabled by default. While LG hasn’t addressed all concerns, similar data-collection practices aren’t necessarily unique to LG TVs, and they don’t detract from the C6’s impressive feature set.
-
-2. **Startups don’t need to go viral to win customers**
-   - Source: TechCrunch | Date: 23.10.2026
-   - Score: 50.3%
-   - [Read More](https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/)
-   > At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.
+2. **r/opensource just banned AI, non-English speakers, and more**
+   - Source: The Verge | Date: 25.10.2026
+   - Score: 47.3%
+   - [Read More](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban)
+   > The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, "If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source community."
+The new rules have set off a firestorm in the comments, and even spurred the creation of a rival sub r/trueopensource. Moderator Wolvereness has waded into the comments to explain that there's nuance and room for selective enforcement, such as "software that incidentally has accessibility features that use AI," including  …
+Read the full story at The Verge.
 
 ### [ECOM] E-Commerce
 
-1. **OpenAI models are coming to Google Cloud** [E-COMMERCE]
-   - Source: OpenAI | Date: 21.10.2026
-   - Score: 49.3%
-   - [Read More](https://openai.com/index/openai-models-google-cloud)
-   > OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.
-
-2. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
-   - Source: etailment | Date: 25.10.2026
+1. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
+   - Source: etailment | Date: 26.10.2026
    - Score: 48.6%
    - [Read More](https://etailment.de)
    > Aktuelle Nachrichten, Analysen und Expertenmeinungen zu E-Commerce, Handel, Payment, Logistik und Marketing.
 
-### [PIM] PIM & Data Management
+2. **OpenAI models are coming to Google Cloud** [E-COMMERCE]
+   - Source: OpenAI | Date: 21.10.2026
+   - Score: 48.4%
+   - [Read More](https://openai.com/index/openai-models-google-cloud)
+   > OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.
 
-1. **RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns**
-   - Source: ArsTechnica | Date: 23.10.2026
-   - Score: 46.6%
-   - [Read More](https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/)
-   > "Trust is slow to build and quick to lose," board chair Jack Leslie said.
+### [AGENT] Agentic & Automation
+
+1. **Meet the AI Agents Trying to Be Real-Life Journalists**
+   - Source: Wired | Date: 26.10.2026
+   - Score: 47.0%
+   - [Read More](https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/)
+   > Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.
 
 ---
 
-*Generated by Zeitungsjunge • 25. Oktober 2026 09:29*
+*Generated by Zeitungsjunge • 26. Oktober 2026 10:38*
