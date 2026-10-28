@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 27. Oktober 2026 10:07
+**Generated:** 28. Oktober 2026 10:53
 
 ## Report: Today
 
@@ -8,42 +8,45 @@
 
 ### [TECH] Technology
 
-1. **AI delivers ‘zero financial payoff’ to most companies, Apollo economist says**
-   - Source: TechCrunch | Date: 25.10.2026
-   - Score: 52.6%
-   - [Read More](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
-   > "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."
+1. **UK Home Office May Face Investigation Over Use of OpenAI Tech**
+   - Source: Wired | Date: 27.10.2026
+   - Score: 51.3%
+   - [Read More](https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/)
+   > A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.
 
-2. **Google Fitbit Edge Review: I Still Prefer the Air (2026)**
-   - Source: Wired | Date: 26.10.2026
-   - Score: 49.0%
-   - [Read More](https://www.wired.com/review/google-fitbit-edge/)
-   > The Edge is a welcome upgrade for longtime Fitbit users, but the missing NFC technology is a puzzling regression.
+2. **Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace**
+   - Source: TechCrunch | Date: 27.10.2026
+   - Score: 50.8%
+   - [Read More](https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/)
+   > Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.
 
 ### [ECOM] E-Commerce
 
-1. **The RealReal won’t let AI agents hog designer clothing** [E-COMMERCE]
-   - Source: The Verge | Date: 26.10.2026
-   - Score: 52.4%
-   - [Read More](https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal)
-   > The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site.
-The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, an item goes "on hold" and is unavailable for other customers to buy for 20 minutes once it's placed in a user's shopping cart. Using Meta's Muse, The Verge was able to instruct the AI agent to continuously re-add The RealReal listings in a shopping cart as soon as the 20-minute hold had expired, effectively block …
-Read the full story at The Verge.
-
-2. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
-   - Source: etailment | Date: 27.10.2026
+1. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
+   - Source: etailment | Date: 28.10.2026
    - Score: 48.6%
    - [Read More](https://etailment.de)
    > Aktuelle Nachrichten, Analysen und Expertenmeinungen zu E-Commerce, Handel, Payment, Logistik und Marketing.
 
+### [PIM] PIM & Data Management
+
+1. **Here’s why the iPhone Duo’s hinge could be cracking the screen**
+   - Source: The Verge | Date: 27.10.2026
+   - Score: 50.1%
+   - [Read More](https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge)
+   > Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing on the right side of the display. On Monday, Apple acknowledged an "issue" and said it's replacing damaged units, without going into much detail about how many broken phones have been reported so far.
+So what's actually going on?
+Shahram Mokhtari, the lead teardown technician at iFixit, has actually taken apart the iPhone Duo and  …
+Read the full story at The Verge.
+
 ### [AGENT] Agentic & Automation
 
-1. **GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases**
-   - Source: OpenAI | Date: 26.10.2026
-   - Score: 49.3%
-   - [Read More](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security)
-   > CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.
+1. **Legora is building the agentic operating system for legal work**
+   - Source: OpenAI | Date: 28.10.2026
+   - Score: 55.0%
+   - [Read More](https://openai.com/index/legora-agentic-operating-system-for-legal-work)
+   > See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.
 
 ---
 
-*Generated by Zeitungsjunge • 27. Oktober 2026 10:07*
+*Generated by Zeitungsjunge • 28. Oktober 2026 10:53*
