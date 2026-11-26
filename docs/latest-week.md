@@ -1,6 +1,6 @@
 # Tech & E-Commerce Headlines
 
-**Generated:** 25. November 2026 15:08
+**Generated:** 26. November 2026 14:35
 
 ## Report: Last 7 Days
 
@@ -10,7 +10,7 @@
 
 1. **Richpanel helps companies automate 50% of support in 30 days**
    - Source: OpenAI | Date: 23.11.2026
-   - Score: 50.6%
+   - Score: 49.8%
    - [Read More](https://openai.com/business/customer-stories/richpanel-ai-customer-support)
    > Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.
 
@@ -18,32 +18,44 @@
 
 1. **Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty**
    - Source: TechCrunch | Date: 25.11.2026
-   - Score: 51.4%
+   - Score: 50.6%
    - [Read More](https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/)
    > Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.
 
-2. **Porsche 718 Boxster prototype drive: This electric roadster is real**
-   - Source: ArsTechnica | Date: 24.11.2026
-   - Score: 47.2%
-   - [Read More](https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/)
-   > Technical details are still limited, but we already know it's fun to drive.
-
 ### [ECOM] E-Commerce
 
-1. **Amazon is reportedly in talks to end Muse AI shopping block** [E-COMMERCE]
-   - Source: The Verge | Date: 25.11.2026
-   - Score: 55.5%
-   - [Read More](https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions)
-   > Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue.
-As reported by Fortune, Amazon is concerned that it could lose advertising revenue by allowing Muse on its site, since it depends on actual humans seeing ads across its online marketplace. It's also reportedly worried about the quality of the product search results that Muse will present to users, as well as whether the AI age …
-Read the full story at The Verge.
-
-2. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
-   - Source: etailment | Date: 25.11.2026
+1. **etailment – Das Fachmagazin für E-Commerce und Handel** [E-COMMERCE]
+   - Source: etailment | Date: 26.11.2026
    - Score: 48.6%
    - [Read More](https://etailment.de)
    > Aktuelle Nachrichten, Analysen und Expertenmeinungen zu E-Commerce, Handel, Payment, Logistik und Marketing.
 
+2. **Here’s where you can save (a little) on the Ocarina of Time remake** [E-COMMERCE]
+   - Source: The Verge | Date: 26.11.2026
+   - Score: 48.0%
+   - [Read More](https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale)
+   > The Nintendo Switch 2 remake delivers a complete graphical overhaul and numerous quality-of-life updates to the ‘98 classic. | Image: Nintendo	
+
+A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical and digital versions of the game. Costco members can currently grab the cartridge edition for $62.99, down from its regular price of $69.99 (it’s the only retailer currently discounting the physical version). Both Amazon and Costco are also selling the digital version for $54.99, a small $5 discount.
+The Legend of Zelda: Ocarina of Time
+
+Where to Buy:
+
+ $59.99 $54.99 at Amazon (Digital)
+ $69.99 $62.99 at Costco (Physical)
+
+Ocarina of Time is one of Nintendo’s most groundbreaking titles, having served as its first 3D Zelda game when it launched in 1998. Parts of the original game haven’t aged particularly well — namely some dungeon design and the game’s tricky 3D navigation, since there was only one analog stick at the time — which makes it tough for some to enjoy going back to play the N64 version. Thankfully, the Switch 2 remake introduces several fixes, a host of quality-of-life improvements, and, of course, some lovely visuals that make it a graphics powerhouse by today’s standards.
+If you go the digital route, a recent Switch 2 update lets you gift games to players in your family group. It doesn’t have to be your actual family, either, just up to eight people you designate as part of your group. The digital game will then appear gift-wrapped on their homescreen.
+Read our full Ocarina of Time review.
+
+### [AGENT] Agentic & Automation
+
+1. **Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains**
+   - Source: Wired | Date: 26.11.2026
+   - Score: 46.9%
+   - [Read More](https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/)
+   > The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.
+
 ---
 
-*Generated by Zeitungsjunge • 25. November 2026 15:08*
+*Generated by Zeitungsjunge • 26. November 2026 14:35*
